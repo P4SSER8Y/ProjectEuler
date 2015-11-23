@@ -1,4 +1,4 @@
-import json
+﻿import json
 import os
 
 class PEDB(object):
@@ -28,5 +28,7 @@ class PEDB(object):
         f.close()
     def getProblem(self, n):
         return self.db.get(str(n), None)
+    def getSolvedProblems(self):
+        return sorted([int(x) for x in self.db.keys() if self.db[x]['solved']])
     def __del__(self):
         self.writeFile()
