@@ -16,7 +16,7 @@ Language
 Engines
 -------
 
-+ PyRy 4.0.1 (Python 2.7)
++ PyPy 4.0.1 (Python 2.7)
 + gcc (with -O3 enabled)
 
 Requirements
@@ -35,7 +35,8 @@ db = PEDB()
 f = open('README.md', 'w')
 f.write(prefix)
 for x in db.getSolvedProblems():
-    f.write('+ ' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + '\n')
+    f.write('+ [' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')\n')
+    f.write('    - answer: ' + str(db.getProblem(x)['answer']) + ' \n')
     f.write('    - min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')
 f.flush()
 f.close()
