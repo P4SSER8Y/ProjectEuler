@@ -1,0 +1,2292 @@
+{
+    "344": {
+        "solved": false, 
+        "title": "Silver dollar game"
+    }, 
+    "345": {
+        "solved": false, 
+        "title": "Matrix Sum"
+    }, 
+    "346": {
+        "solved": false, 
+        "title": "Strong Repunits"
+    }, 
+    "347": {
+        "solved": false, 
+        "title": "Largest integer divisible by two primes"
+    }, 
+    "340": {
+        "solved": false, 
+        "title": "Crazy Function"
+    }, 
+    "341": {
+        "solved": false, 
+        "title": "Golomb's self-describing sequence"
+    }, 
+    "342": {
+        "solved": false, 
+        "title": "The totient of a square is a cube"
+    }, 
+    "343": {
+        "solved": false, 
+        "title": "Fractional Sequences"
+    }, 
+    "348": {
+        "solved": false, 
+        "title": "Sum of a square and a cube"
+    }, 
+    "349": {
+        "solved": false, 
+        "title": "Langton's ant"
+    }, 
+    "298": {
+        "solved": false, 
+        "title": "Selective Amnesia"
+    }, 
+    "299": {
+        "solved": false, 
+        "title": "Three similar triangles"
+    }, 
+    "296": {
+        "solved": false, 
+        "title": "Angular Bisector and Tangent"
+    }, 
+    "297": {
+        "solved": false, 
+        "title": "Zeckendorf Representation"
+    }, 
+    "294": {
+        "solved": false, 
+        "title": "Sum of digits - experience #23"
+    }, 
+    "295": {
+        "solved": false, 
+        "title": "Lenticular holes"
+    }, 
+    "292": {
+        "solved": false, 
+        "title": "Pythagorean Polygons"
+    }, 
+    "293": {
+        "solved": false, 
+        "title": "Pseudo-Fortunate Numbers"
+    }, 
+    "290": {
+        "solved": false, 
+        "title": "Digital Signature"
+    }, 
+    "291": {
+        "solved": false, 
+        "title": "Panaitopol Primes"
+    }, 
+    "199": {
+        "solved": false, 
+        "title": "Iterative Circle Packing"
+    }, 
+    "198": {
+        "solved": false, 
+        "title": "Ambiguous Numbers"
+    }, 
+    "195": {
+        "solved": false, 
+        "title": "Inscribed circles of triangles with one angle of 60 degrees"
+    }, 
+    "194": {
+        "solved": false, 
+        "title": "Coloured Configurations"
+    }, 
+    "197": {
+        "solved": false, 
+        "title": "Investigating the behaviour of a recursively defined sequence"
+    }, 
+    "196": {
+        "solved": false, 
+        "title": "Prime triplets"
+    }, 
+    "191": {
+        "solved": false, 
+        "title": "Prize Strings"
+    }, 
+    "190": {
+        "solved": false, 
+        "title": "Maximising a weighted product"
+    }, 
+    "193": {
+        "solved": false, 
+        "title": "Squarefree Numbers"
+    }, 
+    "192": {
+        "solved": false, 
+        "title": "Best Approximations"
+    }, 
+    "270": {
+        "solved": false, 
+        "title": "Cutting Squares"
+    }, 
+    "271": {
+        "solved": false, 
+        "title": "Modular Cubes, part 1"
+    }, 
+    "272": {
+        "solved": false, 
+        "title": "Modular Cubes, part 2"
+    }, 
+    "273": {
+        "solved": false, 
+        "title": "Sum of Squares"
+    }, 
+    "274": {
+        "solved": false, 
+        "title": "Divisibility Multipliers"
+    }, 
+    "275": {
+        "solved": false, 
+        "title": "Balanced Sculptures"
+    }, 
+    "276": {
+        "solved": false, 
+        "title": "Primitive Triangles"
+    }, 
+    "277": {
+        "solved": false, 
+        "title": "A Modified Collatz sequence"
+    }, 
+    "278": {
+        "solved": false, 
+        "title": "Linear Combinations of Semiprimes"
+    }, 
+    "279": {
+        "solved": false, 
+        "title": "Triangles with integral sides and an integral angle "
+    }, 
+    "524": {
+        "solved": false, 
+        "title": "First Sort II"
+    }, 
+    "525": {
+        "solved": false, 
+        "title": "Rolling Ellipse"
+    }, 
+    "526": {
+        "solved": false, 
+        "title": "Largest prime factors of consecutive numbers"
+    }, 
+    "527": {
+        "solved": false, 
+        "title": "Randomized Binary Search"
+    }, 
+    "520": {
+        "solved": false, 
+        "title": "Simbers"
+    }, 
+    "521": {
+        "solved": false, 
+        "title": "Smallest prime factor"
+    }, 
+    "522": {
+        "solved": false, 
+        "title": "Hilbert's Blackout"
+    }, 
+    "523": {
+        "solved": false, 
+        "title": "First Sort I"
+    }, 
+    "528": {
+        "solved": false, 
+        "title": "Constrained Sums"
+    }, 
+    "529": {
+        "solved": false, 
+        "title": "10-substrings"
+    }, 
+    "449": {
+        "solved": false, 
+        "title": "Chocolate covered candy"
+    }, 
+    "448": {
+        "solved": false, 
+        "title": "Average least common multiple"
+    }, 
+    "443": {
+        "solved": false, 
+        "title": "GCD sequence"
+    }, 
+    "442": {
+        "solved": false, 
+        "title": "Eleven-free integers"
+    }, 
+    "441": {
+        "solved": false, 
+        "title": "The inverse summation of coprime couples"
+    }, 
+    "440": {
+        "solved": false, 
+        "title": "GCD and Tiling"
+    }, 
+    "447": {
+        "solved": false, 
+        "title": "Retractions C"
+    }, 
+    "446": {
+        "solved": false, 
+        "title": "Retractions B"
+    }, 
+    "445": {
+        "solved": false, 
+        "title": "Retractions A"
+    }, 
+    "444": {
+        "solved": false, 
+        "title": "The Roundtable Lottery"
+    }, 
+    "108": {
+        "solved": false, 
+        "title": "Diophantine reciprocals I"
+    }, 
+    "109": {
+        "solved": false, 
+        "title": "Darts"
+    }, 
+    "102": {
+        "solved": false, 
+        "title": "Triangle containment"
+    }, 
+    "103": {
+        "solved": false, 
+        "title": "Special subset sums: optimum"
+    }, 
+    "100": {
+        "solved": false, 
+        "title": "Arranged probability"
+    }, 
+    "101": {
+        "solved": false, 
+        "title": "Optimum polynomial"
+    }, 
+    "106": {
+        "solved": false, 
+        "title": "Special subset sums: meta-testing"
+    }, 
+    "107": {
+        "solved": false, 
+        "title": "Minimal network"
+    }, 
+    "104": {
+        "solved": false, 
+        "title": "Pandigital Fibonacci ends"
+    }, 
+    "105": {
+        "solved": false, 
+        "title": "Special subset sums: testing"
+    }, 
+    "39": {
+        "answer": "840", 
+        "solved": true, 
+        "time": 136, 
+        "title": "Integer right triangles"
+    }, 
+    "38": {
+        "answer": "932718654", 
+        "solved": true, 
+        "time": 43, 
+        "title": "Pandigital multiples"
+    }, 
+    "33": {
+        "answer": "1/100", 
+        "solved": true, 
+        "time": 143, 
+        "title": "Digit cancelling fractions"
+    }, 
+    "32": {
+        "answer": "45228", 
+        "solved": true, 
+        "time": 162, 
+        "title": "Pandigital products"
+    }, 
+    "31": {
+        "answer": "73682", 
+        "solved": true, 
+        "time": 6, 
+        "title": "Coin sums"
+    }, 
+    "30": {
+        "answer": "443839", 
+        "solved": true, 
+        "time": 153, 
+        "title": "Digit fifth powers"
+    }, 
+    "37": {
+        "answer": "748317", 
+        "solved": true, 
+        "time": 215, 
+        "title": "Truncatable primes"
+    }, 
+    "36": {
+        "answer": "872187", 
+        "solved": true, 
+        "time": 375, 
+        "title": "Double-base palindromes"
+    }, 
+    "35": {
+        "answer": "55", 
+        "solved": true, 
+        "time": 885, 
+        "title": "Circular primes"
+    }, 
+    "34": {
+        "answer": "40730", 
+        "solved": true, 
+        "time": 1384, 
+        "title": "Digit factorials"
+    }, 
+    "438": {
+        "solved": false, 
+        "title": "Integer part of polynomial equation's solutions"
+    }, 
+    "439": {
+        "solved": false, 
+        "title": "Sum of sum of divisors"
+    }, 
+    "436": {
+        "solved": false, 
+        "title": "Unfair wager"
+    }, 
+    "437": {
+        "solved": false, 
+        "title": "Fibonacci primitive roots"
+    }, 
+    "434": {
+        "solved": false, 
+        "title": "Rigid graphs"
+    }, 
+    "435": {
+        "solved": false, 
+        "title": "Polynomials of Fibonacci numbers"
+    }, 
+    "432": {
+        "solved": false, 
+        "title": "Totient sum"
+    }, 
+    "433": {
+        "solved": false, 
+        "title": "Steps in Euclid's algorithm"
+    }, 
+    "430": {
+        "solved": false, 
+        "title": "Range flips"
+    }, 
+    "431": {
+        "solved": false, 
+        "title": "Square Space Silo"
+    }, 
+    "339": {
+        "solved": false, 
+        "title": "Peredur fab Efrawg"
+    }, 
+    "338": {
+        "solved": false, 
+        "title": "Cutting Rectangular Grid Paper"
+    }, 
+    "335": {
+        "solved": false, 
+        "title": "Gathering the beans"
+    }, 
+    "334": {
+        "solved": false, 
+        "title": "Spilling the beans"
+    }, 
+    "337": {
+        "solved": false, 
+        "title": "Totient Stairstep Sequences"
+    }, 
+    "336": {
+        "solved": false, 
+        "title": "Maximix Arrangements"
+    }, 
+    "331": {
+        "solved": false, 
+        "title": "Cross flips"
+    }, 
+    "330": {
+        "solved": false, 
+        "title": "Euler's Number"
+    }, 
+    "333": {
+        "solved": false, 
+        "title": "Special partitions"
+    }, 
+    "332": {
+        "solved": false, 
+        "title": "Spherical triangles"
+    }, 
+    "6": {
+        "answer": "25164150", 
+        "solved": true, 
+        "time": 0, 
+        "title": "Sum square difference"
+    }, 
+    "99": {
+        "solved": false, 
+        "title": "Largest exponential"
+    }, 
+    "98": {
+        "solved": false, 
+        "title": "Anagramic squares"
+    }, 
+    "91": {
+        "solved": false, 
+        "title": "Right triangles with integer coordinates"
+    }, 
+    "90": {
+        "solved": false, 
+        "title": "Cube digit pairs"
+    }, 
+    "93": {
+        "solved": false, 
+        "title": "Arithmetic expressions"
+    }, 
+    "92": {
+        "answer": "8581146", 
+        "solved": true, 
+        "time": 3297, 
+        "title": "Square digit chains"
+    }, 
+    "95": {
+        "solved": false, 
+        "title": "Amicable chains"
+    }, 
+    "94": {
+        "solved": false, 
+        "title": "Almost equilateral triangles"
+    }, 
+    "97": {
+        "answer": "8739992577", 
+        "solved": true, 
+        "time": 0, 
+        "title": "Large non-Mersenne prime"
+    }, 
+    "96": {
+        "solved": false, 
+        "title": "Su Doku"
+    }, 
+    "238": {
+        "solved": false, 
+        "title": "Infinite string tour"
+    }, 
+    "239": {
+        "solved": false, 
+        "title": "Twenty-two Foolish Primes"
+    }, 
+    "234": {
+        "solved": false, 
+        "title": "Semidivisible numbers"
+    }, 
+    "235": {
+        "solved": false, 
+        "title": "An Arithmetic Geometric sequence"
+    }, 
+    "236": {
+        "solved": false, 
+        "title": "Luxury Hampers"
+    }, 
+    "237": {
+        "solved": false, 
+        "title": "Tours on a 4 x n playing board"
+    }, 
+    "230": {
+        "solved": false, 
+        "title": "Fibonacci Words"
+    }, 
+    "231": {
+        "solved": false, 
+        "title": "The prime factorisation of binomial coefficients"
+    }, 
+    "232": {
+        "solved": false, 
+        "title": "The Race"
+    }, 
+    "233": {
+        "solved": false, 
+        "title": "Lattice points on a circle"
+    }, 
+    "1": {
+        "answer": "233168", 
+        "solved": true, 
+        "time": 0, 
+        "title": "Multiples of 3 and 5"
+    }, 
+    "146": {
+        "solved": false, 
+        "title": "Investigating a Prime Pattern "
+    }, 
+    "147": {
+        "solved": false, 
+        "title": "Rectangles in cross-hatched grids"
+    }, 
+    "144": {
+        "solved": false, 
+        "title": "Investigating multiple reflections of a laser beam"
+    }, 
+    "145": {
+        "solved": false, 
+        "title": "How many reversible numbers are there below one-billion?"
+    }, 
+    "142": {
+        "solved": false, 
+        "title": "Perfect Square Collection"
+    }, 
+    "143": {
+        "solved": false, 
+        "title": "Investigating the Torricelli point of a triangle"
+    }, 
+    "140": {
+        "solved": false, 
+        "title": "Modified Fibonacci golden nuggets"
+    }, 
+    "141": {
+        "solved": false, 
+        "title": "Investigating progressive numbers, n, which are also square"
+    }, 
+    "148": {
+        "solved": false, 
+        "title": "Exploring Pascal's triangle"
+    }, 
+    "149": {
+        "solved": false, 
+        "title": "Searching for a maximum-sum subsequence"
+    }, 
+    "133": {
+        "solved": false, 
+        "title": "Repunit nonfactors"
+    }, 
+    "132": {
+        "solved": false, 
+        "title": "Large repunit factors"
+    }, 
+    "131": {
+        "solved": false, 
+        "title": "Prime cube partnership"
+    }, 
+    "130": {
+        "solved": false, 
+        "title": "Composites with prime repunit property"
+    }, 
+    "137": {
+        "solved": false, 
+        "title": "Fibonacci golden nuggets"
+    }, 
+    "136": {
+        "solved": false, 
+        "title": "Singleton difference"
+    }, 
+    "135": {
+        "solved": false, 
+        "title": "Same differences"
+    }, 
+    "134": {
+        "solved": false, 
+        "title": "Prime pair connection"
+    }, 
+    "494": {
+        "solved": false, 
+        "title": "Collatz prefix families"
+    }, 
+    "495": {
+        "solved": false, 
+        "title": "Writing n as the product of k distinct positive integers"
+    }, 
+    "139": {
+        "solved": false, 
+        "title": "Pythagorean tiles"
+    }, 
+    "138": {
+        "solved": false, 
+        "title": "Special isosceles triangles"
+    }, 
+    "490": {
+        "solved": false, 
+        "title": "Jumping frog"
+    }, 
+    "491": {
+        "solved": false, 
+        "title": "Double pandigital number divisible by 11"
+    }, 
+    "492": {
+        "solved": false, 
+        "title": "Exploding sequence"
+    }, 
+    "493": {
+        "solved": false, 
+        "title": "Under The Rainbow"
+    }, 
+    "24": {
+        "answer": "2783915460", 
+        "solved": true, 
+        "time": 836, 
+        "title": "Lexicographic permutations"
+    }, 
+    "25": {
+        "answer": "4782", 
+        "solved": true, 
+        "time": 369, 
+        "title": "1000-digit Fibonacci number"
+    }, 
+    "26": {
+        "answer": "983", 
+        "solved": true, 
+        "time": 24, 
+        "title": "Reciprocal cycles"
+    }, 
+    "27": {
+        "answer": "-59231", 
+        "solved": true, 
+        "time": 1026, 
+        "title": "Quadratic primes"
+    }, 
+    "20": {
+        "answer": "648", 
+        "solved": true, 
+        "time": 0, 
+        "title": "Factorial digit sum"
+    }, 
+    "21": {
+        "answer": "31626", 
+        "solved": true, 
+        "time": 440, 
+        "title": "Amicable numbers"
+    }, 
+    "22": {
+        "answer": "871198282", 
+        "solved": true, 
+        "time": 51, 
+        "title": "Names scores"
+    }, 
+    "23": {
+        "answer": "4179871", 
+        "solved": true, 
+        "time": 1072, 
+        "title": "Non-abundant sums"
+    }, 
+    "28": {
+        "answer": "669171001", 
+        "solved": true, 
+        "time": 2, 
+        "title": "Number spiral diagonals"
+    }, 
+    "29": {
+        "answer": "9183", 
+        "solved": true, 
+        "time": 26, 
+        "title": "Distinct powers"
+    }, 
+    "407": {
+        "solved": false, 
+        "title": "Idempotents"
+    }, 
+    "406": {
+        "solved": false, 
+        "title": "Guessing Game"
+    }, 
+    "405": {
+        "solved": false, 
+        "title": "A rectangular tiling"
+    }, 
+    "404": {
+        "solved": false, 
+        "title": "Crisscross Ellipses"
+    }, 
+    "403": {
+        "solved": false, 
+        "title": "Lattice points enclosed by parabola and line"
+    }, 
+    "402": {
+        "solved": false, 
+        "title": "Integer-valued polynomials"
+    }, 
+    "401": {
+        "solved": false, 
+        "title": "Sum of squares of divisors"
+    }, 
+    "400": {
+        "solved": false, 
+        "title": "Fibonacci tree game"
+    }, 
+    "409": {
+        "solved": false, 
+        "title": "Nim Extreme"
+    }, 
+    "408": {
+        "solved": false, 
+        "title": "Admissible paths through a grid"
+    }, 
+    "379": {
+        "solved": false, 
+        "title": "Least common multiple count"
+    }, 
+    "378": {
+        "solved": false, 
+        "title": "Triangle Triples"
+    }, 
+    "371": {
+        "solved": false, 
+        "title": "Licence plates"
+    }, 
+    "370": {
+        "solved": false, 
+        "title": "Geometric triangles"
+    }, 
+    "373": {
+        "solved": false, 
+        "title": "Circumscribed Circles"
+    }, 
+    "372": {
+        "solved": false, 
+        "title": "Pencils of rays"
+    }, 
+    "375": {
+        "solved": false, 
+        "title": "Minimum of subsequences"
+    }, 
+    "374": {
+        "solved": false, 
+        "title": "Maximum Integer Partition Product"
+    }, 
+    "377": {
+        "solved": false, 
+        "title": "Sum of digits, experience 13"
+    }, 
+    "376": {
+        "solved": false, 
+        "title": "Nontransitive sets of dice"
+    }, 
+    "393": {
+        "solved": false, 
+        "title": "Migrating ants"
+    }, 
+    "392": {
+        "solved": false, 
+        "title": "Enmeshed unit circle"
+    }, 
+    "88": {
+        "solved": false, 
+        "title": "Product-sum numbers"
+    }, 
+    "89": {
+        "solved": false, 
+        "title": "Roman numerals"
+    }, 
+    "397": {
+        "solved": false, 
+        "title": "Triangle on parabola"
+    }, 
+    "396": {
+        "solved": false, 
+        "title": "Weak Goodstein sequence"
+    }, 
+    "395": {
+        "solved": false, 
+        "title": "Pythagorean tree"
+    }, 
+    "394": {
+        "solved": false, 
+        "title": "Eating pie"
+    }, 
+    "82": {
+        "solved": false, 
+        "title": "Path sum: three ways"
+    }, 
+    "181": {
+        "solved": false, 
+        "title": "Investigating in how many ways objects of two different colours can be grouped"
+    }, 
+    "80": {
+        "solved": false, 
+        "title": "Square root digital expansion"
+    }, 
+    "81": {
+        "solved": false, 
+        "title": "Path sum: two ways"
+    }, 
+    "86": {
+        "solved": false, 
+        "title": "Cuboid route"
+    }, 
+    "87": {
+        "answer": "1097343", 
+        "solved": true, 
+        "time": 37191, 
+        "title": "Prime power triples"
+    }, 
+    "84": {
+        "solved": false, 
+        "title": "Monopoly odds"
+    }, 
+    "85": {
+        "solved": false, 
+        "title": "Counting rectangles"
+    }, 
+    "7": {
+        "answer": "104743", 
+        "solved": true, 
+        "time": 378, 
+        "title": "10001st prime"
+    }, 
+    "245": {
+        "solved": false, 
+        "title": "Coresilience"
+    }, 
+    "244": {
+        "solved": false, 
+        "title": "Sliders"
+    }, 
+    "247": {
+        "solved": false, 
+        "title": "Squares under a hyperbola"
+    }, 
+    "246": {
+        "solved": false, 
+        "title": "Tangents to an ellipse"
+    }, 
+    "241": {
+        "solved": false, 
+        "title": "Perfection Quotients"
+    }, 
+    "240": {
+        "solved": false, 
+        "title": "Top Dice"
+    }, 
+    "243": {
+        "solved": false, 
+        "title": "Resilience"
+    }, 
+    "242": {
+        "solved": false, 
+        "title": "Odd Triplets"
+    }, 
+    "249": {
+        "solved": false, 
+        "title": "Prime Subset Sums"
+    }, 
+    "248": {
+        "solved": false, 
+        "title": "Numbers for which Euler\u2019s totient function equals 13!"
+    }, 
+    "519": {
+        "solved": false, 
+        "title": "Tricolored Coin Fountains"
+    }, 
+    "518": {
+        "solved": false, 
+        "title": "Prime triples and geometric sequences"
+    }, 
+    "511": {
+        "solved": false, 
+        "title": "Sequences with nice divisibility properties"
+    }, 
+    "510": {
+        "solved": false, 
+        "title": "Tangent Circles"
+    }, 
+    "513": {
+        "solved": false, 
+        "title": "Integral median"
+    }, 
+    "512": {
+        "solved": false, 
+        "title": "Sums of totients of powers"
+    }, 
+    "515": {
+        "solved": false, 
+        "title": "Dissonant Numbers"
+    }, 
+    "514": {
+        "solved": false, 
+        "title": "Geoboard Shapes"
+    }, 
+    "517": {
+        "solved": false, 
+        "title": "A real recursion"
+    }, 
+    "516": {
+        "solved": false, 
+        "title": "5-smooth totients"
+    }, 
+    "458": {
+        "solved": false, 
+        "title": "Permutations of Project"
+    }, 
+    "459": {
+        "solved": false, 
+        "title": "Flipping game"
+    }, 
+    "450": {
+        "solved": false, 
+        "title": "Hypocycloid and Lattice points"
+    }, 
+    "451": {
+        "solved": false, 
+        "title": "Modular inverses"
+    }, 
+    "452": {
+        "solved": false, 
+        "title": "Long Products"
+    }, 
+    "453": {
+        "solved": false, 
+        "title": "Lattice Quadrilaterals"
+    }, 
+    "454": {
+        "solved": false, 
+        "title": "Diophantine reciprocals III"
+    }, 
+    "455": {
+        "solved": false, 
+        "title": "Powers With Trailing Digits"
+    }, 
+    "456": {
+        "solved": false, 
+        "title": "Triangles containing the origin II"
+    }, 
+    "457": {
+        "solved": false, 
+        "title": "A polynomial modulo the square of a prime"
+    }, 
+    "179": {
+        "solved": false, 
+        "title": "Consecutive positive divisors"
+    }, 
+    "178": {
+        "solved": false, 
+        "title": "Step Numbers"
+    }, 
+    "177": {
+        "solved": false, 
+        "title": "Integer angled Quadrilaterals"
+    }, 
+    "176": {
+        "solved": false, 
+        "title": "Right-angled triangles that share a cathetus"
+    }, 
+    "175": {
+        "solved": false, 
+        "title": "Fractions involving the number of different ways a number can be expressed as a sum of powers of 2"
+    }, 
+    "174": {
+        "solved": false, 
+        "title": "Counting the number of \"hollow\" square laminae that can form one, two, three, ... distinct arrangements"
+    }, 
+    "173": {
+        "solved": false, 
+        "title": "Using up to one million tiles how many different \"hollow\" square laminae can be formed?"
+    }, 
+    "172": {
+        "solved": false, 
+        "title": "Investigating numbers with few repeated digits"
+    }, 
+    "171": {
+        "solved": false, 
+        "title": "Finding numbers for which the sum of the squares of the digits is a square"
+    }, 
+    "170": {
+        "solved": false, 
+        "title": "Find the largest 0 to 9 pandigital that can be formed by concatenating products"
+    }, 
+    "182": {
+        "solved": false, 
+        "title": "RSA encryption"
+    }, 
+    "183": {
+        "solved": false, 
+        "title": "Maximum product of parts"
+    }, 
+    "180": {
+        "solved": false, 
+        "title": "Rational zeros of a function of three variables"
+    }, 
+    "2": {
+        "answer": "4613732", 
+        "solved": true, 
+        "time": 0, 
+        "title": "Even Fibonacci numbers"
+    }, 
+    "186": {
+        "solved": false, 
+        "title": "Connectedness of a network"
+    }, 
+    "187": {
+        "solved": false, 
+        "title": "Semiprimes"
+    }, 
+    "184": {
+        "solved": false, 
+        "title": "Triangles containing the origin"
+    }, 
+    "185": {
+        "solved": false, 
+        "title": "Number Mind"
+    }, 
+    "188": {
+        "solved": false, 
+        "title": "The hyperexponentiation of a number"
+    }, 
+    "189": {
+        "solved": false, 
+        "title": "Tri-colouring a triangular grid"
+    }, 
+    "11": {
+        "answer": "70600674", 
+        "solved": true, 
+        "time": 38, 
+        "title": "Largest product in a grid"
+    }, 
+    "10": {
+        "answer": "142913828922", 
+        "solved": true, 
+        "time": 75, 
+        "title": "Summation of primes"
+    }, 
+    "13": {
+        "answer": "5537376230390876637302048746832985971773659831892672", 
+        "solved": true, 
+        "time": 0, 
+        "title": "Large sum"
+    }, 
+    "12": {
+        "answer": "76576500", 
+        "solved": true, 
+        "time": 163, 
+        "title": "Highly divisible triangular number"
+    }, 
+    "15": {
+        "answer": "137846528820", 
+        "solved": true, 
+        "time": 2, 
+        "title": "Lattice paths"
+    }, 
+    "14": {
+        "answer": "837799", 
+        "solved": true, 
+        "time": 2285, 
+        "title": "Longest Collatz sequence"
+    }, 
+    "17": {
+        "answer": "21124", 
+        "solved": true, 
+        "time": 20, 
+        "title": "Number letter counts"
+    }, 
+    "16": {
+        "answer": "1366", 
+        "solved": true, 
+        "time": 0, 
+        "title": "Power digit sum"
+    }, 
+    "19": {
+        "answer": "171", 
+        "solved": true, 
+        "time": 42, 
+        "title": "Counting Sundays"
+    }, 
+    "18": {
+        "answer": "1074", 
+        "solved": true, 
+        "time": 0, 
+        "title": "Maximum path sum I"
+    }, 
+    "322": {
+        "solved": false, 
+        "title": "Binomial coefficients divisible by 10"
+    }, 
+    "323": {
+        "solved": false, 
+        "title": "Bitwise-OR operations on random integers"
+    }, 
+    "320": {
+        "solved": false, 
+        "title": "Factorials divisible by a huge integer"
+    }, 
+    "321": {
+        "solved": false, 
+        "title": "Swapping Counters"
+    }, 
+    "326": {
+        "solved": false, 
+        "title": "Modulo Summations"
+    }, 
+    "327": {
+        "solved": false, 
+        "title": "Rooms of Doom"
+    }, 
+    "324": {
+        "solved": false, 
+        "title": "Building a tower"
+    }, 
+    "325": {
+        "solved": false, 
+        "title": "Stone Game II"
+    }, 
+    "328": {
+        "solved": false, 
+        "title": "Lowest-cost Search"
+    }, 
+    "329": {
+        "solved": false, 
+        "title": "Prime Frog"
+    }, 
+    "201": {
+        "solved": false, 
+        "title": "Subsets with a unique sum"
+    }, 
+    "200": {
+        "solved": false, 
+        "title": "Find the 200th prime-proof sqube containing the contiguous sub-string \"200\""
+    }, 
+    "203": {
+        "solved": false, 
+        "title": "Squarefree Binomial Coefficients"
+    }, 
+    "202": {
+        "solved": false, 
+        "title": "Laserbeam"
+    }, 
+    "205": {
+        "answer": "('48679795/84934656', 0.5731440767829801)", 
+        "solved": true, 
+        "time": 68, 
+        "title": "Dice Game"
+    }, 
+    "204": {
+        "solved": false, 
+        "title": "Generalised Hamming Numbers"
+    }, 
+    "207": {
+        "solved": false, 
+        "title": "Integer partition equations"
+    }, 
+    "206": {
+        "answer": "1389019170", 
+        "solved": true, 
+        "time": 296076, 
+        "title": "Concealed Square"
+    }, 
+    "209": {
+        "solved": false, 
+        "title": "Circular Logic"
+    }, 
+    "208": {
+        "solved": false, 
+        "title": "Robot Walks"
+    }, 
+    "77": {
+        "solved": false, 
+        "title": "Prime summations"
+    }, 
+    "76": {
+        "answer": "190569291", 
+        "solved": true, 
+        "time": 16, 
+        "title": "Counting summations"
+    }, 
+    "75": {
+        "solved": false, 
+        "title": "Singular integer right triangles"
+    }, 
+    "74": {
+        "answer": "402", 
+        "solved": true, 
+        "time": 5113, 
+        "title": "Digit factorial chains"
+    }, 
+    "73": {
+        "solved": false, 
+        "title": "Counting fractions in a range"
+    }, 
+    "72": {
+        "solved": false, 
+        "title": "Counting fractions"
+    }, 
+    "71": {
+        "solved": false, 
+        "title": "Ordered fractions"
+    }, 
+    "70": {
+        "answer": "8319823", 
+        "solved": true, 
+        "time": 179, 
+        "title": "Totient permutation"
+    }, 
+    "79": {
+        "answer": "['73162890']", 
+        "solved": true, 
+        "time": 22, 
+        "title": "Passcode derivation"
+    }, 
+    "78": {
+        "solved": false, 
+        "title": "Coin partitions"
+    }, 
+    "8": {
+        "answer": "23514624000", 
+        "solved": true, 
+        "time": 18, 
+        "title": "Largest product in a series"
+    }, 
+    "120": {
+        "solved": false, 
+        "title": "Square remainders"
+    }, 
+    "121": {
+        "solved": false, 
+        "title": "Disc game prize fund"
+    }, 
+    "122": {
+        "solved": false, 
+        "title": "Efficient exponentiation"
+    }, 
+    "123": {
+        "solved": false, 
+        "title": "Prime square remainders"
+    }, 
+    "124": {
+        "solved": false, 
+        "title": "Ordered radicals"
+    }, 
+    "125": {
+        "solved": false, 
+        "title": "Palindromic sums"
+    }, 
+    "126": {
+        "solved": false, 
+        "title": "Cuboid layers"
+    }, 
+    "127": {
+        "solved": false, 
+        "title": "abc-hits"
+    }, 
+    "128": {
+        "solved": false, 
+        "title": "Hexagonal tile differences"
+    }, 
+    "129": {
+        "solved": false, 
+        "title": "Repunit divisibility"
+    }, 
+    "414": {
+        "solved": false, 
+        "title": "Kaprekar constant"
+    }, 
+    "415": {
+        "solved": false, 
+        "title": "Titanic sets"
+    }, 
+    "416": {
+        "solved": false, 
+        "title": "A frog's trip"
+    }, 
+    "417": {
+        "solved": false, 
+        "title": "Reciprocal cycles II"
+    }, 
+    "410": {
+        "solved": false, 
+        "title": "Circle and tangent line"
+    }, 
+    "411": {
+        "solved": false, 
+        "title": "Uphill paths"
+    }, 
+    "412": {
+        "solved": false, 
+        "title": "Gnomon numbering"
+    }, 
+    "413": {
+        "solved": false, 
+        "title": "One-child Numbers"
+    }, 
+    "498": {
+        "solved": false, 
+        "title": "Remainder of polynomial division"
+    }, 
+    "418": {
+        "solved": false, 
+        "title": "Factorisation triples"
+    }, 
+    "419": {
+        "solved": false, 
+        "title": "Look and say sequence"
+    }, 
+    "499": {
+        "solved": false, 
+        "title": "St. Petersburg Lottery"
+    }, 
+    "319": {
+        "solved": false, 
+        "title": "Bounded Sequences"
+    }, 
+    "318": {
+        "solved": false, 
+        "title": "2011 nines"
+    }, 
+    "313": {
+        "solved": false, 
+        "title": "Sliding game"
+    }, 
+    "312": {
+        "solved": false, 
+        "title": "Cyclic paths on Sierpi\u0144ski graphs"
+    }, 
+    "311": {
+        "solved": false, 
+        "title": "Biclinic Integral Quadrilaterals"
+    }, 
+    "310": {
+        "solved": false, 
+        "title": "Nim Square"
+    }, 
+    "317": {
+        "solved": false, 
+        "title": "Firecracker"
+    }, 
+    "316": {
+        "solved": false, 
+        "title": "Numbers in decimal expansions"
+    }, 
+    "315": {
+        "solved": false, 
+        "title": "Digital root clocks"
+    }, 
+    "314": {
+        "solved": false, 
+        "title": "The Mouse on the Moon"
+    }, 
+    "496": {
+        "solved": false, 
+        "title": "Incenter and circumcenter of triangle"
+    }, 
+    "497": {
+        "solved": false, 
+        "title": "Drunken Tower of Hanoi"
+    }, 
+    "3": {
+        "answer": "6857", 
+        "solved": true, 
+        "time": 46, 
+        "title": "Largest prime factor"
+    }, 
+    "368": {
+        "solved": false, 
+        "title": "A Kempner-like series"
+    }, 
+    "369": {
+        "solved": false, 
+        "title": "Badugi"
+    }, 
+    "366": {
+        "solved": false, 
+        "title": "Stone Game III"
+    }, 
+    "367": {
+        "solved": false, 
+        "title": "Bozo sort"
+    }, 
+    "364": {
+        "solved": false, 
+        "title": "Comfortable distance"
+    }, 
+    "365": {
+        "solved": false, 
+        "title": "A huge binomial coefficient"
+    }, 
+    "362": {
+        "solved": false, 
+        "title": "Squarefree factors"
+    }, 
+    "363": {
+        "solved": false, 
+        "title": "B\u00e9zier Curves"
+    }, 
+    "360": {
+        "solved": false, 
+        "title": "Scary Sphere"
+    }, 
+    "361": {
+        "solved": false, 
+        "title": "Subsequence of Thue-Morse sequence"
+    }, 
+    "380": {
+        "solved": false, 
+        "title": "Amazing Mazes!"
+    }, 
+    "381": {
+        "solved": false, 
+        "title": "(prime-k) factorial"
+    }, 
+    "382": {
+        "solved": false, 
+        "title": "Generating polygons"
+    }, 
+    "383": {
+        "solved": false, 
+        "title": "Divisibility comparison between factorials"
+    }, 
+    "384": {
+        "solved": false, 
+        "title": "Rudin-Shapiro sequence"
+    }, 
+    "385": {
+        "solved": false, 
+        "title": "Ellipses inside triangles"
+    }, 
+    "386": {
+        "solved": false, 
+        "title": "Maximum length of an antichain"
+    }, 
+    "387": {
+        "solved": false, 
+        "title": "Harshad Numbers"
+    }, 
+    "388": {
+        "solved": false, 
+        "title": "Distinct Lines"
+    }, 
+    "389": {
+        "solved": false, 
+        "title": "Platonic Dice"
+    }, 
+    "60": {
+        "solved": false, 
+        "title": "Prime pair sets"
+    }, 
+    "61": {
+        "answer": "28684", 
+        "solved": true, 
+        "time": 28, 
+        "title": "Cyclical figurate numbers"
+    }, 
+    "62": {
+        "solved": false, 
+        "title": "Cubic permutations"
+    }, 
+    "259": {
+        "solved": false, 
+        "title": "Reachable Numbers"
+    }, 
+    "64": {
+        "answer": "1322", 
+        "solved": true, 
+        "time": 315, 
+        "title": "Odd period square roots"
+    }, 
+    "65": {
+        "answer": "272", 
+        "solved": true, 
+        "time": 30, 
+        "title": "Convergents of e"
+    }, 
+    "66": {
+        "answer": "661", 
+        "solved": true, 
+        "time": 920, 
+        "title": "Diophantine equation"
+    }, 
+    "67": {
+        "answer": "7273", 
+        "solved": true, 
+        "time": 21, 
+        "title": "Maximum path sum II"
+    }, 
+    "68": {
+        "solved": false, 
+        "title": "Magic 5-gon ring"
+    }, 
+    "253": {
+        "solved": false, 
+        "title": "Tidying up"
+    }, 
+    "250": {
+        "solved": false, 
+        "title": "250250"
+    }, 
+    "251": {
+        "solved": false, 
+        "title": "Cardano Triplets"
+    }, 
+    "256": {
+        "solved": false, 
+        "title": "Tatami-Free Rooms"
+    }, 
+    "257": {
+        "solved": false, 
+        "title": "Angular Bisectors"
+    }, 
+    "254": {
+        "solved": false, 
+        "title": "Sums of Digit Factorials"
+    }, 
+    "255": {
+        "solved": false, 
+        "title": "Rounded Square Roots"
+    }, 
+    "508": {
+        "solved": false, 
+        "title": "Integers in base i-1"
+    }, 
+    "509": {
+        "solved": false, 
+        "title": "Divisor Nim"
+    }, 
+    "506": {
+        "solved": false, 
+        "title": "Clock sequence"
+    }, 
+    "507": {
+        "solved": false, 
+        "title": "Shortest Lattice Vector"
+    }, 
+    "504": {
+        "solved": false, 
+        "title": "Square on the Inside"
+    }, 
+    "505": {
+        "solved": false, 
+        "title": "Bidirectional Recurrence"
+    }, 
+    "502": {
+        "solved": false, 
+        "title": "Counting Castles"
+    }, 
+    "503": {
+        "solved": false, 
+        "title": "Compromise or persist"
+    }, 
+    "500": {
+        "solved": false, 
+        "title": "Problem 500!!!"
+    }, 
+    "501": {
+        "solved": false, 
+        "title": "Eight Divisors"
+    }, 
+    "469": {
+        "solved": false, 
+        "title": "Empty chairs"
+    }, 
+    "468": {
+        "solved": false, 
+        "title": "Smooth divisors of binomial coefficients"
+    }, 
+    "465": {
+        "solved": false, 
+        "title": "Polar polygons"
+    }, 
+    "464": {
+        "solved": false, 
+        "title": "M\u00f6bius function and intervals"
+    }, 
+    "467": {
+        "solved": false, 
+        "title": "Superinteger"
+    }, 
+    "466": {
+        "solved": false, 
+        "title": "Distinct terms in a multiplication table"
+    }, 
+    "461": {
+        "solved": false, 
+        "title": "Almost Pi"
+    }, 
+    "460": {
+        "solved": false, 
+        "title": "An ant on the move"
+    }, 
+    "463": {
+        "solved": false, 
+        "title": "A weird recurrence relation"
+    }, 
+    "462": {
+        "solved": false, 
+        "title": "Permutation of 3-smooth numbers"
+    }, 
+    "168": {
+        "solved": false, 
+        "title": "Number Rotations"
+    }, 
+    "169": {
+        "solved": false, 
+        "title": "Exploring the number of different ways a number can be expressed as a sum of powers of 2"
+    }, 
+    "164": {
+        "solved": false, 
+        "title": "Numbers for which no three consecutive digits have a sum greater than a given value"
+    }, 
+    "165": {
+        "solved": false, 
+        "title": "Intersections"
+    }, 
+    "166": {
+        "solved": false, 
+        "title": "Criss Cross"
+    }, 
+    "167": {
+        "solved": false, 
+        "title": "Investigating Ulam sequences"
+    }, 
+    "160": {
+        "solved": false, 
+        "title": "Factorial trailing digits"
+    }, 
+    "161": {
+        "solved": false, 
+        "title": "Triominoes"
+    }, 
+    "162": {
+        "solved": false, 
+        "title": "Hexadecimal numbers"
+    }, 
+    "163": {
+        "solved": false, 
+        "title": "Cross-hatched triangles"
+    }, 
+    "9": {
+        "answer": "31875000", 
+        "solved": true, 
+        "time": 14, 
+        "title": "Special Pythagorean triplet"
+    }, 
+    "357": {
+        "solved": false, 
+        "title": "Prime generating integers"
+    }, 
+    "356": {
+        "solved": false, 
+        "title": "Largest roots of cubic polynomials"
+    }, 
+    "355": {
+        "solved": false, 
+        "title": "Maximal coprime subset"
+    }, 
+    "354": {
+        "solved": false, 
+        "title": "Distances in a bee's honeycomb "
+    }, 
+    "353": {
+        "solved": false, 
+        "title": "Risky moon"
+    }, 
+    "352": {
+        "solved": false, 
+        "title": "Blood tests"
+    }, 
+    "351": {
+        "solved": false, 
+        "title": "Hexagonal orchards"
+    }, 
+    "350": {
+        "solved": false, 
+        "title": "Constraining the least greatest and the greatest least"
+    }, 
+    "359": {
+        "solved": false, 
+        "title": "Hilbert's New Hotel"
+    }, 
+    "358": {
+        "solved": false, 
+        "title": "Cyclic numbers"
+    }, 
+    "216": {
+        "solved": false, 
+        "title": "Investigating the primality of numbers of the form 2n2-1"
+    }, 
+    "217": {
+        "solved": false, 
+        "title": "Balanced Numbers"
+    }, 
+    "214": {
+        "solved": false, 
+        "title": "Totient Chains"
+    }, 
+    "215": {
+        "solved": false, 
+        "title": "Crack-free Walls"
+    }, 
+    "212": {
+        "solved": false, 
+        "title": "Combined Volume of Cuboids"
+    }, 
+    "213": {
+        "solved": false, 
+        "title": "Flea Circus"
+    }, 
+    "210": {
+        "solved": false, 
+        "title": "Obtuse Angled Triangles"
+    }, 
+    "211": {
+        "solved": false, 
+        "title": "Divisor Square Sum"
+    }, 
+    "218": {
+        "solved": false, 
+        "title": "Perfect right-angled triangles"
+    }, 
+    "219": {
+        "solved": false, 
+        "title": "Skew-cost coding"
+    }, 
+    "289": {
+        "solved": false, 
+        "title": "Eulerian Cycles"
+    }, 
+    "288": {
+        "solved": false, 
+        "title": "An enormous factorial"
+    }, 
+    "4": {
+        "answer": "906609", 
+        "solved": true, 
+        "time": 57, 
+        "title": "Largest palindrome product"
+    }, 
+    "281": {
+        "solved": false, 
+        "title": "Pizza Toppings"
+    }, 
+    "280": {
+        "solved": false, 
+        "title": "Ant and seeds"
+    }, 
+    "283": {
+        "solved": false, 
+        "title": "Integer sided triangles for which the  area/perimeter ratio is integral"
+    }, 
+    "282": {
+        "solved": false, 
+        "title": "The Ackermann function"
+    }, 
+    "285": {
+        "solved": false, 
+        "title": "Pythagorean odds"
+    }, 
+    "284": {
+        "solved": false, 
+        "title": "Steady Squares"
+    }, 
+    "287": {
+        "solved": false, 
+        "title": "Quadtree encoding (a simple compression algorithm)"
+    }, 
+    "286": {
+        "solved": false, 
+        "title": "Scoring probabilities"
+    }, 
+    "263": {
+        "solved": false, 
+        "title": "An engineers' dream come true"
+    }, 
+    "262": {
+        "solved": false, 
+        "title": "Mountain Range"
+    }, 
+    "261": {
+        "solved": false, 
+        "title": "Pivotal Square Sums"
+    }, 
+    "260": {
+        "solved": false, 
+        "title": "Stone Game"
+    }, 
+    "267": {
+        "solved": false, 
+        "title": "Billionaire"
+    }, 
+    "266": {
+        "solved": false, 
+        "title": "Pseudo Square Root"
+    }, 
+    "265": {
+        "solved": false, 
+        "title": "Binary Circles"
+    }, 
+    "264": {
+        "solved": false, 
+        "title": "Triangle Centres"
+    }, 
+    "269": {
+        "solved": false, 
+        "title": "Polynomials with at least one integer root"
+    }, 
+    "268": {
+        "solved": false, 
+        "title": "Counting numbers with at least four distinct prime factors less than 100"
+    }, 
+    "59": {
+        "answer": "107359", 
+        "solved": true, 
+        "time": 1992, 
+        "title": "XOR decryption"
+    }, 
+    "58": {
+        "answer": "26241", 
+        "solved": true, 
+        "time": 305, 
+        "title": "Spiral primes"
+    }, 
+    "55": {
+        "answer": "249", 
+        "solved": true, 
+        "time": 189, 
+        "title": "Lychrel numbers"
+    }, 
+    "54": {
+        "answer": "376", 
+        "solved": true, 
+        "time": 214, 
+        "title": "Poker hands"
+    }, 
+    "57": {
+        "answer": "153", 
+        "solved": true, 
+        "time": 852, 
+        "title": "Square root convergents"
+    }, 
+    "56": {
+        "answer": "972", 
+        "solved": true, 
+        "time": 377, 
+        "title": "Powerful digit sum"
+    }, 
+    "51": {
+        "solved": false, 
+        "title": "Prime digit replacements"
+    }, 
+    "258": {
+        "solved": false, 
+        "title": "A lagged Fibonacci sequence"
+    }, 
+    "53": {
+        "answer": "4075", 
+        "solved": true, 
+        "time": 16, 
+        "title": "Combinatoric selections"
+    }, 
+    "52": {
+        "answer": "142857", 
+        "solved": true, 
+        "time": 42, 
+        "title": "Permuted multiples"
+    }, 
+    "535": {
+        "solved": false, 
+        "title": "Fractal Sequence"
+    }, 
+    "63": {
+        "answer": "49", 
+        "solved": true, 
+        "time": 4, 
+        "title": "Powerful digit counts"
+    }, 
+    "533": {
+        "solved": false, 
+        "title": "Minimum values of the Carmichael function"
+    }, 
+    "532": {
+        "solved": false, 
+        "title": "Nanobots on Geodesics"
+    }, 
+    "531": {
+        "solved": false, 
+        "title": "Chinese leftovers"
+    }, 
+    "530": {
+        "solved": false, 
+        "title": "GCD of Divisors"
+    }, 
+    "50": {
+        "answer": "(543, 997651)", 
+        "solved": true, 
+        "time": 152, 
+        "title": "Consecutive prime sum"
+    }, 
+    "115": {
+        "solved": false, 
+        "title": "Counting block combinations II"
+    }, 
+    "252": {
+        "solved": false, 
+        "title": "Convex Holes"
+    }, 
+    "117": {
+        "solved": false, 
+        "title": "Red, green, and blue tiles"
+    }, 
+    "116": {
+        "solved": false, 
+        "title": "Red, green or blue tiles"
+    }, 
+    "111": {
+        "solved": false, 
+        "title": "Primes with runs"
+    }, 
+    "110": {
+        "solved": false, 
+        "title": "Diophantine reciprocals II"
+    }, 
+    "113": {
+        "solved": false, 
+        "title": "Non-bouncy numbers"
+    }, 
+    "69": {
+        "answer": "(510510, 5.539388020833333)", 
+        "solved": true, 
+        "time": 28748, 
+        "title": "Totient maximum"
+    }, 
+    "119": {
+        "solved": false, 
+        "title": "Digit power sum"
+    }, 
+    "118": {
+        "solved": false, 
+        "title": "Pandigital prime sets"
+    }, 
+    "429": {
+        "solved": false, 
+        "title": "Sum of squares of unitary divisors"
+    }, 
+    "428": {
+        "solved": false, 
+        "title": "Necklace of circles"
+    }, 
+    "534": {
+        "solved": false, 
+        "title": "Weak Queens"
+    }, 
+    "421": {
+        "solved": false, 
+        "title": "Prime factors of n15+1"
+    }, 
+    "420": {
+        "solved": false, 
+        "title": "2x2 positive integer matrix"
+    }, 
+    "423": {
+        "solved": false, 
+        "title": "Consecutive die throws"
+    }, 
+    "422": {
+        "solved": false, 
+        "title": "Sequence of points on a hyperbola"
+    }, 
+    "425": {
+        "solved": false, 
+        "title": "Prime connection"
+    }, 
+    "424": {
+        "solved": false, 
+        "title": "Kakuro"
+    }, 
+    "427": {
+        "solved": false, 
+        "title": "n-sequences"
+    }, 
+    "426": {
+        "solved": false, 
+        "title": "Box-ball system"
+    }, 
+    "308": {
+        "solved": false, 
+        "title": "An amazing Prime-generating Automaton"
+    }, 
+    "309": {
+        "solved": false, 
+        "title": "Integer Ladders"
+    }, 
+    "300": {
+        "solved": false, 
+        "title": "Protein folding"
+    }, 
+    "301": {
+        "solved": false, 
+        "title": "Nim"
+    }, 
+    "302": {
+        "solved": false, 
+        "title": "Strong Achilles Numbers"
+    }, 
+    "303": {
+        "solved": false, 
+        "title": "Multiples with small digits"
+    }, 
+    "304": {
+        "solved": false, 
+        "title": "Primonacci"
+    }, 
+    "305": {
+        "solved": false, 
+        "title": "Reflexive Position"
+    }, 
+    "306": {
+        "solved": false, 
+        "title": "Paper-strip Game"
+    }, 
+    "307": {
+        "solved": false, 
+        "title": "Chip Defects"
+    }, 
+    "229": {
+        "solved": false, 
+        "title": "Four Representations using Squares"
+    }, 
+    "228": {
+        "solved": false, 
+        "title": "Minkowski Sums"
+    }, 
+    "227": {
+        "solved": false, 
+        "title": "The Chase"
+    }, 
+    "226": {
+        "solved": false, 
+        "title": "A Scoop of Blancmange"
+    }, 
+    "225": {
+        "solved": false, 
+        "title": "Tribonacci non-divisors"
+    }, 
+    "224": {
+        "solved": false, 
+        "title": "Almost right-angled triangles II"
+    }, 
+    "223": {
+        "solved": false, 
+        "title": "Almost right-angled triangles I"
+    }, 
+    "222": {
+        "solved": false, 
+        "title": "Sphere Packing"
+    }, 
+    "221": {
+        "solved": false, 
+        "title": "Alexandrian Integers"
+    }, 
+    "220": {
+        "solved": false, 
+        "title": "Heighway Dragon"
+    }, 
+    "114": {
+        "solved": false, 
+        "title": "Counting block combinations I"
+    }, 
+    "391": {
+        "solved": false, 
+        "title": "Hopping Game"
+    }, 
+    "390": {
+        "solved": false, 
+        "title": "Triangles with non rational sides and integral area"
+    }, 
+    "151": {
+        "solved": false, 
+        "title": "Paper sheets of standard sizes: an expected-value problem"
+    }, 
+    "150": {
+        "solved": false, 
+        "title": "Searching a triangular array for a sub-triangle having minimum-sum"
+    }, 
+    "153": {
+        "solved": false, 
+        "title": "Investigating Gaussian Integers"
+    }, 
+    "152": {
+        "solved": false, 
+        "title": "Writing 1/2 as a sum of inverse squares"
+    }, 
+    "155": {
+        "solved": false, 
+        "title": "Counting Capacitor Circuits"
+    }, 
+    "154": {
+        "solved": false, 
+        "title": "Exploring Pascal's pyramid"
+    }, 
+    "157": {
+        "solved": false, 
+        "title": "Solving the diophantine equation 1/a+1/b= p/10n"
+    }, 
+    "156": {
+        "solved": false, 
+        "title": "Counting Digits"
+    }, 
+    "159": {
+        "solved": false, 
+        "title": "Digital root sums of factorisations"
+    }, 
+    "158": {
+        "solved": false, 
+        "title": "Exploring strings for which only one character comes lexicographically after its neighbour to the left"
+    }, 
+    "112": {
+        "answer": "1587000", 
+        "solved": true, 
+        "time": 297, 
+        "title": "Bouncy numbers"
+    }, 
+    "83": {
+        "solved": false, 
+        "title": "Path sum: four ways"
+    }, 
+    "399": {
+        "solved": false, 
+        "title": "Squarefree Fibonacci Numbers"
+    }, 
+    "398": {
+        "solved": false, 
+        "title": "Cutting rope"
+    }, 
+    "48": {
+        "answer": "9110846700", 
+        "solved": true, 
+        "time": 143, 
+        "title": "Self powers"
+    }, 
+    "49": {
+        "answer": "[(1487, 4817, 8147), (2969, 6299, 9629)]", 
+        "solved": true, 
+        "time": 81, 
+        "title": "Prime permutations"
+    }, 
+    "46": {
+        "answer": "5777", 
+        "solved": true, 
+        "time": 114, 
+        "title": "Goldbach's other conjecture"
+    }, 
+    "47": {
+        "answer": "[134043, 134044, 134045, 134046]", 
+        "solved": true, 
+        "time": 12779, 
+        "title": "Distinct primes factors"
+    }, 
+    "44": {
+        "answer": "5482660", 
+        "solved": true, 
+        "time": 205, 
+        "title": "Pentagon numbers"
+    }, 
+    "45": {
+        "answer": "1533776805", 
+        "solved": true, 
+        "time": 53, 
+        "title": "Triangular, pentagonal, and hexagonal"
+    }, 
+    "42": {
+        "answer": "162", 
+        "solved": true, 
+        "time": 42, 
+        "title": "Coded triangle numbers"
+    }, 
+    "43": {
+        "answer": "16695334890", 
+        "solved": true, 
+        "time": 5791, 
+        "title": "Sub-string divisibility"
+    }, 
+    "40": {
+        "answer": "210", 
+        "solved": true, 
+        "time": 396, 
+        "title": "Champernowne's constant"
+    }, 
+    "41": {
+        "answer": "7652413", 
+        "solved": true, 
+        "time": 848, 
+        "title": "Pandigital prime"
+    }, 
+    "5": {
+        "answer": "232792560", 
+        "solved": true, 
+        "time": 3, 
+        "title": "Smallest multiple"
+    }, 
+    "489": {
+        "solved": false, 
+        "title": "Common factors between two sequences"
+    }, 
+    "488": {
+        "solved": false, 
+        "title": "Unbalanced Nim"
+    }, 
+    "487": {
+        "solved": false, 
+        "title": "Sums of power sums"
+    }, 
+    "486": {
+        "solved": false, 
+        "title": "Palindrome-containing strings"
+    }, 
+    "485": {
+        "solved": false, 
+        "title": "Maximum number of divisors"
+    }, 
+    "484": {
+        "solved": false, 
+        "title": "Arithmetic Derivative"
+    }, 
+    "483": {
+        "solved": false, 
+        "title": "Repeated permutation"
+    }, 
+    "482": {
+        "solved": false, 
+        "title": "The incenter of a triangle"
+    }, 
+    "481": {
+        "solved": false, 
+        "title": "Chef Showdown"
+    }, 
+    "480": {
+        "solved": false, 
+        "title": "The Last Question"
+    }, 
+    "472": {
+        "solved": false, 
+        "title": "Comfortable Distance II"
+    }, 
+    "473": {
+        "solved": false, 
+        "title": "Phigital number base"
+    }, 
+    "470": {
+        "solved": false, 
+        "title": "Super Ramvok"
+    }, 
+    "471": {
+        "solved": false, 
+        "title": "Triangle inscribed in ellipse"
+    }, 
+    "476": {
+        "solved": false, 
+        "title": "Circle Packing II"
+    }, 
+    "477": {
+        "solved": false, 
+        "title": "Number Sequence Game"
+    }, 
+    "474": {
+        "solved": false, 
+        "title": "Last digits of divisors"
+    }, 
+    "475": {
+        "solved": false, 
+        "title": "Music festival"
+    }, 
+    "478": {
+        "solved": false, 
+        "title": "Mixtures"
+    }, 
+    "479": {
+        "solved": false, 
+        "title": "Roots on the Rise"
+    }
+}

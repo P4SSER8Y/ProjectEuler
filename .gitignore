@@ -1,0 +1,10 @@
+COOKIES
+*.pyc
+*.exe
+Achives
+.vs
+*.dll
+*.vim
+
+ProjectEuler.pyproj
+ProjectEuler.sln
