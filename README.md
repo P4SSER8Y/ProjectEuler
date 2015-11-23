@@ -1,6 +1,18 @@
 Project Euler
 =============
-Solutions to [http://projecteuler.net/]
+Solutions to http://projecteuler.net/
+
+Language
+--------
+
++ mainly Python
++ C for acceleration
+
+Engines
+-------
+
++ mainly Pypy 4.0.1 (Python 2.7)
++ gcc (with -O3 enabled)
 
 Requirements
 ============

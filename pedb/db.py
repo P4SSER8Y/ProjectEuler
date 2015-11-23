@@ -30,5 +30,3 @@ class PEDB(object):
         return self.db.get(str(n), None)
     def getSolvedProblems(self):
         return sorted([int(x) for x in self.db.keys() if self.db[x]['solved']])
-    def __del__(self):
-        self.writeFile()

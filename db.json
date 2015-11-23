@@ -282,62 +282,62 @@
     "39": {
         "answer": "840", 
         "solved": true, 
-        "time": 136, 
-        "title": "Integer right triangles"
+        "title": "Integer right triangles", 
+        "time": 136
     }, 
     "38": {
         "answer": "932718654", 
         "solved": true, 
-        "time": 43, 
-        "title": "Pandigital multiples"
+        "title": "Pandigital multiples", 
+        "time": 43
     }, 
     "33": {
         "answer": "1/100", 
         "solved": true, 
-        "time": 143, 
-        "title": "Digit cancelling fractions"
+        "title": "Digit cancelling fractions", 
+        "time": 143
     }, 
     "32": {
         "answer": "45228", 
         "solved": true, 
-        "time": 162, 
-        "title": "Pandigital products"
+        "title": "Pandigital products", 
+        "time": 162
     }, 
     "31": {
         "answer": "73682", 
         "solved": true, 
-        "time": 6, 
-        "title": "Coin sums"
+        "title": "Coin sums", 
+        "time": 6
     }, 
     "30": {
         "answer": "443839", 
         "solved": true, 
-        "time": 153, 
-        "title": "Digit fifth powers"
+        "title": "Digit fifth powers", 
+        "time": 153
     }, 
     "37": {
         "answer": "748317", 
         "solved": true, 
-        "time": 215, 
-        "title": "Truncatable primes"
+        "title": "Truncatable primes", 
+        "time": 215
     }, 
     "36": {
         "answer": "872187", 
         "solved": true, 
-        "time": 375, 
-        "title": "Double-base palindromes"
+        "title": "Double-base palindromes", 
+        "time": 375
     }, 
     "35": {
         "answer": "55", 
         "solved": true, 
-        "time": 885, 
-        "title": "Circular primes"
+        "title": "Circular primes", 
+        "time": 885
     }, 
     "34": {
         "answer": "40730", 
         "solved": true, 
-        "time": 1384, 
-        "title": "Digit factorials"
+        "title": "Digit factorials", 
+        "time": 1384
     }, 
     "438": {
         "solved": false, 
@@ -422,8 +422,8 @@
     "6": {
         "answer": "25164150", 
         "solved": true, 
-        "time": 0, 
-        "title": "Sum square difference"
+        "title": "Sum square difference", 
+        "time": 0
     }, 
     "99": {
         "solved": false, 
@@ -448,8 +448,8 @@
     "92": {
         "answer": "8581146", 
         "solved": true, 
-        "time": 3297, 
-        "title": "Square digit chains"
+        "title": "Square digit chains", 
+        "time": 3297
     }, 
     "95": {
         "solved": false, 
@@ -462,8 +462,8 @@
     "97": {
         "answer": "8739992577", 
         "solved": true, 
-        "time": 0, 
-        "title": "Large non-Mersenne prime"
+        "title": "Large non-Mersenne prime", 
+        "time": 0
     }, 
     "96": {
         "solved": false, 
@@ -512,8 +512,8 @@
     "1": {
         "answer": "233168", 
         "solved": true, 
-        "time": 0, 
-        "title": "Multiples of 3 and 5"
+        "title": "Multiples of 3 and 5", 
+        "time": 0
     }, 
     "146": {
         "solved": false, 
@@ -622,62 +622,62 @@
     "24": {
         "answer": "2783915460", 
         "solved": true, 
-        "time": 836, 
-        "title": "Lexicographic permutations"
+        "title": "Lexicographic permutations", 
+        "time": 836
     }, 
     "25": {
         "answer": "4782", 
         "solved": true, 
-        "time": 369, 
-        "title": "1000-digit Fibonacci number"
+        "title": "1000-digit Fibonacci number", 
+        "time": 369
     }, 
     "26": {
         "answer": "983", 
         "solved": true, 
-        "time": 24, 
-        "title": "Reciprocal cycles"
+        "title": "Reciprocal cycles", 
+        "time": 24
     }, 
     "27": {
         "answer": "-59231", 
         "solved": true, 
-        "time": 1026, 
-        "title": "Quadratic primes"
+        "title": "Quadratic primes", 
+        "time": 1026
     }, 
     "20": {
         "answer": "648", 
         "solved": true, 
-        "time": 0, 
-        "title": "Factorial digit sum"
+        "title": "Factorial digit sum", 
+        "time": 0
     }, 
     "21": {
         "answer": "31626", 
         "solved": true, 
-        "time": 440, 
-        "title": "Amicable numbers"
+        "title": "Amicable numbers", 
+        "time": 440
     }, 
     "22": {
         "answer": "871198282", 
         "solved": true, 
-        "time": 51, 
-        "title": "Names scores"
+        "title": "Names scores", 
+        "time": 51
     }, 
     "23": {
         "answer": "4179871", 
         "solved": true, 
-        "time": 1072, 
-        "title": "Non-abundant sums"
+        "title": "Non-abundant sums", 
+        "time": 1072
     }, 
     "28": {
         "answer": "669171001", 
         "solved": true, 
-        "time": 2, 
-        "title": "Number spiral diagonals"
+        "title": "Number spiral diagonals", 
+        "time": 2
     }, 
     "29": {
         "answer": "9183", 
         "solved": true, 
-        "time": 26, 
-        "title": "Distinct powers"
+        "title": "Distinct powers", 
+        "time": 26
     }, 
     "407": {
         "solved": false, 
@@ -814,8 +814,8 @@
     "87": {
         "answer": "1097343", 
         "solved": true, 
-        "time": 37191, 
-        "title": "Prime power triples"
+        "title": "Prime power triples", 
+        "time": 37191
     }, 
     "84": {
         "solved": false, 
@@ -828,8 +828,8 @@
     "7": {
         "answer": "104743", 
         "solved": true, 
-        "time": 378, 
-        "title": "10001st prime"
+        "title": "10001st prime", 
+        "time": 378
     }, 
     "245": {
         "solved": false, 
@@ -1006,8 +1006,8 @@
     "2": {
         "answer": "4613732", 
         "solved": true, 
-        "time": 0, 
-        "title": "Even Fibonacci numbers"
+        "title": "Even Fibonacci numbers", 
+        "time": 0
     }, 
     "186": {
         "solved": false, 
@@ -1036,62 +1036,62 @@
     "11": {
         "answer": "70600674", 
         "solved": true, 
-        "time": 38, 
-        "title": "Largest product in a grid"
+        "title": "Largest product in a grid", 
+        "time": 38
     }, 
     "10": {
         "answer": "142913828922", 
         "solved": true, 
-        "time": 75, 
-        "title": "Summation of primes"
+        "title": "Summation of primes", 
+        "time": 75
     }, 
     "13": {
         "answer": "5537376230390876637302048746832985971773659831892672", 
         "solved": true, 
-        "time": 0, 
-        "title": "Large sum"
+        "title": "Large sum", 
+        "time": 0
     }, 
     "12": {
         "answer": "76576500", 
         "solved": true, 
-        "time": 163, 
-        "title": "Highly divisible triangular number"
+        "title": "Highly divisible triangular number", 
+        "time": 163
     }, 
     "15": {
         "answer": "137846528820", 
         "solved": true, 
-        "time": 2, 
-        "title": "Lattice paths"
+        "title": "Lattice paths", 
+        "time": 2
     }, 
     "14": {
         "answer": "837799", 
         "solved": true, 
-        "time": 2285, 
-        "title": "Longest Collatz sequence"
+        "title": "Longest Collatz sequence", 
+        "time": 2285
     }, 
     "17": {
         "answer": "21124", 
         "solved": true, 
-        "time": 20, 
-        "title": "Number letter counts"
+        "title": "Number letter counts", 
+        "time": 20
     }, 
     "16": {
         "answer": "1366", 
         "solved": true, 
-        "time": 0, 
-        "title": "Power digit sum"
+        "title": "Power digit sum", 
+        "time": 0
     }, 
     "19": {
         "answer": "171", 
         "solved": true, 
-        "time": 42, 
-        "title": "Counting Sundays"
+        "title": "Counting Sundays", 
+        "time": 42
     }, 
     "18": {
         "answer": "1074", 
         "solved": true, 
-        "time": 0, 
-        "title": "Maximum path sum I"
+        "title": "Maximum path sum I", 
+        "time": 0
     }, 
     "322": {
         "solved": false, 
@@ -1152,8 +1152,8 @@
     "205": {
         "answer": "('48679795/84934656', 0.5731440767829801)", 
         "solved": true, 
-        "time": 68, 
-        "title": "Dice Game"
+        "title": "Dice Game", 
+        "time": 68
     }, 
     "204": {
         "solved": false, 
@@ -1166,8 +1166,8 @@
     "206": {
         "answer": "1389019170", 
         "solved": true, 
-        "time": 296076, 
-        "title": "Concealed Square"
+        "title": "Concealed Square", 
+        "time": 296076
     }, 
     "209": {
         "solved": false, 
@@ -1184,8 +1184,8 @@
     "76": {
         "answer": "190569291", 
         "solved": true, 
-        "time": 16, 
-        "title": "Counting summations"
+        "title": "Counting summations", 
+        "time": 16
     }, 
     "75": {
         "solved": false, 
@@ -1194,8 +1194,8 @@
     "74": {
         "answer": "402", 
         "solved": true, 
-        "time": 5113, 
-        "title": "Digit factorial chains"
+        "title": "Digit factorial chains", 
+        "time": 5113
     }, 
     "73": {
         "solved": false, 
@@ -1212,14 +1212,14 @@
     "70": {
         "answer": "8319823", 
         "solved": true, 
-        "time": 179, 
-        "title": "Totient permutation"
+        "title": "Totient permutation", 
+        "time": 179
     }, 
     "79": {
         "answer": "['73162890']", 
         "solved": true, 
-        "time": 22, 
-        "title": "Passcode derivation"
+        "title": "Passcode derivation", 
+        "time": 22
     }, 
     "78": {
         "solved": false, 
@@ -1228,8 +1228,8 @@
     "8": {
         "answer": "23514624000", 
         "solved": true, 
-        "time": 18, 
-        "title": "Largest product in a series"
+        "title": "Largest product in a series", 
+        "time": 18
     }, 
     "120": {
         "solved": false, 
@@ -1370,8 +1370,8 @@
     "3": {
         "answer": "6857", 
         "solved": true, 
-        "time": 46, 
-        "title": "Largest prime factor"
+        "title": "Largest prime factor", 
+        "time": 46
     }, 
     "368": {
         "solved": false, 
@@ -1460,8 +1460,8 @@
     "61": {
         "answer": "28684", 
         "solved": true, 
-        "time": 28, 
-        "title": "Cyclical figurate numbers"
+        "title": "Cyclical figurate numbers", 
+        "time": 28
     }, 
     "62": {
         "solved": false, 
@@ -1474,26 +1474,26 @@
     "64": {
         "answer": "1322", 
         "solved": true, 
-        "time": 315, 
-        "title": "Odd period square roots"
+        "title": "Odd period square roots", 
+        "time": 315
     }, 
     "65": {
         "answer": "272", 
         "solved": true, 
-        "time": 30, 
-        "title": "Convergents of e"
+        "title": "Convergents of e", 
+        "time": 30
     }, 
     "66": {
         "answer": "661", 
         "solved": true, 
-        "time": 920, 
-        "title": "Diophantine equation"
+        "title": "Diophantine equation", 
+        "time": 920
     }, 
     "67": {
         "answer": "7273", 
         "solved": true, 
-        "time": 21, 
-        "title": "Maximum path sum II"
+        "title": "Maximum path sum II", 
+        "time": 21
     }, 
     "68": {
         "solved": false, 
@@ -1650,8 +1650,8 @@
     "9": {
         "answer": "31875000", 
         "solved": true, 
-        "time": 14, 
-        "title": "Special Pythagorean triplet"
+        "title": "Special Pythagorean triplet", 
+        "time": 14
     }, 
     "357": {
         "solved": false, 
@@ -1744,8 +1744,8 @@
     "4": {
         "answer": "906609", 
         "solved": true, 
-        "time": 57, 
-        "title": "Largest palindrome product"
+        "title": "Largest palindrome product", 
+        "time": 57
     }, 
     "281": {
         "solved": false, 
@@ -1822,38 +1822,38 @@
     "59": {
         "answer": "107359", 
         "solved": true, 
-        "time": 1992, 
-        "title": "XOR decryption"
+        "title": "XOR decryption", 
+        "time": 1992
     }, 
     "58": {
         "answer": "26241", 
         "solved": true, 
-        "time": 305, 
-        "title": "Spiral primes"
+        "title": "Spiral primes", 
+        "time": 305
     }, 
     "55": {
         "answer": "249", 
         "solved": true, 
-        "time": 189, 
-        "title": "Lychrel numbers"
+        "title": "Lychrel numbers", 
+        "time": 189
     }, 
     "54": {
         "answer": "376", 
         "solved": true, 
-        "time": 214, 
-        "title": "Poker hands"
+        "title": "Poker hands", 
+        "time": 214
     }, 
     "57": {
         "answer": "153", 
         "solved": true, 
-        "time": 852, 
-        "title": "Square root convergents"
+        "title": "Square root convergents", 
+        "time": 852
     }, 
     "56": {
         "answer": "972", 
         "solved": true, 
-        "time": 377, 
-        "title": "Powerful digit sum"
+        "title": "Powerful digit sum", 
+        "time": 377
     }, 
     "51": {
         "solved": false, 
@@ -1866,14 +1866,14 @@
     "53": {
         "answer": "4075", 
         "solved": true, 
-        "time": 16, 
-        "title": "Combinatoric selections"
+        "title": "Combinatoric selections", 
+        "time": 16
     }, 
     "52": {
         "answer": "142857", 
         "solved": true, 
-        "time": 42, 
-        "title": "Permuted multiples"
+        "title": "Permuted multiples", 
+        "time": 42
     }, 
     "535": {
         "solved": false, 
@@ -1882,8 +1882,8 @@
     "63": {
         "answer": "49", 
         "solved": true, 
-        "time": 4, 
-        "title": "Powerful digit counts"
+        "title": "Powerful digit counts", 
+        "time": 4
     }, 
     "533": {
         "solved": false, 
@@ -1904,8 +1904,8 @@
     "50": {
         "answer": "(543, 997651)", 
         "solved": true, 
-        "time": 152, 
-        "title": "Consecutive prime sum"
+        "title": "Consecutive prime sum", 
+        "time": 152
     }, 
     "115": {
         "solved": false, 
@@ -1938,8 +1938,8 @@
     "69": {
         "answer": "(510510, 5.539388020833333)", 
         "solved": true, 
-        "time": 28748, 
-        "title": "Totient maximum"
+        "title": "Totient maximum", 
+        "time": 28748
     }, 
     "119": {
         "solved": false, 
@@ -2128,8 +2128,8 @@
     "112": {
         "answer": "1587000", 
         "solved": true, 
-        "time": 297, 
-        "title": "Bouncy numbers"
+        "title": "Bouncy numbers", 
+        "time": 297
     }, 
     "83": {
         "solved": false, 
@@ -2146,68 +2146,68 @@
     "48": {
         "answer": "9110846700", 
         "solved": true, 
-        "time": 143, 
-        "title": "Self powers"
+        "title": "Self powers", 
+        "time": 143
     }, 
     "49": {
         "answer": "[(1487, 4817, 8147), (2969, 6299, 9629)]", 
         "solved": true, 
-        "time": 81, 
-        "title": "Prime permutations"
+        "title": "Prime permutations", 
+        "time": 81
     }, 
     "46": {
         "answer": "5777", 
         "solved": true, 
-        "time": 114, 
-        "title": "Goldbach's other conjecture"
+        "title": "Goldbach's other conjecture", 
+        "time": 114
     }, 
     "47": {
         "answer": "[134043, 134044, 134045, 134046]", 
         "solved": true, 
-        "time": 12779, 
-        "title": "Distinct primes factors"
+        "title": "Distinct primes factors", 
+        "time": 12779
     }, 
     "44": {
         "answer": "5482660", 
         "solved": true, 
-        "time": 205, 
-        "title": "Pentagon numbers"
+        "title": "Pentagon numbers", 
+        "time": 205
     }, 
     "45": {
         "answer": "1533776805", 
         "solved": true, 
-        "time": 53, 
-        "title": "Triangular, pentagonal, and hexagonal"
+        "title": "Triangular, pentagonal, and hexagonal", 
+        "time": 53
     }, 
     "42": {
         "answer": "162", 
         "solved": true, 
-        "time": 42, 
-        "title": "Coded triangle numbers"
+        "title": "Coded triangle numbers", 
+        "time": 42
     }, 
     "43": {
         "answer": "16695334890", 
         "solved": true, 
-        "time": 5791, 
-        "title": "Sub-string divisibility"
+        "title": "Sub-string divisibility", 
+        "time": 5791
     }, 
     "40": {
         "answer": "210", 
         "solved": true, 
-        "time": 396, 
-        "title": "Champernowne's constant"
+        "title": "Champernowne's constant", 
+        "time": 396
     }, 
     "41": {
         "answer": "7652413", 
         "solved": true, 
-        "time": 848, 
-        "title": "Pandigital prime"
+        "title": "Pandigital prime", 
+        "time": 848
     }, 
     "5": {
         "answer": "232792560", 
         "solved": true, 
-        "time": 3, 
-        "title": "Smallest multiple"
+        "title": "Smallest multiple", 
+        "time": 3
     }, 
     "489": {
         "solved": false, 
