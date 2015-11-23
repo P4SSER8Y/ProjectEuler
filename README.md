@@ -1,6 +1,8 @@
 Project Euler
 =============
-Solutions to http://projecteuler.net/
+Solutions to [Project Euler](http://projecteuler.net/)
+
+![my profile](https://projecteuler.net/profile/zqnchn.png)
 
 Language
 --------
@@ -11,7 +13,7 @@ Language
 Engines
 -------
 
-+ Pypy 4.0.1 (Python 2.7)
++ PyRy 4.0.1 (Python 2.7)
 + gcc (with -O3 enabled)
 
 Requirements
