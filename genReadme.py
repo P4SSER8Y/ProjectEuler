@@ -14,7 +14,7 @@ Language
 Engines
 -------
 
-+ mainly Pypy 4.0.1 (Python 2.7)
++ Pypy 4.0.1 (Python 2.7)
 + gcc (with -O3 enabled)
 
 Requirements
