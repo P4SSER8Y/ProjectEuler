@@ -23,7 +23,7 @@ class PEDB(object):
         self.db[str(num)] = t
     def writeFile(self):
         f = open(self.dbFile, 'w')
-        f.write(json.dumps(self.db, indent=4))
+        f.write(json.dumps(self.db, indent=4, sort_keys=True))
         f.flush()
         f.close()
     def getProblem(self, n):

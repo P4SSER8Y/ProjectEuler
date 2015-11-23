@@ -27,19 +27,16 @@ if __name__ == "__main__":
     if re.match(r'^\s*\d+\s*$', t):
         pn = int(t)
         if pn == 0:
-            from peweb import ProjectEuler, getTitle
             from pedb import PEDB
             db = PEDB()
-            pe = ProjectEuler()
-            solved = pe.getSolvedProblems()
+            solved = sorted([int(x) for x in db.db.keys() if db.getProblem(x)['solved']])
             print "There are " + str(len(solved)) + " problems solved"
             t1 = time()
             for m in solved:
-                title = getTitle(m)
                 ans, t = run(m)
-                db.record(m, solved=True, time=t, answer=ans, title=title)
-                db.writeFile()
+                db.record(m, solved=True, time=t, answer=ans)
             t2 = time()
+            db.writeFile()
             print "Finished all in " + str(int(t2-t1)) + 's'
         else:
             ans, t = run(pn)
