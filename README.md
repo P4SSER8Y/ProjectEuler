@@ -2,8 +2,6 @@ Project Euler
 =============
 Solutions to [Project Euler](http://projecteuler.net/)
 
-![my profile](https://projecteuler.net/profile/zqnchn.png)
-
 Language
 --------
 
@@ -293,6 +291,10 @@ Solved Problems
 + [070 Totient permutation](http://projecteuler.net/problem=70)
     - answer: 8319823 
     - min used time: 171 ms
+
++ [072 Counting fractions](http://projecteuler.net/problem=72)
+    - answer: 303963552391 
+    - min used time: 240870 ms
 
 + [074 Digit factorial chains](http://projecteuler.net/problem=74)
     - answer: 402 

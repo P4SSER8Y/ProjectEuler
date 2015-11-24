@@ -2154,7 +2154,9 @@
         "title": "Ordered fractions"
     }, 
     "72": {
-        "solved": false, 
+        "answer": "303963552391", 
+        "solved": true, 
+        "time": 240870, 
         "title": "Counting fractions"
     }, 
     "73": {

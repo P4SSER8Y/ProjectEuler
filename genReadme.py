@@ -6,8 +6,6 @@ Project Euler
 =============
 Solutions to [Project Euler](http://projecteuler.net/)
 
-![my profile](https://projecteuler.net/profile/zqnchn.png)
-
 Language
 --------
 
