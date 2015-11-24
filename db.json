@@ -2150,7 +2150,9 @@
         "title": "Totient permutation"
     }, 
     "71": {
-        "solved": false, 
+        "answer": "428570/999997", 
+        "solved": true, 
+        "time": 90681, 
         "title": "Ordered fractions"
     }, 
     "72": {

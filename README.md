@@ -358,6 +358,11 @@ Solved Problems
     - answer: 8319823 
     - min used time: 171 ms
 
++ 071 Ordered fractions [:link:](http://projecteuler.net/problem=71)  :warning: 
+
+    - answer: 428570/999997 
+    - min used time: 90681 ms
+
 + 072 Counting fractions [:link:](http://projecteuler.net/problem=72)  :warning: 
 
     - answer: 303963552391 

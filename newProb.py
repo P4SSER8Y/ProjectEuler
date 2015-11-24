@@ -22,10 +22,12 @@ print "Creating __init__.py"
 f = open(s+r'\__init__.py', 'w')
 f.write("from "+s+" import run as pyRun\n")
 if useC:
-    f.write("from ctypes import CDLL\n\n")
+    f.write("from ctypes import CDLL\n")
     f.write("from os.path import split, realpath\n\n")
-    f.write("cRun = CDLL(split(realpath(__file__))[0] + r'\\"+s+".dll').run\n")
-    f.write("cRun.argtypes = None\ncRun.restype = None\n\n")
+    f.write("try:\n")
+    f.write("    cRun = CDLL(split(realpath(__file__))[0] + r'\\"+s+".dll').run\n")
+    f.write("    cRun.argtypes = None\n    cRun.restype = None\n")
+    f.write("except:\n    pass\n")
 f.write("""
 run = pyRun
 #run = cRun\n
