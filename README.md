@@ -15,6 +15,10 @@ Engines
 
 + PyPy 4.0.1 (Python 2.7)
 + gcc (with -O3 enabled)
++ My Computer
+    - Windows 10 64-bit
+    - CPU: Intel® Core™ i5-3210M CPU @ 2.5GHz (2 Cores 4 Threads)
+    - RAM: 4GB
 
 Requirements
 ============
@@ -72,7 +76,7 @@ Solved Problems
 
 + [012 Highly divisible triangular number](http://projecteuler.net/problem=12)
     - answer: 76576500 
-    - min used time: 163 ms
+    - min used time: 158 ms
 
 + [013 Large sum](http://projecteuler.net/problem=13)
     - answer: 5537376230390876637302048746832985971773659831892672 
@@ -92,7 +96,7 @@ Solved Problems
 
 + [017 Number letter counts](http://projecteuler.net/problem=17)
     - answer: 21124 
-    - min used time: 20 ms
+    - min used time: 3 ms
 
 + [018 Maximum path sum I](http://projecteuler.net/problem=18)
     - answer: 1074 
@@ -188,7 +192,7 @@ Solved Problems
 
 + [041 Pandigital prime](http://projecteuler.net/problem=41)
     - answer: 7652413 
-    - min used time: 802 ms
+    - min used time: 782 ms
 
 + [042 Coded triangle numbers](http://projecteuler.net/problem=42)
     - answer: 162 
@@ -216,7 +220,7 @@ Solved Problems
 
 + [048 Self powers](http://projecteuler.net/problem=48)
     - answer: 9110846700 
-    - min used time: 142 ms
+    - min used time: 122 ms
 
 + [049 Prime permutations](http://projecteuler.net/problem=49)
     - answer: [(1487, 4817, 8147), (2969, 6299, 9629)] 
@@ -228,7 +232,7 @@ Solved Problems
 
 + [052 Permuted multiples](http://projecteuler.net/problem=52)
     - answer: 142857 
-    - min used time: 42 ms
+    - min used time: 37 ms
 
 + [053 Combinatoric selections](http://projecteuler.net/problem=53)
     - answer: 4075 
@@ -252,7 +256,7 @@ Solved Problems
 
 + [058 Spiral primes](http://projecteuler.net/problem=58)
     - answer: 26241 
-    - min used time: 264 ms
+    - min used time: 254 ms
 
 + [059 XOR decryption](http://projecteuler.net/problem=59)
     - answer: 107359 
@@ -264,7 +268,7 @@ Solved Problems
 
 + [063 Powerful digit counts](http://projecteuler.net/problem=63)
     - answer: 49 
-    - min used time: 2 ms
+    - min used time: 0 ms
 
 + [064 Odd period square roots](http://projecteuler.net/problem=64)
     - answer: 1322 
@@ -300,7 +304,7 @@ Solved Problems
 
 + [079 Passcode derivation](http://projecteuler.net/problem=79)
     - answer: ['73162890'] 
-    - min used time: 21 ms
+    - min used time: 20 ms
 
 + [087 Prime power triples](http://projecteuler.net/problem=87)
     - answer: 1097343 
@@ -324,5 +328,5 @@ Solved Problems
 
 + [206 Concealed Square](http://projecteuler.net/problem=206)
     - answer: 1389019170 
-    - min used time: 13928 ms
+    - min used time: 13800 ms
 
