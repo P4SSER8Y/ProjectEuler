@@ -9,17 +9,33 @@
 #include <stdbool.h>
 #include <math.h>
 
-DLL_EXPORT FOO run(void);
+DLL_EXPORT long run(void);
 int main(void);
 
-DLL_EXPORT FOO run(void)
+bool smaller(long a, long b, long c, long d)
 {
-    return;
+	return ((double)a / (double)b) < ((double)c / (double)d);
+}
+
+DLL_EXPORT long run(void)
+{
+	long retN, retD;
+	long n, d;
+	for (d = 3; d <= 1000000; d++)
+	{
+		n = (long)3.0*d / 7.0;
+		if (smaller(n, d, 3, 7) && smaller(retN, retD, n, d))
+		{
+			retN = n;
+			retD = d;
+		}
+	}
+	return retN;
 }
 
 int main(void)
 {
-    print("Hello World\n");
+	printf("%d\n", run());
     return 0;
 }
 

@@ -13,7 +13,7 @@ def pr071():
         if (t1 < base) and (t1 > ret):
             ret = t1
     pbar.finish()
-    return ret
+    return ret.numerator
 
 def run():
     return pr071()
