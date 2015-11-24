@@ -756,7 +756,7 @@
     "26": {
         "answer": "983", 
         "solved": true, 
-        "time": 9, 
+        "time": 7, 
         "title": "Reciprocal cycles"
     }, 
     "260": {
@@ -1084,7 +1084,7 @@
     "33": {
         "answer": "1/100", 
         "solved": true, 
-        "time": 122, 
+        "time": 111, 
         "title": "Digit cancelling fractions"
     }, 
     "330": {
@@ -2158,7 +2158,7 @@
     "72": {
         "answer": "303963552391", 
         "solved": true, 
-        "time": 240870, 
+        "time": 210453, 
         "title": "Counting fractions"
     }, 
     "73": {
@@ -2226,7 +2226,7 @@
     "85": {
         "answer": "2772", 
         "solved": true, 
-        "time": 149, 
+        "time": 14, 
         "title": "Counting rectangles"
     }, 
     "86": {

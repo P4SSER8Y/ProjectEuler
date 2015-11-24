@@ -38,7 +38,7 @@ if __name__ == "__main__":
             t1 = time()
             for m in solved:
                 ans, t = run(m)
-                db.record(m, solved=True, time=t, answer=ans)
+                db.record(m, solved=True, time=t)
             t2 = time()
             db.writeFile()
             print "Finished all in " + str(int(t2-t1)) + 's'
