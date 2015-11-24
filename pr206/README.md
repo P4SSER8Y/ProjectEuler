@@ -1,0 +1,6 @@
++ [206 Concealed Square](http://projecteuler.net/problem=206)
+========================
+
+- answer: 1389019170 
+- min used time: 13800 ms
+

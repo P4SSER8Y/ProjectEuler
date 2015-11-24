@@ -1,6 +1,8 @@
 #coding:utf8
 from pedb import PEDB
 
+import os, re
+
 prefix = """\
 Project Euler
 =============
@@ -41,5 +43,19 @@ for x in db.getSolvedProblems():
     f.write('+ [' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')\n')
     f.write('    - answer: ' + str(db.getProblem(x)['answer']) + ' \n')
     f.write('    - min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')
+
+    rm = open('pr'+str(1000+x)[1:]+'\\README.md', 'w')
+    rm.write('+ [' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')\n')
+    rm.write('========================\n\n')
+    rm.write('- answer: ' + str(db.getProblem(x)['answer']) + ' \n')
+    rm.write('- min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')
+
+    if os.path.exists('pr'+str(1000+x)[1:]+'\\algo.md'):
+        rm.write("Algorithm\n=========\n\n")
+        algo = open('pr'+str(1000+x)[1:]+'\\algo.md', 'r')
+        rm.write(algo.read())
+        algo.close()
+    rm.flush()
+    rm.close()
 f.flush()
 f.close()

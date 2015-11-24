@@ -1,0 +1,6 @@
++ [021 Amicable numbers](http://projecteuler.net/problem=21)
+========================
+
+- answer: 31626 
+- min used time: 433 ms
+
