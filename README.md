@@ -296,6 +296,10 @@ Solved Problems
     - answer: 303963552391 
     - min used time: 240870 ms
 
++ [073 Counting fractions in a range](http://projecteuler.net/problem=73)
+    - answer: 7295372 
+    - min used time: 43204 ms
+
 + [074 Digit factorial chains](http://projecteuler.net/problem=74)
     - answer: 402 
     - min used time: 5100 ms

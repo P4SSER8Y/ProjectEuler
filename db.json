@@ -2160,7 +2160,9 @@
         "title": "Counting fractions"
     }, 
     "73": {
-        "solved": false, 
+        "answer": "7295372", 
+        "solved": true, 
+        "time": 753, 
         "title": "Counting fractions in a range"
     }, 
     "74": {
