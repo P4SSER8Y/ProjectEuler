@@ -1,4 +1,4 @@
-[015 Lattice paths](http://projecteuler.net/problem=15)
+[015 Lattice paths](http://projecteuler.net/problem=15):trollface:
 ========================
 
 - answer: 137846528820 

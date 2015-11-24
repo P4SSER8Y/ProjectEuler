@@ -1,4 +1,4 @@
-[072 Counting fractions](http://projecteuler.net/problem=72)
+[072 Counting fractions](http://projecteuler.net/problem=72):warning:
 ========================
 
 - answer: 303963552391 

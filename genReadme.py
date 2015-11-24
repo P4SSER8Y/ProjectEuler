@@ -40,12 +40,24 @@ db = PEDB()
 f = open('README.md', 'w')
 f.write(prefix)
 for x in db.getSolvedProblems():
-    f.write('+ [' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')\n')
+    f.write('+ [' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')')
+    if str(db.getProblem(x)['time']) > 60000:
+        f.write(":heavy_exclamation_mark: ")
+    if os.path.exists('pr'+str(1000+x)[1:]+'\\algo.md'):
+        f.write(":heavy_check_mark: ")
+    f.write("\n\n")
     f.write('    - answer: ' + str(db.getProblem(x)['answer']) + ' \n')
     f.write('    - min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')
 
     rm = open('pr'+str(1000+x)[1:]+'\\README.md', 'w')
-    rm.write('[' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')\n')
+    rm.write('[' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')')
+    if db.getProblem(x)['time'] > 60000:
+        rm.write(":warning:")
+    if db.getProblem(x)['time'] < 10:
+        rm.write(":trollface:")
+    if os.path.exists('pr'+str(1000+x)[1:]+'\\algo.md'):
+        rm.write(":thought_balloon:")
+    rm.write("\n")
     rm.write('========================\n\n')
     rm.write('- answer: ' + str(db.getProblem(x)['answer']) + ' \n')
     rm.write('- min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')

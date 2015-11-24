@@ -1,4 +1,4 @@
-[026 Reciprocal cycles](http://projecteuler.net/problem=26)
+[026 Reciprocal cycles](http://projecteuler.net/problem=26):trollface:
 ========================
 
 - answer: 983 
