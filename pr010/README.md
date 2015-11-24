@@ -1,4 +1,4 @@
-+ [010 Summation of primes](http://projecteuler.net/problem=10)
+[010 Summation of primes](http://projecteuler.net/problem=10)
 ========================
 
 - answer: 142913828922 

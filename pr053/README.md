@@ -1,4 +1,4 @@
-+ [053 Combinatoric selections](http://projecteuler.net/problem=53)
+[053 Combinatoric selections](http://projecteuler.net/problem=53)
 ========================
 
 - answer: 4075 

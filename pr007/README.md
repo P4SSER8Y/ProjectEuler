@@ -1,4 +1,4 @@
-+ [007 10001st prime](http://projecteuler.net/problem=7)
+[007 10001st prime](http://projecteuler.net/problem=7)
 ========================
 
 - answer: 104743 

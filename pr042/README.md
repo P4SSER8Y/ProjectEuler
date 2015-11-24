@@ -1,4 +1,4 @@
-+ [042 Coded triangle numbers](http://projecteuler.net/problem=42)
+[042 Coded triangle numbers](http://projecteuler.net/problem=42)
 ========================
 
 - answer: 162 

@@ -1,4 +1,4 @@
-+ [052 Permuted multiples](http://projecteuler.net/problem=52)
+[052 Permuted multiples](http://projecteuler.net/problem=52)
 ========================
 
 - answer: 142857 

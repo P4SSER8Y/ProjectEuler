@@ -1,4 +1,4 @@
-+ [045 Triangular, pentagonal, and hexagonal](http://projecteuler.net/problem=45)
+[045 Triangular, pentagonal, and hexagonal](http://projecteuler.net/problem=45)
 ========================
 
 - answer: 1533776805 

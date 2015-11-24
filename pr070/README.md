@@ -1,4 +1,4 @@
-+ [070 Totient permutation](http://projecteuler.net/problem=70)
+[070 Totient permutation](http://projecteuler.net/problem=70)
 ========================
 
 - answer: 8319823 

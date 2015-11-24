@@ -1,4 +1,4 @@
-+ [085 Counting rectangles](http://projecteuler.net/problem=85)
+[085 Counting rectangles](http://projecteuler.net/problem=85)
 ========================
 
 - answer: 2772 

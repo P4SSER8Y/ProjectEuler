@@ -1,4 +1,4 @@
-+ [067 Maximum path sum II](http://projecteuler.net/problem=67)
+[067 Maximum path sum II](http://projecteuler.net/problem=67)
 ========================
 
 - answer: 7273 

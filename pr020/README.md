@@ -1,4 +1,4 @@
-+ [020 Factorial digit sum](http://projecteuler.net/problem=20)
+[020 Factorial digit sum](http://projecteuler.net/problem=20)
 ========================
 
 - answer: 648 

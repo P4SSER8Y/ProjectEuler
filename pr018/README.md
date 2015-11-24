@@ -1,4 +1,4 @@
-+ [018 Maximum path sum I](http://projecteuler.net/problem=18)
+[018 Maximum path sum I](http://projecteuler.net/problem=18)
 ========================
 
 - answer: 1074 

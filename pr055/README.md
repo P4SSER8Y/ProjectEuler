@@ -1,4 +1,4 @@
-+ [055 Lychrel numbers](http://projecteuler.net/problem=55)
+[055 Lychrel numbers](http://projecteuler.net/problem=55)
 ========================
 
 - answer: 249 

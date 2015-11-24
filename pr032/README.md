@@ -1,4 +1,4 @@
-+ [032 Pandigital products](http://projecteuler.net/problem=32)
+[032 Pandigital products](http://projecteuler.net/problem=32)
 ========================
 
 - answer: 45228 

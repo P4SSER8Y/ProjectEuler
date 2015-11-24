@@ -45,7 +45,7 @@ for x in db.getSolvedProblems():
     f.write('    - min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')
 
     rm = open('pr'+str(1000+x)[1:]+'\\README.md', 'w')
-    rm.write('+ [' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')\n')
+    rm.write('[' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')\n')
     rm.write('========================\n\n')
     rm.write('- answer: ' + str(db.getProblem(x)['answer']) + ' \n')
     rm.write('- min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')

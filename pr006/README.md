@@ -1,4 +1,4 @@
-+ [006 Sum square difference](http://projecteuler.net/problem=6)
+[006 Sum square difference](http://projecteuler.net/problem=6)
 ========================
 
 - answer: 25164150 

@@ -1,4 +1,4 @@
-+ [034 Digit factorials](http://projecteuler.net/problem=34)
+[034 Digit factorials](http://projecteuler.net/problem=34)
 ========================
 
 - answer: 40730 

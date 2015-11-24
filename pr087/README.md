@@ -1,4 +1,4 @@
-+ [087 Prime power triples](http://projecteuler.net/problem=87)
+[087 Prime power triples](http://projecteuler.net/problem=87)
 ========================
 
 - answer: 1097343 

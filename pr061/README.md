@@ -1,4 +1,4 @@
-+ [061 Cyclical figurate numbers](http://projecteuler.net/problem=61)
+[061 Cyclical figurate numbers](http://projecteuler.net/problem=61)
 ========================
 
 - answer: 28684 

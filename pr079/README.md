@@ -1,4 +1,4 @@
-+ [079 Passcode derivation](http://projecteuler.net/problem=79)
+[079 Passcode derivation](http://projecteuler.net/problem=79)
 ========================
 
 - answer: ['73162890'] 

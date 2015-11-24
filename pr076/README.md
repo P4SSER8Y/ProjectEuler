@@ -1,4 +1,4 @@
-+ [076 Counting summations](http://projecteuler.net/problem=76)
+[076 Counting summations](http://projecteuler.net/problem=76)
 ========================
 
 - answer: 190569291 

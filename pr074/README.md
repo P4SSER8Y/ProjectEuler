@@ -1,4 +1,4 @@
-+ [074 Digit factorial chains](http://projecteuler.net/problem=74)
+[074 Digit factorial chains](http://projecteuler.net/problem=74)
 ========================
 
 - answer: 402 

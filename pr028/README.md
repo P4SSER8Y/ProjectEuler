@@ -1,4 +1,4 @@
-+ [028 Number spiral diagonals](http://projecteuler.net/problem=28)
+[028 Number spiral diagonals](http://projecteuler.net/problem=28)
 ========================
 
 - answer: 669171001 
