@@ -7,13 +7,17 @@ def run(problem):
     print "Solving Problem", problem
     print "===Calculating==="
     moduleName = 'pr' + str(1000 + problem)[1:]
-    t1 = time() * 1000
     try:
-        answer = __import__(moduleName).run()
-        print "The answer is", answer
-        print "Finished in",
+        m = __import__(moduleName)
     except ImportError:
         print "the Problem is not done"
+        return None, None
+
+    t1 = time() * 1000
+    try:
+        answer = m.run()
+        print "The answer is", answer
+        print "Finished in",
     except KeyboardInterrupt:
         print "Interruped at",
     t2 = time() * 1000
