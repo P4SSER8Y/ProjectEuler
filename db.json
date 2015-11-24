@@ -2220,7 +2220,9 @@
         "title": "Monopoly odds"
     }, 
     "85": {
-        "solved": false, 
+        "answer": "2772", 
+        "solved": true, 
+        "time": 149, 
         "title": "Counting rectangles"
     }, 
     "86": {
