@@ -1,4 +1,4 @@
-076 Counting summations[:link:](http://projecteuler.net/problem=76)  :trollface:
+076 Counting summations[:link:](http://projecteuler.net/problem=76)  :clock1:
 ========================
 
 - answer: 190569291 

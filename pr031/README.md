@@ -1,4 +1,4 @@
-031 Coin sums[:link:](http://projecteuler.net/problem=31)  :trollface:
+031 Coin sums[:link:](http://projecteuler.net/problem=31)  :clock1:
 ========================
 
 - answer: 73682 

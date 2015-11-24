@@ -28,17 +28,17 @@ Requirements
 
 Solved Problems
 ===============
-+ [001 Multiples of 3 and 5](001)[:link:](http://projecteuler.net/problem=1)  :trollface:
++ [001 Multiples of 3 and 5](001)[:link:](http://projecteuler.net/problem=1)  :clock1:
 
     - answer: 233168 
     - min used time: 0 ms
 
-+ [002 Even Fibonacci numbers](002)[:link:](http://projecteuler.net/problem=2)  :trollface:
++ [002 Even Fibonacci numbers](002)[:link:](http://projecteuler.net/problem=2)  :clock1:
 
     - answer: 4613732 
     - min used time: 0 ms
 
-+ [003 Largest prime factor](003)[:link:](http://projecteuler.net/problem=3)  
++ [003 Largest prime factor](003)[:link:](http://projecteuler.net/problem=3)  :clock1:
 
     - answer: 6857 
     - min used time: 46 ms
@@ -48,12 +48,12 @@ Solved Problems
     - answer: 906609 
     - min used time: 57 ms
 
-+ [005 Smallest multiple](005)[:link:](http://projecteuler.net/problem=5)  :trollface:
++ [005 Smallest multiple](005)[:link:](http://projecteuler.net/problem=5)  :clock1:
 
     - answer: 232792560 
     - min used time: 0 ms
 
-+ [006 Sum square difference](006)[:link:](http://projecteuler.net/problem=6)  :trollface:
++ [006 Sum square difference](006)[:link:](http://projecteuler.net/problem=6)  :clock1:
 
     - answer: 25164150 
     - min used time: 0 ms
@@ -63,12 +63,12 @@ Solved Problems
     - answer: 104743 
     - min used time: 346 ms
 
-+ [008 Largest product in a series](008)[:link:](http://projecteuler.net/problem=8)  
++ [008 Largest product in a series](008)[:link:](http://projecteuler.net/problem=8)  :clock1:
 
     - answer: 23514624000 
     - min used time: 18 ms
 
-+ [009 Special Pythagorean triplet](009)[:link:](http://projecteuler.net/problem=9)  :trollface:
++ [009 Special Pythagorean triplet](009)[:link:](http://projecteuler.net/problem=9)  :clock1:
 
     - answer: 31875000 
     - min used time: 0 ms
@@ -78,7 +78,7 @@ Solved Problems
     - answer: 142913828922 
     - min used time: 75 ms
 
-+ [011 Largest product in a grid](011)[:link:](http://projecteuler.net/problem=11)  
++ [011 Largest product in a grid](011)[:link:](http://projecteuler.net/problem=11)  :clock1:
 
     - answer: 70600674 
     - min used time: 38 ms
@@ -88,7 +88,7 @@ Solved Problems
     - answer: 76576500 
     - min used time: 158 ms
 
-+ [013 Large sum](013)[:link:](http://projecteuler.net/problem=13)  :trollface:
++ [013 Large sum](013)[:link:](http://projecteuler.net/problem=13)  :clock1:
 
     - answer: 5537376230390876637302048746832985971773659831892672 
     - min used time: 0 ms
@@ -98,32 +98,32 @@ Solved Problems
     - answer: 837799 
     - min used time: 2285 ms
 
-+ [015 Lattice paths](015)[:link:](http://projecteuler.net/problem=15)  :trollface:
++ [015 Lattice paths](015)[:link:](http://projecteuler.net/problem=15)  :clock1:
 
     - answer: 137846528820 
     - min used time: 0 ms
 
-+ [016 Power digit sum](016)[:link:](http://projecteuler.net/problem=16)  :trollface:
++ [016 Power digit sum](016)[:link:](http://projecteuler.net/problem=16)  :clock1:
 
     - answer: 1366 
     - min used time: 0 ms
 
-+ [017 Number letter counts](017)[:link:](http://projecteuler.net/problem=17)  :trollface:
++ [017 Number letter counts](017)[:link:](http://projecteuler.net/problem=17)  :clock1:
 
     - answer: 21124 
     - min used time: 3 ms
 
-+ [018 Maximum path sum I](018)[:link:](http://projecteuler.net/problem=18)  :trollface:
++ [018 Maximum path sum I](018)[:link:](http://projecteuler.net/problem=18)  :clock1:
 
     - answer: 1074 
     - min used time: 0 ms
 
-+ [019 Counting Sundays](019)[:link:](http://projecteuler.net/problem=19)  
++ [019 Counting Sundays](019)[:link:](http://projecteuler.net/problem=19)  :clock1:
 
     - answer: 171 
     - min used time: 25 ms
 
-+ [020 Factorial digit sum](020)[:link:](http://projecteuler.net/problem=20)  :trollface:
++ [020 Factorial digit sum](020)[:link:](http://projecteuler.net/problem=20)  :clock1:
 
     - answer: 648 
     - min used time: 0 ms
@@ -153,7 +153,7 @@ Solved Problems
     - answer: 4782 
     - min used time: 279 ms
 
-+ [026 Reciprocal cycles](026)[:link:](http://projecteuler.net/problem=26)  :trollface:
++ [026 Reciprocal cycles](026)[:link:](http://projecteuler.net/problem=26)  :clock1:
 
     - answer: 983 
     - min used time: 9 ms
@@ -163,12 +163,12 @@ Solved Problems
     - answer: -59231 
     - min used time: 837 ms
 
-+ [028 Number spiral diagonals](028)[:link:](http://projecteuler.net/problem=28)  :trollface:
++ [028 Number spiral diagonals](028)[:link:](http://projecteuler.net/problem=28)  :clock1:
 
     - answer: 669171001 
     - min used time: 0 ms
 
-+ [029 Distinct powers](029)[:link:](http://projecteuler.net/problem=29)  
++ [029 Distinct powers](029)[:link:](http://projecteuler.net/problem=29)  :clock1:
 
     - answer: 9183 
     - min used time: 20 ms
@@ -178,7 +178,7 @@ Solved Problems
     - answer: 443839 
     - min used time: 120 ms
 
-+ [031 Coin sums](031)[:link:](http://projecteuler.net/problem=31)  :trollface:
++ [031 Coin sums](031)[:link:](http://projecteuler.net/problem=31)  :clock1:
 
     - answer: 73682 
     - min used time: 0 ms
@@ -213,7 +213,7 @@ Solved Problems
     - answer: 748317 
     - min used time: 133 ms
 
-+ [038 Pandigital multiples](038)[:link:](http://projecteuler.net/problem=38)  
++ [038 Pandigital multiples](038)[:link:](http://projecteuler.net/problem=38)  :clock1:
 
     - answer: 932718654 
     - min used time: 43 ms
@@ -233,7 +233,7 @@ Solved Problems
     - answer: 7652413 
     - min used time: 782 ms
 
-+ [042 Coded triangle numbers](042)[:link:](http://projecteuler.net/problem=42)  
++ [042 Coded triangle numbers](042)[:link:](http://projecteuler.net/problem=42)  :clock1:
 
     - answer: 162 
     - min used time: 28 ms
@@ -248,7 +248,7 @@ Solved Problems
     - answer: 5482660 
     - min used time: 172 ms
 
-+ [045 Triangular, pentagonal, and hexagonal](045)[:link:](http://projecteuler.net/problem=45)  
++ [045 Triangular, pentagonal, and hexagonal](045)[:link:](http://projecteuler.net/problem=45)  :clock1:
 
     - answer: 1533776805 
     - min used time: 41 ms
@@ -268,7 +268,7 @@ Solved Problems
     - answer: 9110846700 
     - min used time: 122 ms
 
-+ [049 Prime permutations](049)[:link:](http://projecteuler.net/problem=49)  
++ [049 Prime permutations](049)[:link:](http://projecteuler.net/problem=49)  :clock1:
 
     - answer: [(1487, 4817, 8147), (2969, 6299, 9629)] 
     - min used time: 43 ms
@@ -278,12 +278,12 @@ Solved Problems
     - answer: (543, 997651) 
     - min used time: 133 ms
 
-+ [052 Permuted multiples](052)[:link:](http://projecteuler.net/problem=52)  
++ [052 Permuted multiples](052)[:link:](http://projecteuler.net/problem=52)  :clock1:
 
     - answer: 142857 
     - min used time: 37 ms
 
-+ [053 Combinatoric selections](053)[:link:](http://projecteuler.net/problem=53)  :trollface:
++ [053 Combinatoric selections](053)[:link:](http://projecteuler.net/problem=53)  :clock1:
 
     - answer: 4075 
     - min used time: 7 ms
@@ -318,12 +318,12 @@ Solved Problems
     - answer: 107359 
     - min used time: 1788 ms
 
-+ [061 Cyclical figurate numbers](061)[:link:](http://projecteuler.net/problem=61)  
++ [061 Cyclical figurate numbers](061)[:link:](http://projecteuler.net/problem=61)  :clock1:
 
     - answer: 28684 
     - min used time: 20 ms
 
-+ [063 Powerful digit counts](063)[:link:](http://projecteuler.net/problem=63)  :trollface:
++ [063 Powerful digit counts](063)[:link:](http://projecteuler.net/problem=63)  :clock1:
 
     - answer: 49 
     - min used time: 0 ms
@@ -333,7 +333,7 @@ Solved Problems
     - answer: 1322 
     - min used time: 315 ms
 
-+ [065 Convergents of e](065)[:link:](http://projecteuler.net/problem=65)  :trollface:
++ [065 Convergents of e](065)[:link:](http://projecteuler.net/problem=65)  :clock1:
 
     - answer: 272 
     - min used time: 0 ms
@@ -343,7 +343,7 @@ Solved Problems
     - answer: 661 
     - min used time: 750 ms
 
-+ [067 Maximum path sum II](067)[:link:](http://projecteuler.net/problem=67)  :trollface:
++ [067 Maximum path sum II](067)[:link:](http://projecteuler.net/problem=67)  :clock1:
 
     - answer: 7273 
     - min used time: 2 ms
@@ -373,12 +373,12 @@ Solved Problems
     - answer: 402 
     - min used time: 5100 ms
 
-+ [076 Counting summations](076)[:link:](http://projecteuler.net/problem=76)  :trollface:
++ [076 Counting summations](076)[:link:](http://projecteuler.net/problem=76)  :clock1:
 
     - answer: 190569291 
     - min used time: 0 ms
 
-+ [079 Passcode derivation](079)[:link:](http://projecteuler.net/problem=79)  
++ [079 Passcode derivation](079)[:link:](http://projecteuler.net/problem=79)  :clock1:
 
     - answer: ['73162890'] 
     - min used time: 20 ms
@@ -398,7 +398,7 @@ Solved Problems
     - answer: 8581146 
     - min used time: 2997 ms
 
-+ [097 Large non-Mersenne prime](097)[:link:](http://projecteuler.net/problem=97)  :trollface:
++ [097 Large non-Mersenne prime](097)[:link:](http://projecteuler.net/problem=97)  :clock1:
 
     - answer: 8739992577 
     - min used time: 0 ms

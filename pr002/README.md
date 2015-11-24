@@ -1,4 +1,4 @@
-002 Even Fibonacci numbers[:link:](http://projecteuler.net/problem=2)  :trollface:
+002 Even Fibonacci numbers[:link:](http://projecteuler.net/problem=2)  :clock1:
 ========================
 
 - answer: 4613732 

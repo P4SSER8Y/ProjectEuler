@@ -1,4 +1,4 @@
-065 Convergents of e[:link:](http://projecteuler.net/problem=65)  :trollface:
+065 Convergents of e[:link:](http://projecteuler.net/problem=65)  :clock1:
 ========================
 
 - answer: 272 

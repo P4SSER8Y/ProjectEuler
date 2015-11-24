@@ -1,4 +1,4 @@
-053 Combinatoric selections[:link:](http://projecteuler.net/problem=53)  :trollface:
+053 Combinatoric selections[:link:](http://projecteuler.net/problem=53)  :clock1:
 ========================
 
 - answer: 4075 

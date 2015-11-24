@@ -43,8 +43,8 @@ for x in db.getSolvedProblems():
     f.write('+ [' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r']('+ str(1000+x)[1:]+ ')[:link:](http://projecteuler.net/problem=' + str(x) + ')  ')
     if db.getProblem(x)['time'] > 60000:
         f.write(":warning: ")
-    if db.getProblem(x)['time'] < 10:
-        f.write(":trollface:")
+    if db.getProblem(x)['time'] < 50:
+        f.write(":clock1:")
     if os.path.exists('pr'+str(1000+x)[1:]+'\\algo.md'):
         f.write(":thought_balloon:")
     f.write("\n\n")
@@ -55,8 +55,8 @@ for x in db.getSolvedProblems():
     rm.write(str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'[:link:](http://projecteuler.net/problem=' + str(x) + ')  ')
     if db.getProblem(x)['time'] > 60000:
         rm.write(":warning:")
-    if db.getProblem(x)['time'] < 10:
-        rm.write(":trollface:")
+    if db.getProblem(x)['time'] < 50:
+        rm.write(":clock1:")
     if os.path.exists('pr'+str(1000+x)[1:]+'\\algo.md'):
         rm.write(":thought_balloon:")
     rm.write("\n")

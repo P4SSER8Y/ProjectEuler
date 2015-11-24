@@ -1,4 +1,4 @@
-029 Distinct powers[:link:](http://projecteuler.net/problem=29)  
+029 Distinct powers[:link:](http://projecteuler.net/problem=29)  :clock1:
 ========================
 
 - answer: 9183 

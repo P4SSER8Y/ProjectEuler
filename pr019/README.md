@@ -1,4 +1,4 @@
-019 Counting Sundays[:link:](http://projecteuler.net/problem=19)  
+019 Counting Sundays[:link:](http://projecteuler.net/problem=19)  :clock1:
 ========================
 
 - answer: 171 

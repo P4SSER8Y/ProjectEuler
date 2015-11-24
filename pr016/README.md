@@ -1,4 +1,4 @@
-016 Power digit sum[:link:](http://projecteuler.net/problem=16)  :trollface:
+016 Power digit sum[:link:](http://projecteuler.net/problem=16)  :clock1:
 ========================
 
 - answer: 1366 
