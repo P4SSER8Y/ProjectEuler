@@ -1,4 +1,4 @@
-[064 Odd period square roots](http://projecteuler.net/problem=64)
+064 Odd period square roots[:link:](http://projecteuler.net/problem=64)  
 ========================
 
 - answer: 1322 

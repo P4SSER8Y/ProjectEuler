@@ -1,4 +1,4 @@
-[030 Digit fifth powers](http://projecteuler.net/problem=30)
+030 Digit fifth powers[:link:](http://projecteuler.net/problem=30)  
 ========================
 
 - answer: 443839 

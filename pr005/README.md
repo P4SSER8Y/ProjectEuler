@@ -1,4 +1,4 @@
-[005 Smallest multiple](http://projecteuler.net/problem=5):trollface:
+005 Smallest multiple[:link:](http://projecteuler.net/problem=5)  :trollface:
 ========================
 
 - answer: 232792560 

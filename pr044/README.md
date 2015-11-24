@@ -1,4 +1,4 @@
-[044 Pentagon numbers](http://projecteuler.net/problem=44)
+044 Pentagon numbers[:link:](http://projecteuler.net/problem=44)  
 ========================
 
 - answer: 5482660 

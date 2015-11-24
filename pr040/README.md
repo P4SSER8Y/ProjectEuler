@@ -1,4 +1,4 @@
-[040 Champernowne's constant](http://projecteuler.net/problem=40)
+040 Champernowne's constant[:link:](http://projecteuler.net/problem=40)  
 ========================
 
 - answer: 210 

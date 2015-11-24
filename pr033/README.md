@@ -1,4 +1,4 @@
-[033 Digit cancelling fractions](http://projecteuler.net/problem=33)
+033 Digit cancelling fractions[:link:](http://projecteuler.net/problem=33)  
 ========================
 
 - answer: 1/100 

@@ -1,4 +1,4 @@
-[003 Largest prime factor](http://projecteuler.net/problem=3)
+003 Largest prime factor[:link:](http://projecteuler.net/problem=3)  
 ========================
 
 - answer: 6857 

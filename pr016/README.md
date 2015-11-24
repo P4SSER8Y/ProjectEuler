@@ -1,4 +1,4 @@
-[016 Power digit sum](http://projecteuler.net/problem=16):trollface:
+016 Power digit sum[:link:](http://projecteuler.net/problem=16)  :trollface:
 ========================
 
 - answer: 1366 

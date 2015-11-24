@@ -1,4 +1,4 @@
-[063 Powerful digit counts](http://projecteuler.net/problem=63):trollface:
+063 Powerful digit counts[:link:](http://projecteuler.net/problem=63)  :trollface:
 ========================
 
 - answer: 49 

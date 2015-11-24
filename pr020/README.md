@@ -1,4 +1,4 @@
-[020 Factorial digit sum](http://projecteuler.net/problem=20):trollface:
+020 Factorial digit sum[:link:](http://projecteuler.net/problem=20)  :trollface:
 ========================
 
 - answer: 648 

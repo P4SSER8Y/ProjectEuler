@@ -1,4 +1,4 @@
-[027 Quadratic primes](http://projecteuler.net/problem=27)
+027 Quadratic primes[:link:](http://projecteuler.net/problem=27)  
 ========================
 
 - answer: -59231 

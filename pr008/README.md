@@ -1,4 +1,4 @@
-[008 Largest product in a series](http://projecteuler.net/problem=8)
+008 Largest product in a series[:link:](http://projecteuler.net/problem=8)  
 ========================
 
 - answer: 23514624000 

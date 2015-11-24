@@ -1,4 +1,4 @@
-[059 XOR decryption](http://projecteuler.net/problem=59)
+059 XOR decryption[:link:](http://projecteuler.net/problem=59)  
 ========================
 
 - answer: 107359 

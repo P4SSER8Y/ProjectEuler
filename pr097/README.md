@@ -1,4 +1,4 @@
-[097 Large non-Mersenne prime](http://projecteuler.net/problem=97):trollface:
+097 Large non-Mersenne prime[:link:](http://projecteuler.net/problem=97)  :trollface:
 ========================
 
 - answer: 8739992577 

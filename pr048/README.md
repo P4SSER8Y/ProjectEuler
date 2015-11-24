@@ -1,4 +1,4 @@
-[048 Self powers](http://projecteuler.net/problem=48)
+048 Self powers[:link:](http://projecteuler.net/problem=48)  
 ========================
 
 - answer: 9110846700 

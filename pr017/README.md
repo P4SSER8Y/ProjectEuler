@@ -1,4 +1,4 @@
-[017 Number letter counts](http://projecteuler.net/problem=17):trollface:
+017 Number letter counts[:link:](http://projecteuler.net/problem=17)  :trollface:
 ========================
 
 - answer: 21124 

@@ -1,4 +1,4 @@
-[054 Poker hands](http://projecteuler.net/problem=54)
+054 Poker hands[:link:](http://projecteuler.net/problem=54)  
 ========================
 
 - answer: 376 

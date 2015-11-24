@@ -40,7 +40,7 @@ db = PEDB()
 f = open('README.md', 'w')
 f.write(prefix)
 for x in db.getSolvedProblems():
-    f.write('+ [' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')')
+    f.write('+ [' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r']('+ str(1000+x)[1:]+ ')[:link:](http://projecteuler.net/problem=' + str(x) + ')  ')
     if db.getProblem(x)['time'] > 60000:
         f.write(":warning: ")
     if db.getProblem(x)['time'] < 10:
@@ -52,7 +52,7 @@ for x in db.getSolvedProblems():
     f.write('    - min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')
 
     rm = open('pr'+str(1000+x)[1:]+'\\README.md', 'w')
-    rm.write('[' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')')
+    rm.write(str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'[:link:](http://projecteuler.net/problem=' + str(x) + ')  ')
     if db.getProblem(x)['time'] > 60000:
         rm.write(":warning:")
     if db.getProblem(x)['time'] < 10:

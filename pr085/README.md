@@ -1,4 +1,4 @@
-[085 Counting rectangles](http://projecteuler.net/problem=85):thought_balloon:
+085 Counting rectangles[:link:](http://projecteuler.net/problem=85)  :thought_balloon:
 ========================
 
 - answer: 2772 

@@ -1,4 +1,4 @@
-[006 Sum square difference](http://projecteuler.net/problem=6):trollface:
+006 Sum square difference[:link:](http://projecteuler.net/problem=6)  :trollface:
 ========================
 
 - answer: 25164150 

@@ -1,4 +1,4 @@
-[018 Maximum path sum I](http://projecteuler.net/problem=18):trollface:
+018 Maximum path sum I[:link:](http://projecteuler.net/problem=18)  :trollface:
 ========================
 
 - answer: 1074 
