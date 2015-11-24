@@ -41,10 +41,12 @@ f = open('README.md', 'w')
 f.write(prefix)
 for x in db.getSolvedProblems():
     f.write('+ [' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r'](http://projecteuler.net/problem=' + str(x) + ')')
-    if str(db.getProblem(x)['time']) > 60000:
-        f.write(":heavy_exclamation_mark: ")
+    if db.getProblem(x)['time'] > 60000:
+        f.write(":warning: ")
+    if db.getProblem(x)['time'] < 10:
+        f.write(":trollface:")
     if os.path.exists('pr'+str(1000+x)[1:]+'\\algo.md'):
-        f.write(":heavy_check_mark: ")
+        f.write(":thought_balloon:")
     f.write("\n\n")
     f.write('    - answer: ' + str(db.getProblem(x)['answer']) + ' \n')
     f.write('    - min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')
