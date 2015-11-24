@@ -1,8 +1,8 @@
-085 Counting rectangles [:link:](http://projecteuler.net/problem=85)  :thought_balloon:
+085 Counting rectangles [:link:](http://projecteuler.net/problem=85)  :clock1::thought_balloon:
 ========================
 
 - answer: 2772 
-- min used time: 149 ms
+- min used time: 14 ms
 
 Algorithm
 =========

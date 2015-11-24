@@ -156,7 +156,7 @@ Solved Problems
 + 026 Reciprocal cycles [:link:](http://projecteuler.net/problem=26)  :clock1:
 
     - answer: 983 
-    - min used time: 9 ms
+    - min used time: 7 ms
 
 + 027 Quadratic primes [:link:](http://projecteuler.net/problem=27)  
 
@@ -191,7 +191,7 @@ Solved Problems
 + 033 Digit cancelling fractions [:link:](http://projecteuler.net/problem=33)  
 
     - answer: 1/100 
-    - min used time: 122 ms
+    - min used time: 111 ms
 
 + 034 Digit factorials [:link:](http://projecteuler.net/problem=34)  
 
@@ -366,7 +366,7 @@ Solved Problems
 + 072 Counting fractions [:link:](http://projecteuler.net/problem=72)  :warning: 
 
     - answer: 303963552391 
-    - min used time: 240870 ms
+    - min used time: 210453 ms
 
 + 073 Counting fractions in a range [:link:](http://projecteuler.net/problem=73)  
 
@@ -388,10 +388,10 @@ Solved Problems
     - answer: ['73162890'] 
     - min used time: 20 ms
 
-+ 085 Counting rectangles [:link:](http://projecteuler.net/problem=85)  :thought_balloon:
++ 085 Counting rectangles [:link:](http://projecteuler.net/problem=85)  :clock1::thought_balloon:
 
     - answer: 2772 
-    - min used time: 149 ms
+    - min used time: 14 ms
 
 + 087 Prime power triples [:link:](http://projecteuler.net/problem=87)  
 
