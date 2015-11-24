@@ -1,4 +1,4 @@
-036 Double-base palindromes[:link:](http://projecteuler.net/problem=36)  
+036 Double-base palindromes [:link:](http://projecteuler.net/problem=36)  
 ========================
 
 - answer: 872187 

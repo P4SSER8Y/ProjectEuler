@@ -1,4 +1,4 @@
-066 Diophantine equation[:link:](http://projecteuler.net/problem=66)  
+066 Diophantine equation [:link:](http://projecteuler.net/problem=66)  
 ========================
 
 - answer: 661 

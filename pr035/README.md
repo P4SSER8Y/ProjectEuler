@@ -1,4 +1,4 @@
-035 Circular primes[:link:](http://projecteuler.net/problem=35)  
+035 Circular primes [:link:](http://projecteuler.net/problem=35)  
 ========================
 
 - answer: 55 

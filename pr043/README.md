@@ -1,4 +1,4 @@
-043 Sub-string divisibility[:link:](http://projecteuler.net/problem=43)  
+043 Sub-string divisibility [:link:](http://projecteuler.net/problem=43)  
 ========================
 
 - answer: 16695334890 

@@ -1,4 +1,4 @@
-022 Names scores[:link:](http://projecteuler.net/problem=22)  
+022 Names scores [:link:](http://projecteuler.net/problem=22)  
 ========================
 
 - answer: 871198282 

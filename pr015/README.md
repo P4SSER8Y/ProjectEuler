@@ -1,4 +1,4 @@
-015 Lattice paths[:link:](http://projecteuler.net/problem=15)  :clock1:
+015 Lattice paths [:link:](http://projecteuler.net/problem=15)  :clock1:
 ========================
 
 - answer: 137846528820 

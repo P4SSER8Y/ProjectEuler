@@ -1,4 +1,4 @@
-046 Goldbach's other conjecture[:link:](http://projecteuler.net/problem=46)  
+046 Goldbach's other conjecture [:link:](http://projecteuler.net/problem=46)  
 ========================
 
 - answer: 5777 

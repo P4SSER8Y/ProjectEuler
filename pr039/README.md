@@ -1,4 +1,4 @@
-039 Integer right triangles[:link:](http://projecteuler.net/problem=39)  
+039 Integer right triangles [:link:](http://projecteuler.net/problem=39)  
 ========================
 
 - answer: 840 

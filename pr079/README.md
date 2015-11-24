@@ -1,4 +1,4 @@
-079 Passcode derivation[:link:](http://projecteuler.net/problem=79)  :clock1:
+079 Passcode derivation [:link:](http://projecteuler.net/problem=79)  :clock1:
 ========================
 
 - answer: ['73162890'] 

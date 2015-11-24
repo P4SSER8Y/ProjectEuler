@@ -1,4 +1,4 @@
-112 Bouncy numbers[:link:](http://projecteuler.net/problem=112)  
+112 Bouncy numbers [:link:](http://projecteuler.net/problem=112)  
 ========================
 
 - answer: 1587000 

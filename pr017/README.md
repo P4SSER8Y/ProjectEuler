@@ -1,4 +1,4 @@
-017 Number letter counts[:link:](http://projecteuler.net/problem=17)  :clock1:
+017 Number letter counts [:link:](http://projecteuler.net/problem=17)  :clock1:
 ========================
 
 - answer: 21124 

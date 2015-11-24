@@ -1,4 +1,4 @@
-041 Pandigital prime[:link:](http://projecteuler.net/problem=41)  
+041 Pandigital prime [:link:](http://projecteuler.net/problem=41)  
 ========================
 
 - answer: 7652413 

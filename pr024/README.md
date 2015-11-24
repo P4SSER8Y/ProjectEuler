@@ -1,4 +1,4 @@
-024 Lexicographic permutations[:link:](http://projecteuler.net/problem=24)  
+024 Lexicographic permutations [:link:](http://projecteuler.net/problem=24)  
 ========================
 
 - answer: 2783915460 

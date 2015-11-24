@@ -1,4 +1,4 @@
-092 Square digit chains[:link:](http://projecteuler.net/problem=92)  
+092 Square digit chains [:link:](http://projecteuler.net/problem=92)  
 ========================
 
 - answer: 8581146 

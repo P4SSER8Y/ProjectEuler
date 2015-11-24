@@ -1,4 +1,4 @@
-026 Reciprocal cycles[:link:](http://projecteuler.net/problem=26)  :clock1:
+026 Reciprocal cycles [:link:](http://projecteuler.net/problem=26)  :clock1:
 ========================
 
 - answer: 983 

@@ -1,4 +1,4 @@
-023 Non-abundant sums[:link:](http://projecteuler.net/problem=23)  
+023 Non-abundant sums [:link:](http://projecteuler.net/problem=23)  
 ========================
 
 - answer: 4179871 
