@@ -2,6 +2,7 @@
 import string
 from operator import xor
 from itertools import cycle
+from os.path import split, realpath
 
 def pr059():
     def decrypt(key, ori):
@@ -9,7 +10,7 @@ def pr059():
         for c in ori:
             ret += chr(xor(ord(key.next()), c))
         return ret
-    f = open("data059.txt", 'r')
+    f = open(split(realpath(__file__))[0]+"\\data059.txt", 'r')
     data = map(int, f.readline().split(','))
     f.close()
     maxEs = 0
@@ -24,10 +25,6 @@ def pr059():
                     maxEs = cnt
                     best = [a, b, c]
                     bestText = tmp
-    print maxEs
-    print ''.join(best)
-    print bestText
-    print
     return sum(map(ord, bestText))
 
 

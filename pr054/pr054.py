@@ -1,4 +1,5 @@
-import re
+﻿import re
+from os.path import split, realpath
 
 HIGH_CARD = 1
 ONE_PAIR = 2
@@ -89,7 +90,7 @@ def aWin(a, b):
 
 def run():
     cnt = 0
-    f = open("data054.txt", 'r')
+    f = open(split(realpath(__file__))[0] + "\\data054.txt", 'r')
     for game in f.xreadlines():
         cards =  [(CARD_VALUE[x[0]], x[1]) for x in re.findall(r'\S\S', game)]
         cardA, cardB = cards[:5], cards[5:]

@@ -1,5 +1,6 @@
+﻿from os.path import split, realpath
 def run():
-    f = open('data067.txt', 'r')
+    f = open(split(realpath(__file__))[0]+'\\data067.txt', 'r')
     lines = f.readlines()
     f.close()
     f = []

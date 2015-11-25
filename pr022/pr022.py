@@ -1,9 +1,10 @@
+﻿from os.path import split, realpath
 def pr022():
 
     def calc(name):
         return sum(map(lambda x: ord(x) - ord('A') + 1, name))
     import re
-    f = open('data022.txt', 'r')
+    f = open(split(realpath(__file__))[0]+'\\data022.txt', 'r')
     raw = f.read()
     f.close()
     raw = re.sub(r'[^A-Z]', ' ', raw)

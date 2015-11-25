@@ -1,7 +1,8 @@
+﻿from os.path import split, realpath
 def pr042():
     def value(word):
         return sum(map(lambda c: ord(c) - ord('A') + 1, word))
-    f = open(r'data042.txt', 'r')
+    f = open(split(realpath(__file__))[0]+'\\data042.txt', 'r')
     words = eval('[' + f.readline() + ']')
     f.close()
     triNum = [0]

@@ -1,4 +1,5 @@
-﻿def run():
+﻿from os.path import split, realpath
+def run():
     ans = []
     def iter(ret):
         def check():
@@ -29,7 +30,7 @@
             for c2 in bLst:
                 backward[c2].add(c1)
 
-    f = open('data079.txt', 'r')
+    f = open(split(realpath(__file__))[0]+'\\data079.txt', 'r')
     data = [s[:3] for s in f.readlines()]
     f.close()
     forward = {}
