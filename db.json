@@ -2258,7 +2258,9 @@
         "title": "Cube digit pairs"
     }, 
     "91": {
-        "solved": false, 
+        "answer": "14234", 
+        "solved": true, 
+        "time": 2773, 
         "title": "Right triangles with integer coordinates"
     }, 
     "92": {
@@ -2268,7 +2270,9 @@
         "title": "Square digit chains"
     }, 
     "93": {
-        "solved": false, 
+        "answer": "1258", 
+        "solved": true, 
+        "time": 7388, 
         "title": "Arithmetic expressions"
     }, 
     "94": {

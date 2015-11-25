@@ -398,10 +398,20 @@ Solved Problems
     - answer: 1097343 
     - min used time: 36356 ms
 
++ 091 Right triangles with integer coordinates [:link:](http://projecteuler.net/problem=91)  :thought_balloon:
+
+    - answer: 14234 
+    - min used time: 2773 ms
+
 + 092 Square digit chains [:link:](http://projecteuler.net/problem=92)  
 
     - answer: 8581146 
     - min used time: 2997 ms
+
++ 093 Arithmetic expressions [:link:](http://projecteuler.net/problem=93)  :thought_balloon:
+
+    - answer: 1258 
+    - min used time: 7388 ms
 
 + 097 Large non-Mersenne prime [:link:](http://projecteuler.net/problem=97)  :clock1:
 
