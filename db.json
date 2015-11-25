@@ -2298,7 +2298,9 @@
         "title": "Anagramic squares"
     }, 
     "99": {
-        "solved": false, 
+        "answer": "709", 
+        "solved": true, 
+        "time": 2, 
         "title": "Largest exponential"
     }
 }

@@ -418,6 +418,11 @@ Solved Problems
     - answer: 8739992577 
     - min used time: 0 ms
 
++ 099 Largest exponential [:link:](http://projecteuler.net/problem=99)  :clock1::thought_balloon:
+
+    - answer: 709 
+    - min used time: 2 ms
+
 + 112 Bouncy numbers [:link:](http://projecteuler.net/problem=112)  
 
     - answer: 1587000 
