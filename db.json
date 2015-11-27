@@ -218,7 +218,9 @@
         "title": "Investigating multiple reflections of a laser beam"
     }, 
     "145": {
-        "solved": false, 
+        "answer": "(608720, 89990001)", 
+        "solved": true, 
+        "time": 17939, 
         "title": "How many reversible numbers are there below one-billion?"
     }, 
     "146": {
