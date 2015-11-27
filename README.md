@@ -438,6 +438,11 @@ Solved Problems
     - answer: 1389019170 
     - min used time: 13800 ms
 
++ 357 Prime generating integers [:link:](http://projecteuler.net/problem=357)  :thought_balloon:
+
+    - answer: 1739023853137 
+    - min used time: 47792 ms
+
 + 387 Harshad Numbers [:link:](http://projecteuler.net/problem=387)  :thought_balloon:
 
     - answer: 696067597313468 

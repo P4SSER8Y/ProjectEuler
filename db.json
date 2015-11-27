@@ -1208,7 +1208,9 @@
         "title": "Largest roots of cubic polynomials"
     }, 
     "357": {
-        "solved": false, 
+        "answer": "1739023853137", 
+        "solved": true, 
+        "time": 47792, 
         "title": "Prime generating integers"
     }, 
     "358": {
