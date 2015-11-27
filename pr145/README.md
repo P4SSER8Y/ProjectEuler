@@ -1,8 +1,8 @@
 145 How many reversible numbers are there below one-billion? [:link:](http://projecteuler.net/problem=145)  :thought_balloon:
 ========================
 
-- answer: (608720, 89990001) 
-- min used time: 17939 ms
+- answer: 608720 
+- min used time: 14868 ms
 
 Algorithm
 =========
