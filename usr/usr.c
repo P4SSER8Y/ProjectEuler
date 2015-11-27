@@ -4,6 +4,8 @@
     #define DLL_EXPORT
 #endif
 
+#define int64 __int64
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
@@ -13,6 +15,51 @@ DLL_EXPORT long* getPrimeFactors(long n);
 DLL_EXPORT long* getFactors(long n);
 DLL_EXPORT long* getPrimes(long n);
 DLL_EXPORT bool isPrime(long n);
+DLL_EXPORT bool isPrimeMR(int64 n);
+bool MR_witness(int64 a, int64 n);
+int64 powMod(int64 a, int64 d, int64 n);
+
+int64 powMod(int64 a, int64 d, int64 n)
+{
+    if (d == 0)
+        return 1;
+    if (d == 1)
+        return (a % n);
+    a %= n;
+    if ((d & 1) == 0)
+        return powMod(a * a % n, d >> 1, n) % n;
+    else
+        return powMod(a * a % n, d >> 1, n) * a % n;
+}
+
+bool MR_witness(int64 a, int64 n)
+{
+    int64 d, t;
+    if (n == 2)
+        return true;
+    if ((n == 1) || ((n & 1) == 0))
+        return false;
+    d = n - 1;
+    while ((d & 1) == 0)
+        d >>= 1;
+    t = powMod(a, d, n);
+    while ((d != n - 1) && (t != 1) && (t != n - 1))
+    {
+        t = (t * t) % n;
+        d <<= 1;
+    }
+    return ((t == n - 1) || ((d & 1) == 1));
+}
+
+DLL_EXPORT bool isPrimeMR(int64 n)
+{
+    const int a[] = {2, 3, 7, 11, 61, 24251};
+    int i;
+    for (i = 0; i < 6; i++)
+        if (!MR_witness(a[i], n))
+            return false;
+    return true;
+}
 
 int cmpGetFactors(const void *a, const void* b)
 {

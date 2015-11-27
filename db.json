@@ -1346,7 +1346,9 @@
         "title": "Maximum length of an antichain"
     }, 
     "387": {
-        "solved": false, 
+        "answer": "696067597313468", 
+        "solved": true, 
+        "time": 964, 
         "title": "Harshad Numbers"
     }, 
     "388": {

@@ -49,7 +49,7 @@ if useC:
     if not os.path.exists(s+r'\makefile'):
         print "Creating makefile"
         f = open(s+r'\makefile', 'w')
-        f.write("dll:\n\tgcc "+s+".c -O3 -shared -o "+s+".dll\n\n")
+        f.write("dll:\n\tgcc "+s+".c -O2 -shared -o "+s+".dll\n\n")
         f.write("exe:\n\tgcc "+s+".c -o "+s+".exe\n\n")
         f.flush()
         f.close()
@@ -62,6 +62,8 @@ if useC:
 #else
     #define DLL_EXPORT
 #endif
+
+#define FOO void
 
 #include <stdlib.h>
 #include <stdio.h>

@@ -14,6 +14,10 @@ usr.isPrime.argtypes = [c_long]
 usr.isPrime.restype = c_bool
 isPrime = usr.isPrime
 
+usr.isPrimeMR.argtypes = [c_longlong]
+usr.isPrimeMR.restype = c_bool
+isPrimeMR = usr.isPrimeMR
+
 def getFactors(n):
     usr.getFactors.argtypes = [c_long]
     usr.getFactors.restype = POINTER(c_long)

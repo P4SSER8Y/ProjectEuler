@@ -438,3 +438,8 @@ Solved Problems
     - answer: 1389019170 
     - min used time: 13800 ms
 
++ 387 Harshad Numbers [:link:](http://projecteuler.net/problem=387)  :thought_balloon:
+
+    - answer: 696067597313468 
+    - min used time: 964 ms
+
