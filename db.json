@@ -1114,7 +1114,9 @@
         "title": "Gathering the beans"
     }, 
     "336": {
-        "solved": false, 
+        "answer": "CAGBIHEFJDK", 
+        "solved": true, 
+        "time": 10358277, 
         "title": "Maximix Arrangements"
     }, 
     "337": {

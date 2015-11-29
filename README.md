@@ -443,6 +443,11 @@ Solved Problems
     - answer: 1389019170 
     - min used time: 13800 ms
 
++ 336 Maximix Arrangements [:link:](http://projecteuler.net/problem=336)  :warning: :thought_balloon:
+
+    - answer: CAGBIHEFJDK 
+    - min used time: 10358277 ms
+
 + 357 Prime generating integers [:link:](http://projecteuler.net/problem=357)  :thought_balloon:
 
     - answer: 1739023853137 
