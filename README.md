@@ -443,6 +443,11 @@ Solved Problems
     - answer: 248155780267521 
     - min used time: 21 ms
 
++ 120 Square remainders [:link:](http://projecteuler.net/problem=120)  :clock1::thought_balloon:
+
+    - answer: 333082500 
+    - min used time: 0 ms
+
 + 123 Prime square remainders [:link:](http://projecteuler.net/problem=123)  :thought_balloon:
 
     - answer: 21035 

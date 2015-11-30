@@ -108,7 +108,9 @@
         "title": "Highly divisible triangular number"
     }, 
     "120": {
-        "solved": false, 
+        "answer": "333082500", 
+        "solved": true, 
+        "time": 0, 
         "title": "Square remainders"
     }, 
     "121": {
