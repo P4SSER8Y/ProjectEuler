@@ -65,6 +65,7 @@ for x in db.getSolvedProblems():
     rm.write('- min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')
 
     if os.path.exists('pr'+str(1000+x)[1:]+'\\algo.md'):
+        print "Prob."+str(x)+" has algorithm description"
         rm.write("Algorithm\n=========\n\n")
         algo = open('pr'+str(1000+x)[1:]+'\\algo.md', 'r')
         rm.write(algo.read())

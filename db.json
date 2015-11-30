@@ -120,7 +120,9 @@
         "title": "Efficient exponentiation"
     }, 
     "123": {
-        "solved": false, 
+        "answer": "21035", 
+        "solved": true, 
+        "time": 516, 
         "title": "Prime square remainders"
     }, 
     "124": {

@@ -443,6 +443,11 @@ Solved Problems
     - answer: 248155780267521 
     - min used time: 21 ms
 
++ 123 Prime square remainders [:link:](http://projecteuler.net/problem=123)  :thought_balloon:
+
+    - answer: 21035 
+    - min used time: 516 ms
+
 + 145 How many reversible numbers are there below one-billion? [:link:](http://projecteuler.net/problem=145)  :thought_balloon:
 
     - answer: 608720 
