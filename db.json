@@ -2216,7 +2216,9 @@
         "title": "Square root digital expansion"
     }, 
     "81": {
-        "solved": false, 
+        "answer": "427337", 
+        "solved": true, 
+        "time": 37, 
         "title": "Path sum: two ways"
     }, 
     "82": {

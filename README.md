@@ -12,7 +12,7 @@ Engines
 -------
 
 + PyPy 4.0.1 (Python 2.7)
-+ gcc (with -O3 enabled)
++ gcc (with -O2 enabled)
 + My Computer
     - Windows 10 64-bit
     - CPU: Intel® Core™ i5-3210M CPU @ 2.5GHz (2 Cores 4 Threads)
@@ -387,6 +387,11 @@ Solved Problems
 
     - answer: ['73162890'] 
     - min used time: 20 ms
+
++ 081 Path sum: two ways [:link:](http://projecteuler.net/problem=81)  :clock1::thought_balloon:
+
+    - answer: 427337 
+    - min used time: 37 ms
 
 + 085 Counting rectangles [:link:](http://projecteuler.net/problem=85)  :clock1::thought_balloon:
 

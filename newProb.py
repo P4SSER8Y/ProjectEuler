@@ -2,7 +2,7 @@
 
 while True:
     print "Please enter the new problem's number:",
-    try: 
+    try:
         n = int(raw_input())
     except:
         print "Wrong Input"

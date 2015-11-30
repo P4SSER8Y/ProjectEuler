@@ -18,7 +18,7 @@ Engines
 -------
 
 + PyPy 4.0.1 (Python 2.7)
-+ gcc (with -O3 enabled)
++ gcc (with -O2 enabled)
 + My Computer
     - Windows 10 64-bit
     - CPU: Intel® Core™ i5-3210M CPU @ 2.5GHz (2 Cores 4 Threads)
