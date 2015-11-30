@@ -96,7 +96,9 @@
         "title": "Pandigital prime sets"
     }, 
     "119": {
-        "solved": false, 
+        "answer": "248155780267521", 
+        "solved": true, 
+        "time": 21, 
         "title": "Digit power sum"
     }, 
     "12": {

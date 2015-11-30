@@ -438,6 +438,11 @@ Solved Problems
     - answer: 1587000 
     - min used time: 297 ms
 
++ 119 Digit power sum [:link:](http://projecteuler.net/problem=119)  :clock1::thought_balloon:
+
+    - answer: 248155780267521 
+    - min used time: 21 ms
+
 + 145 How many reversible numbers are there below one-billion? [:link:](http://projecteuler.net/problem=145)  :thought_balloon:
 
     - answer: 608720 
