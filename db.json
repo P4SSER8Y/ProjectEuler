@@ -1850,7 +1850,9 @@
         "title": "Exploding sequence"
     }, 
     "493": {
-        "solved": false, 
+        "answer": "6.81874180202", 
+        "solved": true, 
+        "time": 407, 
         "title": "Under The Rainbow"
     }, 
     "494": {
