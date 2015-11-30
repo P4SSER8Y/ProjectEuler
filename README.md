@@ -388,6 +388,11 @@ Solved Problems
     - answer: ['73162890'] 
     - min used time: 20 ms
 
++ 080 Square root digital expansion [:link:](http://projecteuler.net/problem=80)  :thought_balloon:
+
+    - answer: 40886 
+    - min used time: 54 ms
+
 + 081 Path sum: two ways [:link:](http://projecteuler.net/problem=81)  :clock1::thought_balloon:
 
     - answer: 427337 

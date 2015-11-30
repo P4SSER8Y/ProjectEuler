@@ -2214,7 +2214,9 @@
         "title": "Largest product in a series"
     }, 
     "80": {
-        "solved": false, 
+        "answer": "40886", 
+        "solved": true, 
+        "time": 54, 
         "title": "Square root digital expansion"
     }, 
     "81": {
