@@ -433,6 +433,11 @@ Solved Problems
     - answer: 709 
     - min used time: 2 ms
 
++ 102 Triangle containment [:link:](http://projecteuler.net/problem=102)  :clock1::thought_balloon:
+
+    - answer: 228 
+    - min used time: 33 ms
+
 + 112 Bouncy numbers [:link:](http://projecteuler.net/problem=112)  
 
     - answer: 1587000 

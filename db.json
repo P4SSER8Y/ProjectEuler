@@ -20,7 +20,9 @@
         "title": "Optimum polynomial"
     }, 
     "102": {
-        "solved": false, 
+        "answer": "228", 
+        "solved": true, 
+        "time": 33, 
         "title": "Triangle containment"
     }, 
     "103": {
