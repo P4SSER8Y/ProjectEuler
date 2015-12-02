@@ -473,10 +473,20 @@ Solved Problems
     - answer: 1389019170 
     - min used time: 13800 ms
 
++ 301 Nim [:link:](http://projecteuler.net/problem=301)  :thought_balloon:
+
+    - answer: 2178309 
+    - min used time: 29029 ms
+
 + 336 Maximix Arrangements [:link:](http://projecteuler.net/problem=336)  :warning: :thought_balloon:
 
     - answer: CAGBIHEFJDK 
     - min used time: 10358277 ms
+
++ 347 Largest integer divisible by two primes [:link:](http://projecteuler.net/problem=347)  
+
+    - answer: 11109800204052 
+    - min used time: 874 ms
 
 + 357 Prime generating integers [:link:](http://projecteuler.net/problem=357)  :thought_balloon:
 

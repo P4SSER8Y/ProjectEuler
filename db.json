@@ -964,7 +964,9 @@
         "title": "Protein folding"
     }, 
     "301": {
-        "solved": false, 
+        "answer": "2178309", 
+        "solved": true, 
+        "time": 29029, 
         "title": "Nim"
     }, 
     "302": {
@@ -1174,7 +1176,9 @@
         "title": "Strong Repunits"
     }, 
     "347": {
-        "solved": false, 
+        "answer": "11109800204052", 
+        "solved": true, 
+        "time": 874, 
         "title": "Largest integer divisible by two primes"
     }, 
     "348": {

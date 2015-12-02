@@ -14,6 +14,7 @@ def run(problem):
         return None, None
 
     t1 = time() * 1000
+    answer = None
     try:
         answer = m.run()
         print "The answer is", answer
