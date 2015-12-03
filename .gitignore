@@ -1,10 +1,10 @@
+*.*
 COOKIES
-*.pyc
-*.exe
-Achives
-.vs
-*.dll
-*.vim
+.*
 
-ProjectEuler.pyproj
-ProjectEuler.sln
+!*.py
+!*.c
+makefile
+!*.md
+!*.json
+.idea/workspace.xml

@@ -2116,7 +2116,9 @@
         "title": "Cyclical figurate numbers"
     }, 
     "62": {
-        "solved": false, 
+        "answer": "127035954683", 
+        "solved": true, 
+        "time": 92, 
         "title": "Cubic permutations"
     }, 
     "63": {

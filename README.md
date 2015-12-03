@@ -323,6 +323,11 @@ Solved Problems
     - answer: 28684 
     - min used time: 20 ms
 
++ 062 Cubic permutations [:link:](http://projecteuler.net/problem=62)  :thought_balloon:
+
+    - answer: 127035954683 
+    - min used time: 92 ms
+
 + 063 Powerful digit counts [:link:](http://projecteuler.net/problem=63)  :clock1:
 
     - answer: 49 
