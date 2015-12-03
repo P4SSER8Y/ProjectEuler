@@ -8,4 +8,4 @@ COOKIES
 !makefile
 !*.md
 !*.json
-.idea/workspace.xml
+!.git*
