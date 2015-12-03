@@ -1,33 +1,35 @@
-Project Euler
-=============
-Solutions to [Project Euler](http://projecteuler.net/)
-
-Language
---------
-
-+ mainly Python
-+ C for acceleration
-
-Engines
--------
-
-+ PyPy 4.0.1 (Python 2.7)
-+ gcc (with -O2 enabled)
-+ My Computer
-    - Windows 10 64-bit
-    - CPU: Intel® Core™ i5-3210M CPU @ 2.5GHz (2 Cores 4 Threads)
-    - RAM: 4GB
-
-Requirements
-============
-- itertools
-- progressbar
-- ctypes(with gcc, make)
-- fractions
-- math
-
-Solved Problems
-===============
+
+Project Euler
+=============
+Solutions to [Project Euler](http://projecteuler.net/)
+
+Language
+--------
+
++ mainly Python
++ C for acceleration
+
+Engines
+-------
+
++ PyPy3 2.4.0 (Python 3.2)
++ gcc (with -O2 enabled)
++ My Computer
+    - Windows 10 64-bit
+    - CPU: Intel® Core™ i5-3210M CPU @ 2.5GHz (2 Cores 4 Threads)
+    - RAM: 4GB
+
+Requirements
+============
+- itertools
+- functools
+- progressbar
+- ctypes(with gcc, make)
+- fractions
+- math
+
+Solved Problems
+===============
 + 001 Multiples of 3 and 5 [:link:](http://projecteuler.net/problem=1)  :clock1:
 
     - answer: 233168 
@@ -41,7 +43,7 @@ Solved Problems
 + 003 Largest prime factor [:link:](http://projecteuler.net/problem=3)  :clock1:
 
     - answer: 6857 
-    - min used time: 46 ms
+    - min used time: 45 ms
 
 + 004 Largest palindrome product [:link:](http://projecteuler.net/problem=4)  
 
@@ -86,7 +88,7 @@ Solved Problems
 + 012 Highly divisible triangular number [:link:](http://projecteuler.net/problem=12)  
 
     - answer: 76576500 
-    - min used time: 158 ms
+    - min used time: 132 ms
 
 + 013 Large sum [:link:](http://projecteuler.net/problem=13)  :clock1:
 

@@ -12,4 +12,4 @@ def run():
     return (28433 * powerMod(2, 7830457, int(1e10)) + 1) % int(1e10)
 
 if __name__ == "__main__":
-    print run()
+    print(run())

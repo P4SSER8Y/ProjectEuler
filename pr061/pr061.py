@@ -2,7 +2,7 @@ def run():
     def iter(used, ans):
         if len(used) == 6:
             if valid(ans[-1], ans[0]):
-                print ans
+                print(ans)
                 return ans
         for k in polygonalKey:
             if not k in used:
@@ -26,4 +26,4 @@ def run():
                 return sum(ans)
 
 if __name__ == "__main__":
-    print run()
+    print(run())

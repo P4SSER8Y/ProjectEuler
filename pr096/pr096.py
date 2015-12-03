@@ -4,8 +4,8 @@ import copy
 
 def sudokuShow(grid):
     for x in grid:
-        print x
-    print
+        print(x)
+    print()
 
 def sudokuSolver(grid):
     def isFailed(grid):
@@ -99,12 +99,12 @@ def sudokuSolver(grid):
 def pr096():
     f = open(path.split(path.realpath(__file__))[0]+"\\data096.txt", 'r')
     ret = 0
-    for _ in xrange(50):
+    for _ in range(1, 51):
         f.readline()
         grid = []
         for __ in xrange(9):
             grid.append([int(c) for c in f.readline() if ('0' <= c) and (c <= '9')]) 
-        print _+1,sudokuSolver(grid)
+        print(_, sudokuSolver(grid))
         ret += grid[0][0]*100+grid[0][1]*10+grid[0][2]
     f.close()
     return ret
@@ -113,5 +113,4 @@ def run():
     return pr096()
 
 if __name__ == "__main__":
-    print run()
-
+    print(run())

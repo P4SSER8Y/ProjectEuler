@@ -1,3 +1,5 @@
+from functools import reduce
+
 def pr011():
     grid = \
    [[ 8, 2,22,97,38,15, 0,40, 0,75, 4, 5, 7,78,52,12,50,77,91, 8],\
@@ -48,5 +50,5 @@ def run():
     return pr011()
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

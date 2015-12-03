@@ -15,5 +15,5 @@ def run():
     return x
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

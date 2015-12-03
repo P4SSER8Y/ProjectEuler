@@ -54,5 +54,5 @@ def run():
     return pr336(11, 2011)
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

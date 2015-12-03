@@ -100,4 +100,4 @@ def run():
     return cnt
 
 if __name__ == "__main__":
-    print run()
+    print(run())

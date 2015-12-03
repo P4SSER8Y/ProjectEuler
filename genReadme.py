@@ -3,7 +3,7 @@ from pedb import PEDB
 
 import os, re
 
-prefix = """\
+prefix = """
 Project Euler
 =============
 Solutions to [Project Euler](http://projecteuler.net/)
@@ -17,7 +17,7 @@ Language
 Engines
 -------
 
-+ PyPy 4.0.1 (Python 2.7)
++ PyPy3 2.4.0 (Python 3.2)
 + gcc (with -O2 enabled)
 + My Computer
     - Windows 10 64-bit
@@ -27,6 +27,7 @@ Engines
 Requirements
 ============
 - itertools
+- functools
 - progressbar
 - ctypes(with gcc, make)
 - fractions
@@ -37,7 +38,7 @@ Solved Problems
 """
 
 db = PEDB()
-f = open('README.md', 'w')
+f = open('README.md', 'w', encoding = "utf-8")
 f.write(prefix)
 for x in db.getSolvedProblems():
     f.write('+ ' + str(1000+x)[1:] + ' ' + db.getProblem(x)['title'] + r' [:link:](http://projecteuler.net/problem=' + str(x) + ')  ')
@@ -65,7 +66,7 @@ for x in db.getSolvedProblems():
     rm.write('- min used time: ' + str(db.getProblem(x)['time']) + ' ms\n\n')
 
     if os.path.exists('pr'+str(1000+x)[1:]+'\\algo.md'):
-        print "Prob."+str(x)+" has algorithm description"
+        print("Prob."+str(x)+" has algorithm description")
         rm.write("Algorithm\n=========\n\n")
         algo = open('pr'+str(1000+x)[1:]+'\\algo.md', 'r')
         rm.write(algo.read())

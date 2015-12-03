@@ -1,2 +1,2 @@
 #coding:utf8
-from pr008 import *
+from .pr008 import run

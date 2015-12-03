@@ -106,7 +106,7 @@
     "12": {
         "answer": "76576500", 
         "solved": true, 
-        "time": 158, 
+        "time": 132, 
         "title": "Highly divisible triangular number"
     }, 
     "120": {
@@ -950,7 +950,7 @@
     "3": {
         "answer": "6857", 
         "solved": true, 
-        "time": 46, 
+        "time": 45, 
         "title": "Largest prime factor"
     }, 
     "30": {

@@ -2,7 +2,7 @@ from PBar import PBar
 
 def pr035(n):
     def genPrimeDict():
-        print "===Generate Prime Number Dict==="
+        print("===Generate Prime Number Dict===")
         pbar = PBar(maxval=n).start()
         pLst = {2:True}
         k = 3
@@ -25,7 +25,7 @@ def pr035(n):
         return all(map(lambda x:pDict.get(x, False), lst))
     pDict = genPrimeDict()
     circularPrimes = [2]
-    print "===Checking==="
+    print("===Checking===")
     pbar = PBar(maxval = n).start()
     for k in xrange(3, n + 1, 2):
         pbar.update(k)
@@ -38,6 +38,6 @@ def run():
     return pr035(1000000)
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 
 

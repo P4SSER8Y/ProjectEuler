@@ -1,3 +1,5 @@
+from functools import reduce
+
 def pr008(n):
     import re
     s = "\
@@ -30,5 +32,5 @@ def run():
     return pr008(13)
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

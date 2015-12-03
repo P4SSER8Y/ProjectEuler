@@ -6,4 +6,4 @@ if __name__ == "__main__":
     usr.getFactors.argtypes = [c_long]
     usr.getFactors.restype = POINTER(c_long)
     test = usr.getFactors(100000000)
-    print test[0]
+    print(test[0])

@@ -7,7 +7,7 @@ def pr003(n):
             if (n % k == 0):
                 maxPrime = k
                 while (n % k == 0):
-                    n /= k
+                    n //= k
         k += 1
     return n
 
@@ -15,5 +15,5 @@ def run():
     return pr003(600851475143)
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

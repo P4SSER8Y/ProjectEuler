@@ -15,5 +15,5 @@ def run():
     return 2*k-1
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

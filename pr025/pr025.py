@@ -25,5 +25,5 @@ def run():
     return pr025(1000)
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

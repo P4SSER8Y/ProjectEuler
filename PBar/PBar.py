@@ -1,22 +1,28 @@
 #encoding:utf8
-import progressbar
 
 class PBarCMD(object):
-    def __init__(self, maxval=100):
-        self.maxval = maxval
-        widgets = [progressbar.Percentage(), progressbar.widgets.Bar(),' ' , progressbar.widgets.Counter()]
-        self.p = progressbar.ProgressBar(maxval = self.maxval, widgets= widgets)
+    def __init__(self, maxval=100, minval=0):
+        self.maxval = maxval - minval
+        self.minval = minval
+        self.curr = minval
+        self.percent = 0
 
     def start(self):
-        self.p.start()
+        self.next = 0.01 * self.maxval + self.minval
+        print("%3d\t\t%s\r" % (0, self.curr), end = "")
         return self
 
     def update(self, val):
-        self.p.update(val)
+        if val < self.next:
+            return
+        self.percent = (val - self.minval) / self.maxval
+        self.next = (self.percent + 0.01) * self.maxval + self.minval
+        self.curr = val
+        print("%3d%% -=-%s\r" % (int(self.percent * 100), self.curr), end = "")
         return None
 
     def finish(self):
-        self.p.finish()
+        print()
         return None
 
 PBar = PBarCMD

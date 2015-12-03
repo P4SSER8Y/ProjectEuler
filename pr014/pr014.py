@@ -1,5 +1,3 @@
-from PBar import PBar
-
 def pr014(n):
     def collatzIter(n):
         if record.get(n, 0) > 0:
@@ -13,18 +11,15 @@ def pr014(n):
             return t
     record = {1: 1}
     maxN = 1
-    pbar = PBar(maxval=n).start()
     for k in range(1, n+1):
-        pbar.update(k)
         cnt = collatzIter(k)
         if cnt > record[maxN]:
             maxN = k
-    pbar.finish()
     return maxN
 
 def run():
     return pr014(1000000)
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

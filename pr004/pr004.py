@@ -4,7 +4,7 @@ def pr004():
         r = 0
         while (t > 0):
             r = r * 10 + t % 10
-            t /= 10
+            t //= 10
         return n == r
     maxProd = 0
     for i in range(100, 1000):
@@ -17,5 +17,5 @@ def run():
     return pr004()
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

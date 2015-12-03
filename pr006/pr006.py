@@ -5,5 +5,5 @@ def run():
     return pr006(100)
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

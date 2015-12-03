@@ -31,5 +31,5 @@ def run():
     return str(ret), float(ret)
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

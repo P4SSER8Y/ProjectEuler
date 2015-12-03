@@ -1,7 +1,4 @@
-﻿from PBar import PBar
-
-def pr007(n):
-    pbar = PBar(maxval=n).start()
+﻿def pr007(n):
     def primeIter():
         primes = []
         k = 2
@@ -16,15 +13,13 @@ def pr007(n):
                 yield k
             k += 1
     prime = primeIter()
-    for _ in xrange(n):
-        pbar.update(_)
-        p = prime.next()
-    pbar.finish()
+    for _ in range(n):
+        p = next(prime)
     return p
 
 def run():
     return pr007(10001)
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

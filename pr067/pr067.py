@@ -12,4 +12,4 @@ def run():
     return max(f[-1])
 
 if __name__ == "__main__":
-    print run()
+    print(run())

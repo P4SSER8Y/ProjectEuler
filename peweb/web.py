@@ -35,9 +35,9 @@ class ProjectEuler(object):
             return True
         for _ in range(5):
             page = s.get(r"https://projecteuler.net/sign_in")
-            print "Enter your username:",
+            print("Enter your username:", end = " ")
             usr = raw_input()
-            print "Enter your password:",
+            print("Enter your password:", end = " ")
             pwd = raw_input()
             captcha = s.get("https://projecteuler.net/captcha/show_captcha.php")
             tmpfile = r'captcha.png'
@@ -45,7 +45,7 @@ class ProjectEuler(object):
             f.write(captcha.content)
             f.close()
             os.startfile(tmpfile)
-            print "Enter the captchar:",
+            print("Enter the captchar:", end = " ")
             code = re.findall(r'\d{5}', raw_input())[0]
             os.remove(tmpfile)
             data = {'captcha': code, 'password': pwd, 'remember_me': 1, 'sign_in': "Sign In", 'username': usr}
@@ -66,7 +66,7 @@ class ProjectEuler(object):
         return map(clean, raw)
 
 def getTitle(n):
-    print "Getting Problem "+str(n)+"'s title"
+    print("Getting Problem "+str(n)+"'s title")
     url = r"https://projecteuler.net/problem="+str(n)
     try:
         page = get(url)
@@ -77,4 +77,4 @@ def getTitle(n):
 
 if __name__ == "__main__":
     pe = ProjectEuler()
-    print pe.getSolvedProblems()
+    print(pe.getSolvedProblems())

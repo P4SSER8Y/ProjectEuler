@@ -16,12 +16,12 @@ def pr060():
                                 for e in xrange(d + 1, pN):
                                     if isValid(p[e], p[d]) and isValid(p[e], p[c]) and\
                                         isValid(p[e], p[b]) and isValid(p[e], p[a]):
-                                        print p[a], p[b], p[c], p[d], p[e]
+                                        print(p[a], p[b], p[c], p[d], p[e])
                                         return p[a] + p[b] + p[c] + p[d] + p[e]
 
 def run():
     return pr060()
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

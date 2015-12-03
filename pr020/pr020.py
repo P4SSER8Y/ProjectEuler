@@ -11,5 +11,5 @@ def run():
     return pr020(100)
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

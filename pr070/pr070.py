@@ -28,4 +28,4 @@ def run():
     return pr070(int(1e7))
 
 if __name__ == "__main__":
-    print run()
+    print(run())
