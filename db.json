@@ -2106,7 +2106,9 @@
         "title": "Sum square difference"
     }, 
     "60": {
-        "solved": false, 
+        "answer": "26033", 
+        "solved": true, 
+        "time": 2132, 
         "title": "Prime pair sets"
     }, 
     "61": {

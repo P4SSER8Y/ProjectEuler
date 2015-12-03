@@ -318,6 +318,11 @@ Solved Problems
     - answer: 107359 
     - min used time: 1788 ms
 
++ 060 Prime pair sets [:link:](http://projecteuler.net/problem=60)  :thought_balloon:
+
+    - answer: 26033 
+    - min used time: 2132 ms
+
 + 061 Cyclical figurate numbers [:link:](http://projecteuler.net/problem=61)  :clock1:
 
     - answer: 28684 

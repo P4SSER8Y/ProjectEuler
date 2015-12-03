@@ -2,9 +2,10 @@
 COOKIES
 .*
 
+!*.txt
 !*.py
 !*.c
-makefile
+!makefile
 !*.md
 !*.json
 .idea/workspace.xml
