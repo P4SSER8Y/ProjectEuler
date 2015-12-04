@@ -5,12 +5,12 @@ def pr032():
             return False
         return all(map(lambda c: c in s, list('123456789')))
     ret = {}
-    for b in xrange(1111, 10000):
+    for b in range(1111, 10000):
         for a in range(1, 10):
             if isValid(a, b, a*b):
                 ret[a * b] = None
-    for b in xrange(111, 1000):
-        for a in xrange(11, 100):
+    for b in range(111, 1000):
+        for a in range(11, 100):
             if isValid(a, b, a*b):
                 ret[a * b] = None
     return sum(ret.keys())

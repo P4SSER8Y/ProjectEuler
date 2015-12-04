@@ -10,6 +10,6 @@ def pr031():
 
 def run():
     return pr031()
-if __name__ == "__main__":
-    print(run())
 
+if __name__ == "__main__":
+    print(run()) 

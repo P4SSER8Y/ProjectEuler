@@ -1,4 +1,3 @@
-from PBar import PBar
 from usr import getPrimes
 
 def pr037():
@@ -9,10 +8,8 @@ def pr037():
                 yield k
             k += 2
     def genPrime(n):
-        pbar = PBar(n).start()
         k = 3
         while k <= n:
-            pbar.update(k)
             while not pDict.get(k, True): k += 2
             if k > n : break
             pDict[k] = True
@@ -21,13 +18,12 @@ def pr037():
                 pDict[t] = False
                 t += k
             k += 2
-        pbar.finish()
     def isVaild(x):
-        t = x / 10
+        t = x // 10
         while t > 0:
             if not pDict.get(t):
                 return False
-            t /= 10
+            t //= 10
         t = str(x)[1:]
         while t:
             if not pDict.get(int(t)):
@@ -36,15 +32,12 @@ def pr037():
         return True
     pDict = dict.fromkeys(getPrimes(2000000), True)
     ret = []
-    pbar = PBar(11).start()
     prime = pIter()
     for _ in range(11):
-        pbar.update(_)
-        p = prime.next()
+        p = next(prime)
         while not isVaild(p):
-            p = prime.next()
+            p = next(prime)
         ret.append(p)
-    pbar.finish()
     return sum(ret)
 
 def run():

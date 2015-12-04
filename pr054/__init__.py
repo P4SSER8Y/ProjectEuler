@@ -1,2 +1,4 @@
-#coding:utf8
-from pr054 import *
+from .pr054 import run as pyRun
+
+run = pyRun
+#run = cRun

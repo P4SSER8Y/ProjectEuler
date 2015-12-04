@@ -1,6 +1,6 @@
 ﻿from os.path import split, realpath
-def pr022():
 
+def pr022(): 
     def calc(name):
         return sum(map(lambda x: ord(x) - ord('A') + 1, name))
     import re

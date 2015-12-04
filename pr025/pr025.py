@@ -1,5 +1,3 @@
-from PBar import PBar
-
 def pr025(n):
     def fibIter():
         a = 0
@@ -10,15 +8,12 @@ def pr025(n):
             yield c
             a = b
             b = c
-    pbar = PBar(maxval=n).start()
     fib = fibIter()
     cnt = 1
-    f = fib.next()
+    f = next(fib)
     while len(str(f)) < n:
-        pbar.update(len(str(f))) 
         cnt += 1
-        f = fib.next()
-    pbar.finish()
+        f = next(fib)
     return cnt
 
 def run():

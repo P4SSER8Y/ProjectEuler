@@ -1,5 +1,6 @@
+from datetime import date
+
 def pr019():
-    from datetime import date
     cnt = 0
     for i in range(1901, 2001):
         for j in range(1, 13):

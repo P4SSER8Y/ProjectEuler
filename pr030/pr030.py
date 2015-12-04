@@ -4,7 +4,7 @@ def pr030():
         t = 0
         while x > 0:
             t += (x % 10) ** 5
-            x /= 10
+            x //= 10
         return y == t
     return sum([x for x in range(2, 1000000) if fn(x)])
 

@@ -1,11 +1,13 @@
-from pr072 import run as pyRun
-from ctypes import CDLL, c_long
-from os import path
+from .pr072 import run as pyRun
+from ctypes import CDLL
+from os.path import split, realpath
 
-cRun = CDLL(path.split(path.realpath(__file__))[0] + r'\pr072.dll').run
-cRun.argtypes = None
-cRun.restype = c_long
+try:
+    cRun = CDLL(split(realpath(__file__))[0] + r'\pr072.dll').run
+    cRun.argtypes = None
+    cRun.restype = None
+except:
+    pass
 
-#run = cRun
-run = pyRun
-
+#run = pyRun
+run = cRun

@@ -536,7 +536,7 @@
     "21": {
         "answer": "31626", 
         "solved": true, 
-        "time": 433, 
+        "time": 385, 
         "title": "Amicable numbers"
     }, 
     "210": {
@@ -628,7 +628,7 @@
     "23": {
         "answer": "4179871", 
         "solved": true, 
-        "time": 1072, 
+        "time": 983, 
         "title": "Non-abundant sums"
     }, 
     "230": {
@@ -674,7 +674,7 @@
     "24": {
         "answer": "2783915460", 
         "solved": true, 
-        "time": 819, 
+        "time": 465, 
         "title": "Lexicographic permutations"
     }, 
     "240": {
@@ -812,7 +812,7 @@
     "27": {
         "answer": "-59231", 
         "solved": true, 
-        "time": 837, 
+        "time": 617, 
         "title": "Quadratic primes"
     }, 
     "270": {
@@ -1192,7 +1192,7 @@
     "35": {
         "answer": "55", 
         "solved": true, 
-        "time": 710, 
+        "time": 307, 
         "title": "Circular primes"
     }, 
     "350": {
@@ -1240,7 +1240,7 @@
     "36": {
         "answer": "872187", 
         "solved": true, 
-        "time": 366, 
+        "time": 100, 
         "title": "Double-base palindromes"
     }, 
     "360": {
@@ -1432,7 +1432,7 @@
     "40": {
         "answer": "210", 
         "solved": true, 
-        "time": 394, 
+        "time": 178, 
         "title": "Champernowne's constant"
     }, 
     "400": {

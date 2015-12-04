@@ -5,7 +5,7 @@ def pr038():
         if sum(1 for c in '123456789' if c in s) == 9:
             ret.append(int(s))
     ret = []
-    for x in xrange(1, 10000):
+    for x in range(1, 10000):
         s = ''
         i = 1
         while len(s) < 9:

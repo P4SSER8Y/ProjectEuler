@@ -9,5 +9,4 @@ def run():
     return pr029()
 
 if __name__ == "__main__":
-    print(run())
-
+    print(run()) 

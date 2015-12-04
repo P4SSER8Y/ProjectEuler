@@ -9,13 +9,10 @@ def pr040():
                 yield int(c)
     i = iter()
     ret = 1
-    pbar = PBar(maxval = 1000000).start()
-    for _ in xrange(1, 1000001):
-        pbar.update(_)
-        d = i.next()
+    for _ in range(1, 1000001):
+        d = next(i)
         if _ in [1, 10, 100, 1000, 10000, 100000, 1000000]:
             ret *= d
-    pbar.finish()
     return ret 
 
 def run():

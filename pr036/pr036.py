@@ -1,8 +1,6 @@
-from PBar import PBar
-
 def pr036(n):
     def isPalindromic(s):
-        for k in range(len(s) / 2):
+        for k in range(len(s) // 2):
             if s[k] != s[len(s) - k - 1]:
                 return False
         return True
@@ -13,15 +11,12 @@ def pr036(n):
                 ret = '0' + ret
             else:
                 ret = '1' + ret
-            x /= 2
+            x //= 2
         return ret
-    pbar = PBar(n).start()
     ret = []
-    for x in xrange(n + 1):
-        pbar.update(x)
+    for x in range(n + 1):
         if isPalindromic(str(x)) and isPalindromic(dec2bin(x)):
             ret.append(x)
-    pbar.finish()
     return sum(ret)
 
 def run():

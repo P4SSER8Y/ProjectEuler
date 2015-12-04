@@ -133,7 +133,7 @@ Solved Problems
 + 021 Amicable numbers [:link:](http://projecteuler.net/problem=21)  
 
     - answer: 31626 
-    - min used time: 433 ms
+    - min used time: 385 ms
 
 + 022 Names scores [:link:](http://projecteuler.net/problem=22)  
 
@@ -143,12 +143,12 @@ Solved Problems
 + 023 Non-abundant sums [:link:](http://projecteuler.net/problem=23)  
 
     - answer: 4179871 
-    - min used time: 1072 ms
+    - min used time: 983 ms
 
 + 024 Lexicographic permutations [:link:](http://projecteuler.net/problem=24)  
 
     - answer: 2783915460 
-    - min used time: 819 ms
+    - min used time: 465 ms
 
 + 025 1000-digit Fibonacci number [:link:](http://projecteuler.net/problem=25)  
 
@@ -163,7 +163,7 @@ Solved Problems
 + 027 Quadratic primes [:link:](http://projecteuler.net/problem=27)  
 
     - answer: -59231 
-    - min used time: 837 ms
+    - min used time: 617 ms
 
 + 028 Number spiral diagonals [:link:](http://projecteuler.net/problem=28)  :clock1:
 
@@ -203,12 +203,12 @@ Solved Problems
 + 035 Circular primes [:link:](http://projecteuler.net/problem=35)  
 
     - answer: 55 
-    - min used time: 710 ms
+    - min used time: 307 ms
 
 + 036 Double-base palindromes [:link:](http://projecteuler.net/problem=36)  
 
     - answer: 872187 
-    - min used time: 366 ms
+    - min used time: 100 ms
 
 + 037 Truncatable primes [:link:](http://projecteuler.net/problem=37)  
 
@@ -228,7 +228,7 @@ Solved Problems
 + 040 Champernowne's constant [:link:](http://projecteuler.net/problem=40)  
 
     - answer: 210 
-    - min used time: 394 ms
+    - min used time: 178 ms
 
 + 041 Pandigital prime [:link:](http://projecteuler.net/problem=41)  
 

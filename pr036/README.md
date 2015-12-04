@@ -2,5 +2,5 @@
 ========================
 
 - answer: 872187 
-- min used time: 366 ms
+- min used time: 100 ms
 
