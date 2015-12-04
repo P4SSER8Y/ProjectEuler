@@ -2,7 +2,7 @@
 ========================
 
 - answer: 2772 
-- min used time: 14 ms
+- min used time: 0 ms
 
 Algorithm
 =========

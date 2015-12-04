@@ -1,35 +1,35 @@
-
-Project Euler
-=============
-Solutions to [Project Euler](http://projecteuler.net/)
-
-Language
---------
-
-+ mainly Python
-+ C for acceleration
-
-Engines
--------
-
-+ PyPy3 2.4.0 (Python 3.2)
-+ gcc (with -O2 enabled)
-+ My Computer
-    - Windows 10 64-bit
-    - CPU: Intel® Core™ i5-3210M CPU @ 2.5GHz (2 Cores 4 Threads)
-    - RAM: 4GB
-
-Requirements
-============
-- itertools
-- functools
-- progressbar
-- ctypes(with gcc, make)
-- fractions
-- math
-
-Solved Problems
-===============
+
+Project Euler
+=============
+Solutions to [Project Euler](http://projecteuler.net/)
+
+Language
+--------
+
++ mainly Python
++ C for acceleration
+
+Engines
+-------
+
++ PyPy3 2.4.0 (Python 3.2)
++ gcc (with -O2 enabled)
++ My Computer
+    - Windows 10 64-bit
+    - CPU: Intel® Core™ i5-3210M CPU @ 2.5GHz (2 Cores 4 Threads)
+    - RAM: 4GB
+
+Requirements
+============
+- itertools
+- functools
+- progressbar
+- ctypes(with gcc, make)
+- fractions
+- math
+
+Solved Problems
+===============
 + 001 Multiples of 3 and 5 [:link:](http://projecteuler.net/problem=1)  :clock1:
 
     - answer: 233168 
@@ -233,7 +233,7 @@ Solved Problems
 + 041 Pandigital prime [:link:](http://projecteuler.net/problem=41)  
 
     - answer: 7652413 
-    - min used time: 782 ms
+    - min used time: 315 ms
 
 + 042 Coded triangle numbers [:link:](http://projecteuler.net/problem=42)  :clock1:
 
@@ -262,8 +262,8 @@ Solved Problems
 
 + 047 Distinct primes factors [:link:](http://projecteuler.net/problem=47)  
 
-    - answer: [134043, 134044, 134045, 134046] 
-    - min used time: 12779 ms
+    - answer: 134043 
+    - min used time: 839 ms
 
 + 048 Self powers [:link:](http://projecteuler.net/problem=48)  
 
@@ -277,7 +277,7 @@ Solved Problems
 
 + 050 Consecutive prime sum [:link:](http://projecteuler.net/problem=50)  
 
-    - answer: (543, 997651) 
+    - answer: 997651 
     - min used time: 133 ms
 
 + 052 Permuted multiples [:link:](http://projecteuler.net/problem=52)  :clock1:
@@ -288,7 +288,7 @@ Solved Problems
 + 053 Combinatoric selections [:link:](http://projecteuler.net/problem=53)  :clock1:
 
     - answer: 4075 
-    - min used time: 7 ms
+    - min used time: 0 ms
 
 + 054 Poker hands [:link:](http://projecteuler.net/problem=54)  
 
@@ -312,8 +312,8 @@ Solved Problems
 
 + 058 Spiral primes [:link:](http://projecteuler.net/problem=58)  
 
-    - answer: 26241 
-    - min used time: 254 ms
+    - answer: 26221 
+    - min used time: 184 ms
 
 + 059 XOR decryption [:link:](http://projecteuler.net/problem=59)  
 
@@ -323,7 +323,7 @@ Solved Problems
 + 060 Prime pair sets [:link:](http://projecteuler.net/problem=60)  :thought_balloon:
 
     - answer: 26033 
-    - min used time: 2132 ms
+    - min used time: 1936 ms
 
 + 061 Cyclical figurate numbers [:link:](http://projecteuler.net/problem=61)  :clock1:
 
@@ -362,13 +362,13 @@ Solved Problems
 
 + 069 Totient maximum [:link:](http://projecteuler.net/problem=69)  
 
-    - answer: (510510, 5.539388020833333) 
+    - answer: 510510 
     - min used time: 28748 ms
 
 + 070 Totient permutation [:link:](http://projecteuler.net/problem=70)  
 
     - answer: 8319823 
-    - min used time: 171 ms
+    - min used time: 169 ms
 
 + 071 Ordered fractions [:link:](http://projecteuler.net/problem=71)  :clock1:
 
@@ -378,12 +378,12 @@ Solved Problems
 + 072 Counting fractions [:link:](http://projecteuler.net/problem=72)  :warning: 
 
     - answer: 303963552391 
-    - min used time: 210453 ms
+    - min used time: 141329 ms
 
 + 073 Counting fractions in a range [:link:](http://projecteuler.net/problem=73)  
 
     - answer: 7295372 
-    - min used time: 753 ms
+    - min used time: 740 ms
 
 + 074 Digit factorial chains [:link:](http://projecteuler.net/problem=74)  
 
@@ -397,8 +397,8 @@ Solved Problems
 
 + 079 Passcode derivation [:link:](http://projecteuler.net/problem=79)  :clock1:
 
-    - answer: ['73162890'] 
-    - min used time: 20 ms
+    - answer: 73162890 
+    - min used time: 0 ms
 
 + 080 Square root digital expansion [:link:](http://projecteuler.net/problem=80)  :thought_balloon:
 
@@ -413,12 +413,12 @@ Solved Problems
 + 085 Counting rectangles [:link:](http://projecteuler.net/problem=85)  :clock1::thought_balloon:
 
     - answer: 2772 
-    - min used time: 14 ms
+    - min used time: 0 ms
 
 + 087 Prime power triples [:link:](http://projecteuler.net/problem=87)  
 
     - answer: 1097343 
-    - min used time: 36356 ms
+    - min used time: 32476 ms
 
 + 091 Right triangles with integer coordinates [:link:](http://projecteuler.net/problem=91)  :thought_balloon:
 
@@ -433,7 +433,7 @@ Solved Problems
 + 093 Arithmetic expressions [:link:](http://projecteuler.net/problem=93)  :thought_balloon:
 
     - answer: 1258 
-    - min used time: 7388 ms
+    - min used time: 733 ms
 
 + 097 Large non-Mersenne prime [:link:](http://projecteuler.net/problem=97)  :clock1:
 
@@ -477,13 +477,18 @@ Solved Problems
 
 + 205 Dice Game [:link:](http://projecteuler.net/problem=205)  
 
-    - answer: ('48679795/84934656', 0.5731440767829801) 
+    - answer: 0.5731441 
     - min used time: 60 ms
 
 + 206 Concealed Square [:link:](http://projecteuler.net/problem=206)  
 
     - answer: 1389019170 
-    - min used time: 13800 ms
+    - min used time: 1856 ms
+
++ 293 Pseudo-Fortunate Numbers [:link:](http://projecteuler.net/problem=293)  :thought_balloon:
+
+    - answer: 2209 
+    - min used time: 19169 ms
 
 + 301 Nim [:link:](http://projecteuler.net/problem=301)  :thought_balloon:
 

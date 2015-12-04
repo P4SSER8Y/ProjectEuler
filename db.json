@@ -920,7 +920,9 @@
         "title": "Pythagorean Polygons"
     },
     "293": {
-        "solved": false,
+        "answer": "2209",
+        "solved": true,
+        "time": 19169,
         "title": "Pseudo-Fortunate Numbers"
     },
     "294": {
