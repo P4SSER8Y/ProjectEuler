@@ -48,8 +48,10 @@ if useC:
     if not os.path.exists(s+r'\makefile'):
         print("Creating makefile")
         f = open(s+r'\makefile', 'w')
-        f.write("dll:\n\tgcc "+s+".c -O2 -shared -o "+s+".dll\n\n")
-        f.write("exe:\n\tgcc "+s+".c -o "+s+".exe\n\n")
+        f.write("dll:\n\tx86_64-w64-mingw32-gcc "+s+".c -O2 -Wall -shared -o "+s+".dll\n\n")
+        f.write("dll:\n\tmingw32-gcc "+s+".c -O2 -Wall -shared -o "+s+"_32.dll\n\n")
+
+        f.write("dll:\n\tgcc "+s+".c -O2 -o "+s+".exe\n\n")
         f.flush()
         f.close()
 

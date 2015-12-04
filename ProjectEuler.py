@@ -2,6 +2,7 @@
 from pedb import PEDB
 from time import time
 from importlib import import_module
+from sys import version
 import re
 import os
 import sys
@@ -36,6 +37,8 @@ def run(problem):
     return answer, int(t2 - t1)
 
 if __name__ == "__main__":
+    print(version)
+    print()
     print("Please Enter the Problem Number: ", end = "")
     t = input()
     if re.match(r'^\s*\d+\s*$', t):

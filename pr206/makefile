@@ -1,6 +1,8 @@
 dll:
-	gcc pr206.c -O3 -shared -o pr206.dll
+	x86_64-w64-mingw32-gcc pr206.c -O2 -Wall -shared -o pr206.dll
+	mingw32-gcc pr206.c -O2 -Wall -shared -o pr206_32.dll 
 
 exe:
-	gcc pr206.c -o pr206.exe
+	gcc usr.c -O2 -Wall -o pr206.exe 
+
 

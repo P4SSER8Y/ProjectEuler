@@ -1,8 +1,13 @@
 #coding: utf8
 from ctypes import *
+from platform import architecture
 import os
 
-usr = CDLL(os.path.split(os.path.realpath(__file__))[0] + r'\usr.dll') 
+if architecture()[0] == "64bit":
+    usr = CDLL(os.path.split(os.path.realpath(__file__))[0] + r'\usr.dll') 
+else:
+    usr = CDLL(os.path.split(os.path.realpath(__file__))[0] + r'\usr_32.dll') 
+
 
 usr.isPrime.argtypes = [c_long]
 usr.isPrime.restype = c_bool

@@ -379,7 +379,7 @@ Solved Problems
 + 072 Counting fractions [:link:](http://projecteuler.net/problem=72)  :warning: 
 
     - answer: 303963552391 
-    - min used time: 141329 ms
+    - min used time: 139491 ms
 
 + 073 Counting fractions in a range [:link:](http://projecteuler.net/problem=73)  
 
@@ -474,7 +474,7 @@ Solved Problems
 + 124 Ordered radicals [:link:](http://projecteuler.net/problem=124)  :thought_balloon:
 
     - answer: 21417 
-    - min used time: 57042 ms
+    - min used time: 3992 ms
 
 + 145 How many reversible numbers are there below one-billion? [:link:](http://projecteuler.net/problem=145)  :thought_balloon:
 
