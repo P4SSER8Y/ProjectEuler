@@ -17,7 +17,7 @@ def pr087(n):
         for x in p3:
             if k ** 4 + x <= n:
                 p4.add(k**4+x)
-    return len(filter(lambda x: x<=n, p4))
+    return len([x for x in p4 if x <= n])
 
 def run():
     return pr087(50000000)

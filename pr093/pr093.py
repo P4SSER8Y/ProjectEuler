@@ -1,5 +1,6 @@
 #coding:utf8
 from itertools import permutations, count, combinations, product
+from functools import reduce
 from operator import add, sub, mul, truediv
 from math import fabs
 
@@ -33,4 +34,3 @@ def run():
 
 if __name__ == "__main__":
     print(run())
-

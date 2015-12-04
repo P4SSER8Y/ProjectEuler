@@ -33,7 +33,7 @@ def pr099():
     maxN = 0
     maxK = 0
     k = 0
-    for x in f.xreadlines():
+    for x in f.readlines():
         k += 1
         t = x.split(',')
         a = int(t[0])

@@ -6,8 +6,8 @@ def gcd(a, b):
 
 def pr073():
     ret = 0
-    for x in xrange(4, 12001):
-        for y in xrange(x/3 + 1, x/2 + (x & 1)):
+    for x in range(4, 12001):
+        for y in range(x//3 + 1, x//2 + (x & 1)):
             if gcd(x, y) == 1:
                 ret += 1
     return ret

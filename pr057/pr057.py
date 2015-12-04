@@ -1,4 +1,5 @@
 ﻿from fractions import Fraction
+
 def run():
     cnt = 0
     s = Fraction(1, 1)

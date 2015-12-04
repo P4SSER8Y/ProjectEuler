@@ -9,7 +9,7 @@ def eConvergents(n):
             yield 2*k
             yield 1
     tmp = gen()
-    lst = [tmp.next() for _ in range(n)]
+    lst = [next(tmp) for _ in range(n)]
     lst.reverse()
     ret = Fraction(lst[0], 1)
     for x in lst[1:]:
@@ -21,7 +21,7 @@ def run():
     ret = 0
     while n:
         ret += n % 10
-        n /= 10
+        n //= 10
     return ret
 
 if __name__ == "__main__":

@@ -1,4 +1,6 @@
-﻿reverse = lambda s: reduce(lambda a, b: b + a, s)
+﻿from functools import reduce
+
+reverse = lambda s: reduce(lambda a, b: b + a, s)
 
 def isPalindromic(s):
     return s == reverse(s)

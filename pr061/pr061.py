@@ -11,13 +11,13 @@ def run():
                         t = iter(used + [k], ans + [x]) 
                         if t:
                             return t
-    valid = lambda x, y: x % 100 == y / 100
-    polygonal = {3: [n*(n+1)/2 for n in xrange(45, 141)],
-                 4: [n*n for n in xrange(32, 100)],
-                 5: [n*(3*n-1)/2 for n in xrange(26, 82)],
-                 6: [n*(2*n-1) for n in xrange(23, 71)],
-                 7: [n*(5*n-3)/2 for n in xrange(21, 64)],
-                 8: [n*(3*n-2) for n in xrange(19, 59)]}
+    valid = lambda x, y: x % 100 == y // 100
+    polygonal = {3: [n*(n+1)//2 for n in range(45, 141)],
+                 4: [n*n for n in range(32, 100)],
+                 5: [n*(3*n-1)//2 for n in range(26, 82)],
+                 6: [n*(2*n-1) for n in range(23, 71)],
+                 7: [n*(5*n-3)//2 for n in range(21, 64)],
+                 8: [n*(3*n-2) for n in range(19, 59)]}
     polygonalKey = range(3, 9)
     for k in polygonalKey:
         for x in polygonal[k]:

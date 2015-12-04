@@ -1,4 +1,5 @@
 #encoding:utf8
+from pedb import PEDB
 from time import time
 from importlib import import_module
 import re
@@ -6,7 +7,13 @@ import os
 import sys
 
 def run(problem):
-    print("Solving Problem", problem)
+    print()
+    print("Problem", problem)
+    db = PEDB()
+    data = db.getProblem(problem)
+    for x in data:
+        print(x, ': ', data[x], sep = '')
+    print()
     print("===Calculating===")
     moduleName = 'pr' + str(1000 + problem)[1:]
     #try:
@@ -34,7 +41,6 @@ if __name__ == "__main__":
     if re.match(r'^\s*\d+\s*$', t):
         pn = int(t)
         if pn == 0:
-            from pedb import PEDB
             db = PEDB()
             solved = sorted([int(x) for x in db.db.keys() if db.getProblem(x)['solved']])
             print("There are " + str(len(solved)) + " problems solved")
@@ -49,7 +55,6 @@ if __name__ == "__main__":
             ans, t = run(pn)
             print("Is it correct?(y/[n])", end = " ")
             if (input()+' ')[0] in 'yY':
-                from pedb import PEDB
                 db = PEDB()
                 db.record(pn, solved=True, time=t, answer=ans)
     else:
@@ -61,7 +66,6 @@ if __name__ == "__main__":
         ans, t = run(problem)
         print("Is it correct?(y/[n])", end = " ")
         if (input()+' ')[0] in 'yY':
-            from pedb import PEDB
             db = PEDB()
             db.record(problem, solved=True, time=t, answer=ans)
             db.writeFile()

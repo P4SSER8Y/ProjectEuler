@@ -6,7 +6,7 @@ from math import log, floor
 def pr347(N): 
     primes = getPrimes(N)
     ret = 0
-    for i in xrange(len(primes) - 1):
+    for i in range(len(primes) - 1):
         p = primes[i]
         j = i + 1
         while p * primes[j] <= N:

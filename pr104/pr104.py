@@ -31,5 +31,5 @@ def run():
     return pr104()
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

@@ -8,10 +8,10 @@ def pr059():
     def decrypt(key, ori):
         ret = ''
         for c in ori:
-            ret += chr(xor(ord(key.next()), c))
+            ret += chr(xor(ord(next(key)), c))
         return ret
     f = open(split(realpath(__file__))[0]+"\\data059.txt", 'r')
-    data = map(int, f.readline().split(','))
+    data = list(map(int, f.readline().split(',')))
     f.close()
     maxEs = 0
     best = []
@@ -20,13 +20,12 @@ def pr059():
         for b in string.ascii_lowercase:
             for c in string.ascii_lowercase:
                 tmp = decrypt(cycle([a, b, c]), data)
-                cnt = len(filter(lambda c: c == ' ', tmp))
+                cnt = len([c for c in tmp if c == ' '])
                 if cnt > maxEs:
                     maxEs = cnt
                     best = [a, b, c]
                     bestText = tmp
     return sum(map(ord, bestText))
-
 
 def run():
     return pr059()

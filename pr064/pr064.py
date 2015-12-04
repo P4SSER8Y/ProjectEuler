@@ -17,18 +17,18 @@ def get(n):
     a.append(an(*p[-1]))
     t = pn(*p[-1])
     g = gcd(gcd(t[0], t[1]), t[2])
-    p.append([t[0]/g, t[1]/g, t[2]/g])
+    p.append([t[0]//g, t[1]//g, t[2]//g])
     for _ in count(2):
         a.append(an(*p[-1]))
         t = pn(*p[-1])
         g = gcd(gcd(t[0], t[1]), t[2])
-        p.append([t[0]/g, t[1]/g, t[2]/g])
+        p.append([t[0]//g, t[1]//g, t[2]//g])
         if p[-1] == p[1]:
             return _ - 1
 
 def run():
     ret = 0
-    for n in xrange(1, 10001):
+    for n in range(1, 10001):
         if get(n) % 2 == 1:
             ret += 1
     return ret

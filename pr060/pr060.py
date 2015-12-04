@@ -5,15 +5,15 @@ def pr060():
     isValid = lambda a, b: isPrimeMR(int(str(a)+str(b))) and isPrimeMR(int(str(b)+str(a)))
     p = getPrimes(10000)
     pN = len(p)
-    for a in xrange(pN):
-        for b in xrange(a + 1, pN):
+    for a in range(pN):
+        for b in range(a + 1, pN):
             if isValid(p[a], p[b]):
-                for c in xrange(b + 1, pN):
+                for c in range(b + 1, pN):
                     if isValid(p[c], p[a]) and isValid(p[c], p[b]):
-                        for d in xrange(c + 1, pN):
+                        for d in range(c + 1, pN):
                             if isValid(p[d], p[a]) and isValid(p[d], p[b])\
                                 and isValid(p[d], p[c]): 
-                                for e in xrange(d + 1, pN):
+                                for e in range(d + 1, pN):
                                     if isValid(p[e], p[d]) and isValid(p[e], p[c]) and\
                                         isValid(p[e], p[b]) and isValid(p[e], p[a]):
                                         print(p[a], p[b], p[c], p[d], p[e])
@@ -24,4 +24,3 @@ def run():
 
 if __name__ == "__main__":
     print(run())
-

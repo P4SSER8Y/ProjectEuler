@@ -1,4 +1,5 @@
 ﻿from os.path import split, realpath
+
 def pr042():
     def value(word):
         return sum(map(lambda c: ord(c) - ord('A') + 1, word))

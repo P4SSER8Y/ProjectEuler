@@ -10,7 +10,7 @@ def isValid(a, b):
 
 def pr070(n):
     primes_1 = getPrimes(int(sqrt(n)))
-    primes_2 = getPrimes(n/2)
+    primes_2 = getPrimes(n >> 1)
 
     minValue = 2147483647
     minN = 0

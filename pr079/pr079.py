@@ -54,7 +54,7 @@ def run():
         iter(c)
         for t in fLst:
             forward[t].add(c)
-    return ans
+    return ans[0]
 
 if __name__ == "__main__":
     print(run())

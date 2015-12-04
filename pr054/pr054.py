@@ -27,8 +27,8 @@ def getRank(card):
         for c in card:
             d[c[0]] = d.get(c[0], '') + c[1]
         return d
-    cmpCardValue = lambda x, y: x[0] - y[0]
-    card.sort(cmp = cmpCardValue)
+    keyCardValue = lambda x: x[0]
+    card.sort(key = keyCardValue)
 ##ROYAL_FLUSH
     if isFlush() and isStraight() and card[0][0] == CARD_VALUE['A']:
         return ROYAL_FLUSH, card.reverse()
@@ -48,31 +48,31 @@ def getRank(card):
         return FULL_HAUSE, [x for x in card if x[0] == t3] + [x for x in card if x[0] == t2]
 ##FLUSH
     if isFlush():
-        return FLUSH, sorted(card, cmp = cmpCardValue, reverse = True)
+        return FLUSH, sorted(card, key = keyCardValue, reverse = True)
 ##STRAIGHT
     if isStraight():
-        return STRAIGHT, sorted(card, cmp = cmpCardValue, reverse = True)
+        return STRAIGHT, sorted(card, key = keyCardValue, reverse = True)
 ##THREE_OF_A_KIND
     if rankStyle == '311':
         t3 = [x for x in group.keys() if len(group[x]) == 3][0]
         c1 = [x for x in card if x[0] == t3]
-        c2 = sorted([x for x in card if x[0] != t3], cmp = cmpCardValue, reverse = True)
+        c2 = sorted([x for x in card if x[0] != t3], key = keyCardValue, reverse = True)
         return THREE_OF_A_KIND, c1 + c2
 ##TWO_PAIR
     if rankStyle == '221':
         t2 = [x for x in group.keys() if len(group[x]) == 2]
-        c1 = sorted([x for x in card if x[0] in t2], cmp = cmpCardValue, reverse = True)
+        c1 = sorted([x for x in card if x[0] in t2], key = keyCardValue, reverse = True)
         c2 = [x for x in card if not x[0] in t2]
         return TWO_PAIR, c1 + c2 
 ##ONE_PAIR
     if rankStyle == '2111':
         t2 = [x for x in group.keys() if len(group[x]) == 2][0]
         c1 = [x for x in card if x[0] == t2]
-        c2 = sorted([x for x in card if x[0] != t2], cmp = cmpCardValue, reverse = True)
+        c2 = sorted([x for x in card if x[0] != t2], key = keyCardValue, reverse = True)
         return ONE_PAIR, c1 + c2
 ##HIGH_CARD
     if rankStyle == '11111':
-        return HIGH_CARD, sorted(card, cmp = cmpCardValue, reverse = True)
+        return HIGH_CARD, sorted(card, key = keyCardValue, reverse = True)
 ##ERROR
     raise NotImplementedError
 
@@ -91,7 +91,7 @@ def aWin(a, b):
 def run():
     cnt = 0
     f = open(split(realpath(__file__))[0] + "\\data054.txt", 'r')
-    for game in f.xreadlines():
+    for game in f.readlines():
         cards =  [(CARD_VALUE[x[0]], x[1]) for x in re.findall(r'\S\S', game)]
         cardA, cardB = cards[:5], cards[5:]
         if aWin(cardA, cardB):

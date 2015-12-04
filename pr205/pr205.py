@@ -28,7 +28,7 @@ def run():
         for c in sColin.keys():
             if p > c:
                 ret += sPeter[p] * sColin[c]
-    return str(ret), float(ret)
+    return "{:0.7f}".format(float(ret))
 
 if __name__ == "__main__":
     print(run())

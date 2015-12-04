@@ -1,16 +1,17 @@
 #coding:utf8
 from itertools import permutations
+from functools import reduce
 from PBar import PBar
 
 def rearrange(p):
     def finished():
-        for x in xrange(1, len(p)):
+        for x in range(1, len(p)):
             if p[x] < p[x - 1]:
                 return False
         return True
     def split():
         a = []
-        for x in xrange(len(p)):
+        for x in range(len(p)):
             if p[x] == x:
                 a.append(x)
             else:

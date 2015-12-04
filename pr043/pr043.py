@@ -1,5 +1,3 @@
-from PBar import PBar
-
 def pr043():
     def fix(x):
         for c in '123456789':
@@ -14,16 +12,13 @@ def pr043():
         y = str(x)
         t = zip(range(1, 8), [2, 3, 5, 7, 11, 13, 17])
         return all(map(lambda t: int(y[t[0]:t[0] + 3]) % t[1] == 0, t))
-    pbar = PBar(500).start()
     ret = 0
-    for x in xrange(1, 500):
-        pbar.update(x)
-        for y in xrange(1, 1000 / 7):
-            for z in xrange(1, 1000 / 17):
+    for x in range(1, 500):
+        for y in range(1, 1000 // 7):
+            for z in range(1, 1000 // 17):
                 t = fix(2 * x * 1000000 + 7 * y * 1000 + 17 * z)
                 if isPandigital(t) and isValid(t):
                     ret += t
-    pbar.finish()
     return ret
 
 def run():

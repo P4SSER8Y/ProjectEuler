@@ -1,7 +1,7 @@
 ﻿def pr045():
     H = lambda n: n * (2 * n - 1)
-    P = lambda n: n * (3 * n - 1) / 2
-    T = lambda n: n * (n + 1) / 2
+    P = lambda n: n * (3 * n - 1) // 2
+    T = lambda n: n * (n + 1) // 2
     c = 143 # n(2n-1)
     b = 165 # n(3n-1)/2
     a = 286 # n(n+1)/2

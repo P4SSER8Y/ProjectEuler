@@ -1,5 +1,4 @@
 from usr import getPrimes
-from PBar import PBar
 
 def pr069(n):
     def phi(n):
@@ -11,21 +10,18 @@ def pr069(n):
                 k = 0
                 while (n % x == 0):
                     k += 1
-                    n /= x
+                    n //= x
                 ret *= (x**(k-1))*(x-1)
         return ret
     maxPhi = 0
     maxN = 0
     primes = getPrimes(n+1)
-    pbar = PBar(n).start()
-    for i in xrange(2, n+1):
-        pbar.update(i)
+    for i in range(2, n+1):
         t = float(i) / phi(i)
         if t > maxPhi:
             maxPhi = t
             maxN = i
-    pbar.finish()
-    return maxN, maxPhi
+    return maxN
 
 def run():
     return pr069(1000000)

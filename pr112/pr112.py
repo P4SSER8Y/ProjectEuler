@@ -1,4 +1,5 @@
 from itertools import count
+
 def run():
     def isBounce(x):
         def isIncreased(s):

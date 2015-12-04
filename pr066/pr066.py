@@ -1,5 +1,6 @@
 from math import sqrt, fabs, floor
 from itertools import count, cycle
+from functools import reduce
 from fractions import Fraction
 
 def gcd(a, b):
@@ -37,7 +38,7 @@ def getConFrac(n):
     yield fra[0], 1
     for x in count(2):
         t = iter()
-        lst = [t.next() for _ in xrange(x)]
+        lst = [next(t) for _ in range(x)]
         lst.reverse()
         f = reduce(lambda x, y: y + 1/x, lst[1:], Fraction(lst[0], 1))
         yield f.numerator, f.denominator
@@ -47,12 +48,12 @@ def pr066(n):
         return fabs(floor(n) - n) <= 1e-7
     maxD = 0
     maxX = 0
-    for D in xrange(n+1):
+    for D in range(n+1):
         if not isInt(sqrt(D)):
             f = getConFrac(D)
-            x, y = f.next()
+            x, y = next(f)
             while x*x-D*y*y != 1:
-                x, y = f.next()
+                x, y = next(f)
             if x > maxX:
                 maxX = x
                 maxD = D

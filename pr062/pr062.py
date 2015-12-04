@@ -5,12 +5,12 @@ def pr062():
         tmp = [0] * 10
         while n:
             tmp[n % 10] += 1
-            n /= 10
+            n //= 10
         return tuple(tmp)
 
     minValue = {}
     cnt = {}
-    for x in xrange(int(1e4)):
+    for x in range(int(1e4)):
         tmp = count(x ** 3)
         minValue[tmp] = min(minValue.get(tmp, float("Inf")), x ** 3)
         cnt[tmp] = cnt.get(tmp, 0) + 1

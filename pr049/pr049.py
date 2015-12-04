@@ -6,7 +6,7 @@ def run():
     valid_a = []
     for p in primes:
         tmp = [int(''.join(y)) for y in itertools.permutations(str(p)) if int(''.join(y)) in primes]
-        tmp = dict.fromkeys(tmp).keys()
+        tmp = list(dict.fromkeys(tmp).keys())
         if len(tmp) >= 3:
             tmp.sort()
             if not tmp in valid_a:
@@ -21,4 +21,3 @@ def run():
 
 if __name__ == "__main__":
     print(run())
-

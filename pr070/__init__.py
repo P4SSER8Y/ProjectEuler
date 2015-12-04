@@ -4,8 +4,8 @@ from os.path import split, realpath
 
 try:
     cRun = CDLL(split(realpath(__file__))[0] + r'\pr070.dll').run
-    cRun.argtypes = None
-    cRun.restype = None
+    cRun.argtypes = c_long
+    cRun.restype = c_long
 except:
     pass
 

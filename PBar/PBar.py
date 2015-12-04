@@ -9,7 +9,7 @@ class PBarCMD(object):
 
     def start(self):
         self.next = 0.01 * self.maxval + self.minval
-        print("%3d\t\t%s\r" % (0, self.curr), end = "")
+        print("%3d%%\t\t%s\r" % (0, self.curr), end = "")
         return self
 
     def update(self, val):
@@ -18,7 +18,7 @@ class PBarCMD(object):
         self.percent = (val - self.minval) / self.maxval
         self.next = (self.percent + 0.01) * self.maxval + self.minval
         self.curr = val
-        print("%3d%% -=-%s\r" % (int(self.percent * 100), self.curr), end = "")
+        print("%3d%%\t\t%s\r" % (int(self.percent * 100), self.curr), end = "")
         return None
 
     def finish(self):

@@ -9,7 +9,7 @@ def pr046():
         return False
     def isValid(x):
         if isPrime(x): return False
-        for y in xrange(1, int((x/2)**0.5)+1):
+        for y in range(1, int((x//2)**0.5)+1):
             if isPrime(x - 2 * y * y):
                 return False
         return True
