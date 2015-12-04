@@ -481,6 +481,11 @@ Solved Problems
     - answer: 608720 
     - min used time: 14868 ms
 
++ 173 Using up to one million tiles how many different "hollow" square laminae can be formed? [:link:](http://projecteuler.net/problem=173)  :thought_balloon:
+
+    - answer: 1572729 
+    - min used time: 833 ms
+
 + 205 Dice Game [:link:](http://projecteuler.net/problem=205)  
 
     - answer: 0.5731441 
@@ -523,6 +528,6 @@ Solved Problems
 
 + 493 Under The Rainbow [:link:](http://projecteuler.net/problem=493)  :thought_balloon:
 
-    - answer: 6.81874180202 
+    - answer: 6.818741802 
     - min used time: 407 ms
 

@@ -2,7 +2,7 @@
 from pedb import PEDB
 from time import time
 from importlib import import_module
-from sys import version
+import platform
 import re
 import os
 import sys
@@ -12,8 +12,10 @@ def run(problem):
     print("Problem", problem)
     db = PEDB()
     data = db.getProblem(problem)
-    for x in data:
-        print(x, ': ', data[x], sep = '')
+    print('Title:', data['title'])
+    if data['solved']:
+        print('Answer:', data['answer'])
+        print('Time:', data['time'])
     print()
     print("===Calculating===")
     moduleName = 'pr' + str(1000 + problem)[1:]
@@ -37,7 +39,8 @@ def run(problem):
     return answer, int(t2 - t1)
 
 if __name__ == "__main__":
-    print(version)
+    print(platform.python_implementation(), platform.architecture()[0])
+    print("Python " + platform.python_version())
     print()
     print("Please Enter the Problem Number: ", end = "")
     t = input()
