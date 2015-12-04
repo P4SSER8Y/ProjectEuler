@@ -1,7 +1,7 @@
 493 Under The Rainbow [:link:](http://projecteuler.net/problem=493)  :thought_balloon:
 ========================
 
-- answer: 6.81874180202 
+- answer: 6.818741802 
 - min used time: 407 ms
 
 Algorithm
