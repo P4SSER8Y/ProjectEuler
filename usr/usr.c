@@ -55,6 +55,9 @@ DLL_EXPORT bool isPrimeMR(int64 n)
 {
     const int a[] = {2, 3, 7, 11, 61, 24251};
     int i;
+	for (i = 0; i < 6; i++)
+		if (a[i] == n)
+			return true;
     for (i = 0; i < 6; i++)
         if (!MR_witness(a[i], n))
             return false;
@@ -70,7 +73,7 @@ DLL_EXPORT long* getPrimeFactors(long n)
 {
     long *primes, *tmp, *pFactors;
     long i;
-    if (isPrime(n))
+    if (isPrimeMR(n))
     {
         pFactors = calloc(2, sizeof(long));
         pFactors[0] = 1;

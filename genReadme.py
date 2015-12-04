@@ -18,6 +18,7 @@ Engines
 -------
 
 + PyPy3 2.4.0 (Python 3.2)
++ Python 3.5
 + gcc (with -O2 enabled)
 + My Computer
     - Windows 10 64-bit
