@@ -368,7 +368,9 @@
         "title": "Using up to one million tiles how many different \"hollow\" square laminae can be formed?"
     }, 
     "174": {
-        "solved": false, 
+        "answer": "209566", 
+        "solved": true, 
+        "time": 2407, 
         "title": "Counting the number of \"hollow\" square laminae that can form one, two, three, ... distinct arrangements"
     }, 
     "175": {
