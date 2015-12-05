@@ -476,6 +476,11 @@ Solved Problems
     - answer: 21417 
     - min used time: 3992 ms
 
++ 125 Palindromic sums [:link:](http://projecteuler.net/problem=125)  :thought_balloon:
+
+    - answer: 2906969179 
+    - min used time: 3476 ms
+
 + 145 How many reversible numbers are there below one-billion? [:link:](http://projecteuler.net/problem=145)  :thought_balloon:
 
     - answer: 608720 
