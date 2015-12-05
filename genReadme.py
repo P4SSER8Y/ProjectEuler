@@ -3,8 +3,7 @@ from pedb import PEDB
 
 import os, re
 
-prefix = """
-Project Euler
+prefix = """Project Euler
 =============
 Solutions to [Project Euler](http://projecteuler.net/)
 
