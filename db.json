@@ -2164,7 +2164,9 @@
         "title": "Maximum path sum II"
     }, 
     "68": {
-        "solved": false, 
+        "answer": "6531031914842725", 
+        "solved": true, 
+        "time": 1562, 
         "title": "Magic 5-gon ring"
     }, 
     "69": {
