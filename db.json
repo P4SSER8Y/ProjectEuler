@@ -2224,7 +2224,9 @@
         "title": "Counting summations"
     }, 
     "77": {
-        "solved": false, 
+        "answer": "71", 
+        "solved": true, 
+        "time": 2, 
         "title": "Prime summations"
     }, 
     "78": {

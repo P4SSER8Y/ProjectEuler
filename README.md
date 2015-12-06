@@ -400,6 +400,11 @@ Solved Problems
     - answer: 190569291 
     - min used time: 0 ms
 
++ 077 Prime summations [:link:](http://projecteuler.net/problem=77)  :clock1::thought_balloon:
+
+    - answer: 71 
+    - min used time: 2 ms
+
 + 079 Passcode derivation [:link:](http://projecteuler.net/problem=79)  :clock1:
 
     - answer: 73162890 
