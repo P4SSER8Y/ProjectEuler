@@ -6,7 +6,7 @@ Language
 --------
 
 + mainly Python
-+ C for acceleration
++ partly C
 
 Engines
 -------
