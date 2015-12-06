@@ -18,6 +18,14 @@ DLL_EXPORT bool isPrime(long n);
 DLL_EXPORT bool isPrimeMR(int64 n);
 bool MR_witness(int64 a, int64 n);
 int64 powMod(int64 a, int64 d, int64 n);
+DLL_EXPORT long gcd(long a, long b);
+
+DLL_EXPORT long gcd(long a, long b)
+{
+	if (!b)
+		return a;
+	return gcd(b, a % b);
+}
 
 int64 powMod(int64 a, int64 d, int64 n)
 {
