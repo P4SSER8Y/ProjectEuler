@@ -465,6 +465,16 @@ Solved Problems
     - answer: 1587000 
     - min used time: 297 ms
 
++ 116 Red, green or blue tiles [:link:](http://projecteuler.net/problem=116)  :clock1::thought_balloon:
+
+    - answer: 20492570929 
+    - min used time: 1 ms
+
++ 117 Red, green, and blue tiles [:link:](http://projecteuler.net/problem=117)  :clock1::thought_balloon:
+
+    - answer: 100808458960497 
+    - min used time: 0 ms
+
 + 119 Digit power sum [:link:](http://projecteuler.net/problem=119)  :clock1::thought_balloon:
 
     - answer: 248155780267521 

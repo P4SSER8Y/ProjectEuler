@@ -86,11 +86,15 @@
         "title": "Counting block combinations II"
     }, 
     "116": {
-        "solved": false, 
+        "answer": "20492570929", 
+        "solved": true, 
+        "time": 1, 
         "title": "Red, green or blue tiles"
     }, 
     "117": {
-        "solved": false, 
+        "answer": "100808458960497", 
+        "solved": true, 
+        "time": 0, 
         "title": "Red, green, and blue tiles"
     }, 
     "118": {
