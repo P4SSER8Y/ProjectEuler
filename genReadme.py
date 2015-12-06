@@ -1,4 +1,3 @@
-#coding:utf8
 from pedb import PEDB
 
 import os, re

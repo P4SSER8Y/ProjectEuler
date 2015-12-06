@@ -1,35 +1,35 @@
-Project Euler
-=============
-Solutions to [Project Euler](http://projecteuler.net/)
-
-Language
---------
-
-+ mainly Python
-+ C for acceleration
-
-Engines
--------
-
-+ PyPy3 2.4.0 (Python 3.2)
-+ Python 3.5
-+ gcc (with -O2 enabled)
-+ My Computer
-    - Windows 10 64-bit
-    - CPU: Intel® Core™ i5-3210M CPU @ 2.5GHz (2 Cores 4 Threads)
-    - RAM: 4GB
-
-Requirements
-============
-- itertools
-- functools
-- progressbar
-- ctypes(with gcc, make)
-- fractions
-- math
-
-Solved Problems
-===============
+Project Euler
+=============
+Solutions to [Project Euler](http://projecteuler.net/)
+
+Language
+--------
+
++ mainly Python
++ C for acceleration
+
+Engines
+-------
+
++ PyPy3 2.4.0 (Python 3.2)
++ Python 3.5
++ gcc (with -O2 enabled)
++ My Computer
+    - Windows 10 64-bit
+    - CPU: Intel® Core™ i5-3210M CPU @ 2.5GHz (2 Cores 4 Threads)
+    - RAM: 4GB
+
+Requirements
+============
+- itertools
+- functools
+- progressbar
+- ctypes(with gcc, make)
+- fractions
+- math
+
+Solved Problems
+===============
 + 001 Multiples of 3 and 5 [:link:](http://projecteuler.net/problem=1)  :clock1:
 
     - answer: 233168 
