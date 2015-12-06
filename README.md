@@ -510,6 +510,11 @@ Solved Problems
     - answer: 1389019170 
     - min used time: 1856 ms
 
++ 214 Totient Chains [:link:](http://projecteuler.net/problem=214)  :warning: 
+
+    - answer: 1677366278943 
+    - min used time: 48009979 ms
+
 + 293 Pseudo-Fortunate Numbers [:link:](http://projecteuler.net/problem=293)  :thought_balloon:
 
     - answer: 2209 
