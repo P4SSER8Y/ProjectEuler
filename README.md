@@ -465,6 +465,16 @@ Solved Problems
     - answer: 1587000 
     - min used time: 297 ms
 
++ 114 Counting block combinations I [:link:](http://projecteuler.net/problem=114)  :clock1::thought_balloon:
+
+    - answer: 16475640049 
+    - min used time: 0 ms
+
++ 115 Counting block combinations II [:link:](http://projecteuler.net/problem=115)  :clock1::thought_balloon:
+
+    - answer: 168 
+    - min used time: 15 ms
+
 + 116 Red, green or blue tiles [:link:](http://projecteuler.net/problem=116)  :clock1::thought_balloon:
 
     - answer: 20492570929 

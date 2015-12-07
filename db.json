@@ -78,11 +78,15 @@
         "title": "Non-bouncy numbers"
     }, 
     "114": {
-        "solved": false, 
+        "answer": "16475640049", 
+        "solved": true, 
+        "time": 0, 
         "title": "Counting block combinations I"
     }, 
     "115": {
-        "solved": false, 
+        "answer": "168", 
+        "solved": true, 
+        "time": 15, 
         "title": "Counting block combinations II"
     }, 
     "116": {
