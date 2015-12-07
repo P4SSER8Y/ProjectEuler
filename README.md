@@ -520,6 +520,11 @@ Solved Problems
     - answer: 986262 
     - min used time: 2229 ms
 
++ 187 Semiprimes [:link:](http://projecteuler.net/problem=187)  
+
+    - answer: 17427258 
+    - min used time: 6746 ms
+
 + 205 Dice Game [:link:](http://projecteuler.net/problem=205)  
 
     - answer: 0.5731441 
