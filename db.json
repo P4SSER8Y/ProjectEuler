@@ -42,7 +42,9 @@
         "title": "Special subset sums: meta-testing"
     }, 
     "107": {
-        "solved": false, 
+        "answer": "259679", 
+        "solved": true, 
+        "time": 0, 
         "title": "Minimal network"
     }, 
     "108": {

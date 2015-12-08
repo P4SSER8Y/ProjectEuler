@@ -460,6 +460,11 @@ Solved Problems
     - answer: 228 
     - min used time: 33 ms
 
++ 107 Minimal network [:link:](http://projecteuler.net/problem=107)  :clock1::thought_balloon:
+
+    - answer: 259679 
+    - min used time: 0 ms
+
 + 112 Bouncy numbers [:link:](http://projecteuler.net/problem=112)  
 
     - answer: 1587000 

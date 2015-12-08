@@ -1,0 +1,1 @@
+Minimal Spanning Tree (MST) problem. Using Prim-MST algorithm.
