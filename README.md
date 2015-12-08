@@ -550,6 +550,11 @@ Solved Problems
     - answer: 1677366278943 
     - min used time: 48009979 ms
 
++ 235 An Arithmetic Geometric sequence [:link:](http://projecteuler.net/problem=235)  :clock1::thought_balloon:
+
+    - answer: 1.002322108633 
+    - min used time: 22 ms
+
 + 293 Pseudo-Fortunate Numbers [:link:](http://projecteuler.net/problem=293)  :thought_balloon:
 
     - answer: 2209 
