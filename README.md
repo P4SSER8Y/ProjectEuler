@@ -560,6 +560,11 @@ Solved Problems
     - answer: 1.002322108633 
     - min used time: 22 ms
 
++ 249 Prime Subset Sums [:link:](http://projecteuler.net/problem=249)  :warning: :thought_balloon:
+
+    - answer: 9275262564250418 
+    - min used time: 133636 ms
+
 + 293 Pseudo-Fortunate Numbers [:link:](http://projecteuler.net/problem=293)  :thought_balloon:
 
     - answer: 2209 
