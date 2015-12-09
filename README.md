@@ -500,6 +500,11 @@ Solved Problems
     - answer: 333082500 
     - min used time: 0 ms
 
++ 121 Disc game prize fund [:link:](http://projecteuler.net/problem=121)  
+
+    - answer: 2269 
+    - min used time: 517 ms
+
 + 123 Prime square remainders [:link:](http://projecteuler.net/problem=123)  :thought_balloon:
 
     - answer: 21035 
