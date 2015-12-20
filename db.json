@@ -132,7 +132,9 @@
         "title": "Disc game prize fund"
     }, 
     "122": {
-        "solved": false, 
+        "answer": "1582", 
+        "solved": true, 
+        "time": 131, 
         "title": "Efficient exponentiation"
     }, 
     "123": {

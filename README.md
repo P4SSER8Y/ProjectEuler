@@ -505,6 +505,11 @@ Solved Problems
     - answer: 2269 
     - min used time: 517 ms
 
++ 122 Efficient exponentiation [:link:](http://projecteuler.net/problem=122)  
+
+    - answer: 1582 
+    - min used time: 131 ms
+
 + 123 Prime square remainders [:link:](http://projecteuler.net/problem=123)  :thought_balloon:
 
     - answer: 21035 
