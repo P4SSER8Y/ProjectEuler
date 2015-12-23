@@ -395,6 +395,11 @@ Solved Problems
     - answer: 402 
     - min used time: 5100 ms
 
++ 075 Singular integer right triangles [:link:](http://projecteuler.net/problem=75)  :thought_balloon:
+
+    - answer: 161667 
+    - min used time: 216 ms
+
 + 076 Counting summations [:link:](http://projecteuler.net/problem=76)  :clock1:
 
     - answer: 190569291 

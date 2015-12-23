@@ -2244,7 +2244,9 @@
         "title": "Digit factorial chains"
     }, 
     "75": {
-        "solved": false, 
+        "answer": "161667", 
+        "solved": true, 
+        "time": 216, 
         "title": "Singular integer right triangles"
     }, 
     "76": {
