@@ -1202,7 +1202,9 @@
         "title": "Silver dollar game"
     }, 
     "345": {
-        "solved": false, 
+        "answer": "13938", 
+        "solved": true, 
+        "time": 3, 
         "title": "Matrix Sum"
     }, 
     "346": {

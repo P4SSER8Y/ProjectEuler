@@ -31,6 +31,7 @@ Requirements
 - ctypes(with gcc, make)
 - fractions
 - math
+- NetworkX
 
 Solved Problems
 ===============

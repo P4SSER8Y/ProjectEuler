@@ -27,6 +27,7 @@ Requirements
 - ctypes(with gcc, make)
 - fractions
 - math
+- NetworkX
 
 Solved Problems
 ===============
@@ -594,6 +595,11 @@ Solved Problems
 
     - answer: CAGBIHEFJDK 
     - min used time: 10358277 ms
+
++ 345 Matrix Sum [:link:](http://projecteuler.net/problem=345)  :clock1::thought_balloon:
+
+    - answer: 13938 
+    - min used time: 15 ms
 
 + 347 Largest integer divisible by two primes [:link:](http://projecteuler.net/problem=347)  
 
