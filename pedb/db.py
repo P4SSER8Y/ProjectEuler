@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 class PEDB(object):
     def __init__(self, dbFile = 'db.json'):
@@ -23,7 +24,8 @@ class PEDB(object):
         self.db[str(num)] = t
     def writeFile(self):
         f = open(self.dbFile, 'w')
-        f.write(json.dumps(self.db, indent=4, sort_keys=True))
+        tmp = re.sub(r',\s*\n', ', \n', json.dumps(self.db, indent=4, sort_keys=True))
+        f.write(tmp)
         f.flush()
         f.close()
     def getProblem(self, n):
