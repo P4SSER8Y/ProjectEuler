@@ -2368,7 +2368,9 @@
         "title": "Almost equilateral triangles"
     }, 
     "95": {
-        "solved": false, 
+        "answer": "14316", 
+        "solved": true, 
+        "time": 700, 
         "title": "Amicable chains"
     }, 
     "96": {

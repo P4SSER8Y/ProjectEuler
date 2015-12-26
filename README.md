@@ -466,6 +466,11 @@ Solved Problems
     - answer: 1258 
     - min used time: 733 ms
 
++ 095 Amicable chains [:link:](http://projecteuler.net/problem=95)  
+
+    - answer: 14316 
+    - min used time: 700 ms
+
 + 097 Large non-Mersenne prime [:link:](http://projecteuler.net/problem=97)  :clock1:
 
     - answer: 8739992577 
