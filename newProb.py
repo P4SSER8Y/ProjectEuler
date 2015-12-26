@@ -1,6 +1,12 @@
 ﻿import os
+import sys
+import re
 
-while True:
+for s in sys.argv:
+    if re.match(r'^\d{1,3}$', s):
+        n = int(s)
+
+while not n:
     print("Please enter the new problem's number: ", end = "")
     try:
         n = int(input())

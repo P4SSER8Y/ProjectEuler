@@ -63,6 +63,7 @@ if __name__ == "__main__":
             if (input()+' ')[0] in 'yY':
                 db = PEDB()
                 db.record(pn, solved=True, time=t, answer=ans)
+                db.writeFile()
     else:
         pbs = [f for f in os.listdir('.') if re.match(r'^pr\d{3}\.py$', f)]
         pbs += [f for f in os.listdir('.') if re.match(r'^pr\d{3}$', f)]
