@@ -2292,11 +2292,15 @@
         "title": "Path sum: two ways"
     }, 
     "82": {
-        "solved": false, 
+        "answer": "260324", 
+        "solved": true, 
+        "time": 115, 
         "title": "Path sum: three ways"
     }, 
     "83": {
-        "solved": false, 
+        "answer": "425185", 
+        "solved": true, 
+        "time": 131, 
         "title": "Path sum: four ways"
     }, 
     "84": {

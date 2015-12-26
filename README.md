@@ -426,6 +426,16 @@ Solved Problems
     - answer: 427337 
     - min used time: 37 ms
 
++ 082 Path sum: three ways [:link:](http://projecteuler.net/problem=82)  :thought_balloon:
+
+    - answer: 260324 
+    - min used time: 115 ms
+
++ 083 Path sum: four ways [:link:](http://projecteuler.net/problem=83)  :thought_balloon:
+
+    - answer: 425185 
+    - min used time: 131 ms
+
 + 085 Counting rectangles [:link:](http://projecteuler.net/problem=85)  :clock1::thought_balloon:
 
     - answer: 2772 
@@ -599,7 +609,7 @@ Solved Problems
 + 345 Matrix Sum [:link:](http://projecteuler.net/problem=345)  :clock1::thought_balloon:
 
     - answer: 13938 
-    - min used time: 15 ms
+    - min used time: 3 ms
 
 + 347 Largest integer divisible by two primes [:link:](http://projecteuler.net/problem=347)  
 
