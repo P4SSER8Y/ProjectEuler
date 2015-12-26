@@ -2328,7 +2328,9 @@
         "title": "Product-sum numbers"
     }, 
     "89": {
-        "solved": false, 
+        "answer": "743", 
+        "solved": true, 
+        "time": 28, 
         "title": "Roman numerals"
     }, 
     "9": {
