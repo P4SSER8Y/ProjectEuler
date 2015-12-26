@@ -30,7 +30,9 @@
         "title": "Special subset sums: optimum"
     }, 
     "104": {
-        "solved": false, 
+        "answer": "329468", 
+        "solved": true, 
+        "time": 982, 
         "title": "Pandigital Fibonacci ends"
     }, 
     "105": {

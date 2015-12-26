@@ -481,6 +481,11 @@ Solved Problems
     - answer: 228 
     - min used time: 33 ms
 
++ 104 Pandigital Fibonacci ends [:link:](http://projecteuler.net/problem=104)  :thought_balloon:
+
+    - answer: 329468 
+    - min used time: 982 ms
+
 + 107 Minimal network [:link:](http://projecteuler.net/problem=107)  :clock1::thought_balloon:
 
     - answer: 259679 
