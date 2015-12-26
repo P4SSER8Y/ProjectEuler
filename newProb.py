@@ -3,6 +3,7 @@ import sys
 import re
 
 for s in sys.argv:
+    n = None
     if re.match(r'^\d{1,3}$', s):
         n = int(s)
 
