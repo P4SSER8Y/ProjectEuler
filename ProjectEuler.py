@@ -44,8 +44,11 @@ if __name__ == "__main__":
     print(platform.python_implementation(), platform.architecture()[0])
     print("Python " + platform.python_version())
     print()
-    print("Please Enter the Problem Number: ", end = "")
-    t = input()
+    if len(sys.argv) <= 1:
+        print("Please Enter the Problem Number: ", end = "")
+        t = input()
+    else:
+        t = sys.argv[1]
     if re.match(r'^\s*\d+\s*$', t):
         pn = int(t)
         if pn == 0:
