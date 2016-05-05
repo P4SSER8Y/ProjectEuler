@@ -1,4 +1,6 @@
+#!/usr/bin/python3
 #encoding:utf8
+
 from pedb import PEDB
 from time import time
 from importlib import import_module
