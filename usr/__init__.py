@@ -1,12 +1,15 @@
 #coding: utf8
 from ctypes import *
-from platform import architecture
+import platform
 import os
 
-if architecture()[0] == "64bit":
-    usr = CDLL(os.path.split(os.path.realpath(__file__))[0] + r'\usr.dll') 
-else:
-    usr = CDLL(os.path.split(os.path.realpath(__file__))[0] + r'\usr_32.dll') 
+if platform.system() == 'Windows':
+    if platform.architecture()[0] == "64bit":
+        usr = CDLL(os.path.split(os.path.realpath(__file__))[0] + r'\usr.dll') 
+    else:
+        usr = CDLL(os.path.split(os.path.realpath(__file__))[0] + r'\usr_32.dll') 
+elif platform.system() == 'Linux':
+    usr = CDLL(os.path.split(os.path.realpath(__file__))[0] + r'/usr.so')
 
 
 usr.isPrime.argtypes = [c_long]

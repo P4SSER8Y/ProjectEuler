@@ -4,11 +4,11 @@
     #define DLL_EXPORT
 #endif
 
-#define int64 __int64
-
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdbool.h>
+
+#define int64 long long
 
 int cmpGetFactors(const void *a, const void* b);
 DLL_EXPORT long* getPrimeFactors(long n);
