@@ -1,7 +1,7 @@
-﻿from os.path import split, realpath
+﻿from os.path import split, realpath, sep
 
 def run():
-    f = open(split(realpath(__file__))[0]+'\\data067.txt', 'r')
+    f = open(split(realpath(__file__))[0]+sep+'data067.txt', 'r')
     lines = f.readlines()
     f.close()
     f = []

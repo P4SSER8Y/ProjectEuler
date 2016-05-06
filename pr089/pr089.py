@@ -46,7 +46,7 @@ def n2r(n):
 def pr089():
     ret = 0
 
-    f = open(path.split(path.realpath(__file__))[0] + '\\data089.txt', 'r')
+    f = open(path.split(path.realpath(__file__))[0] + path.sep + 'data089.txt', 'r')
     for s in f.readlines():
         origin = re.findall(r'[A-Z]+', s)[0]
         n = r2n(origin)

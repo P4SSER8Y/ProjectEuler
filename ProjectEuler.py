@@ -41,6 +41,8 @@ def run(problem):
     return answer, int(t2 - t1)
 
 if __name__ == "__main__":
+    os.chdir(os.path.split(os.path.realpath(__file__))[0])
+
     print(platform.python_implementation(), platform.architecture()[0])
     print("Python " + platform.python_version())
     print()

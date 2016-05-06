@@ -4,7 +4,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 def pr082():
-    f = open(path.split(path.realpath(__file__))[0] + '\\data082.txt', 'r')
+    f = open(path.split(path.realpath(__file__))[0] + path.sep + 'data082.txt', 'r')
     data = []
     for x in f.readlines():
         data.append(list(map(int, x.split(','))))

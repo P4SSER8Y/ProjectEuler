@@ -1,10 +1,10 @@
 #coding:utf8
-from os.path import split, realpath
+from os.path import split, realpath, sep
 
 def readData():
     MAX_INT = 2147483647
     data = []
-    f = open(split(realpath(__file__))[0] + "\\data107.txt", 'r')
+    f = open(split(realpath(__file__))[0] + sep + "data107.txt", 'r')
     for s in f.readlines():
         data.append([])
         for d in s.split(','): 

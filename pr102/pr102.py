@@ -9,7 +9,7 @@ def crossProduct(A, B, C, D):
     return x1*y2-x2*y1
 
 def pr102():
-    f = open(path.split(path.realpath(__file__))[0]+'\\data102.txt', 'r')
+    f = open(path.split(path.realpath(__file__))[0]+path.sep+'data102.txt', 'r')
     data = f.readlines()
     f.close()
 
@@ -32,5 +32,5 @@ def run():
     return pr102()
 
 if __name__ == "__main__":
-    print run()
+    print(run())
 

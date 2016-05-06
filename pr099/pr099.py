@@ -1,6 +1,6 @@
 #coding:utf8
 from __future__ import division
-from os.path import realpath, split
+from os.path import realpath, split, sep 
 from math import log
 
 class SuperFloat(object):
@@ -29,7 +29,7 @@ def superPow(a, b):
         return superPow(a * a, b >> 1) * a
 
 def pr099():
-    f = open(split(realpath(__file__))[0] + '\\data099.txt')
+    f = open(split(realpath(__file__))[0] + sep + 'data099.txt')
     maxN = 0
     maxK = 0
     k = 0
